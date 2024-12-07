@@ -3,9 +3,6 @@ import json
 import schedule
 import time
 
-# chat_id = -1002261380303 (grup AI/testing) , -1002480946780 (channel catatan skb), -1002199224078 (grup diskusi skb)
-# token = 7822122704:AAG53aitpT0LSvmGY0jfL9xBC15Dr9yBnxg (Nami), 7265588452:AAGjRY77LhnYmqhi7PeIs-JdYwqNeSl1m5U (Chopper)
-
 def send_quiz(chat_id, question, options, correct_option_id):
     base_url = "https://api.telegram.org/bot7822122704:AAG53aitpT0LSvmGY0jfL9xBC15Dr9yBnxg/sendPoll"  # Replace with your actual bot token
     parameters = {
@@ -24,16 +21,37 @@ def send_quiz(chat_id, question, options, correct_option_id):
         print(f"Error sending quiz: {e}")
 
 def job():
-    with open('quizzes.json', 'r') as f:
-        data = json.load(f)
-        for quiz in data['quizzes']:
-            send_quiz(quiz['chat_id'], quiz['question'], quiz['options'], quiz['correct_option_id'])
-            time.sleep(300)  # Jeda selama 10 menit (60 detik = 1 menit)
+    sent_quizzes = set()
+    try:
+        with open('sent_quizzes.json', 'r') as f:
+            sent_quizzes.update(json.load(f))
+    except FileNotFoundError:
+        pass
 
-# Schedule adjusted to every 10 minutes (change as needed) jika menit=minutes, jika detik=seconds
-schedule.every(1).seconds.do(job)
-# Jadwalkan pengiriman kuis setiap kali program dijalankan
-# schedule.every().day.at("07:11", "Asia/Jakarta").do(job)
+    with open('sent_quizzes.json', 'r') as f:
+        data = json.load(f)
+        quizzes = data['quizzes']
+		
+        quiz_index = 0  # Initialize counter at 0 (first element)
+        while quiz_index < len(quizzes):
+            quiz = quizzes[quiz_index]  # Access quiz based on counter
+
+            # Mulai dari ID 1 dan increment secara otomatis
+            next_id = 1
+            for quiz in quizzes:
+                # Jika 'id' tidak ada, berikan ID yang sudah ditentukan
+                if 'id' not in quiz:
+                    quiz['id'] = next_id
+                    next_id += 1
+
+                if quiz['id'] not in sent_quizzes:
+                    send_quiz(quiz['chat_id'], quiz['question'], quiz['options'], quiz['correct_option_id'])
+                    sent_quizzes.add(quiz['id'])
+                    time.sleep(60) #tidur bentar 1 menit
+        
+        quiz_index += 1  # Increment counter after processing
+
+schedule.every(1).seconds.do(job)  # Change to desired scheduling interval
 
 while True:
     schedule.run_pending()
