@@ -51,7 +51,7 @@ def job():
         
         quiz_index += 1  # Increment counter after processing
 
-schedule.every().day.at("21:30", "Asia/Jakarta").do(job)  # Change to desired scheduling interval
+# schedule.every().day.at("21:30", "Asia/Jakarta").do(job)  # Change to desired scheduling interval
 
 while True:
     schedule.run_pending()
