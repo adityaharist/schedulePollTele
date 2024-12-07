@@ -1,0 +1,459 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 1 ayat (1), kepada siapa Kementerian Ketenagakerjaan bertanggung jawab?",
+      "options": [
+        "Wakil Menteri",
+        "Presiden",
+        "Dewan Perwakilan Rakyat",
+        "Kementerian Hukum dan HAM",
+        "Sekretaris Jenderal"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 2,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas Wakil Menteri Ketenagakerjaan menurut Pasal 2 ayat (4)?",
+      "options": [
+        "Menyusun undang-undang",
+        "Membantu Menteri dalam memimpin pelaksanaan tugas Kementerian",
+        "Melaksanakan tugas teknis operasional",
+        "Mengawasi anggaran kementerian",
+        "Menyusun laporan tahunan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 3,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 6, apa saja bagian dari Susunan Organisasi Kementerian Ketenagakerjaan?",
+      "options": [
+        "Sekretariat Jenderal dan Direktorat Jenderal Pembinaan Hubungan Industrial",
+        "Inspektorat Jenderal dan Badan Perencanaan Nasional",
+        "Sekretariat Jenderal dan Kementerian Pendidikan",
+        "Dewan Perwakilan Rakyat dan Inspektorat Jenderal",
+        "Sekretariat Jenderal dan Direktorat Jenderal Pembinaan Pelatihan Vokasi"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 4,
+      "chat_id": "-1002261380303",
+      "question": "Apa fungsi utama Sekretariat Jenderal menurut Pasal 8?",
+      "options": [
+        "Menyelenggarakan pengawasan intern",
+        "Menyelenggarakan koordinasi pelaksanaan tugas dan dukungan administrasi",
+        "Melaksanakan evaluasi hubungan kerja internasional",
+        "Mengelola teknologi informasi dan data ketenagakerjaan",
+        "Melaksanakan pembinaan vokasi tenaga kerja"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 5,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 45, Peraturan Presiden mana yang dicabut dengan berlakunya Peraturan Presiden Nomor 95 Tahun 2020?",
+      "options": [
+        "Peraturan Presiden Nomor 18 Tahun 2015",
+        "Peraturan Presiden Nomor 39 Tahun 2008",
+        "Peraturan Presiden Nomor 68 Tahun 2019",
+        "Peraturan Presiden Nomor 60 Tahun 2012",
+        "Peraturan Presiden Nomor 67 Tahun 2019"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 6,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas menurut Pasal 11?",
+      "options": [
+        "Mengawasi keselamatan kerja di perusahaan",
+        "Melakukan pelatihan kepemimpinan",
+        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja",
+        "Menyusun laporan keuangan kementerian",
+        "Membentuk peraturan terkait ketenagakerjaan internasional"
+      ],
+      "correct_option_id": 2
+    },
+	{
+      "id": 7,
+      "chat_id": "-1002261380303",
+      "question": "Apa saja fungsi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas menurut Pasal 12?",
+      "options": [
+        "Menyusun rencana strategis pengembangan industri tenaga kerja",
+        "Membuat norma, standar, prosedur, dan kriteria di bidang pelatihan vokasi",
+        "Menyelenggarakan pengawasan hubungan industrial",
+        "Memberikan pelatihan keselamatan kerja",
+        "Membangun kerja sama internasional di bidang produktivitas"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 8,
+      "chat_id": "-1002261380303",
+      "question": "Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja bertanggung jawab kepada siapa menurut Pasal 13 ayat (1)?",
+      "options": [
+        "Sekretaris Jenderal",
+        "Wakil Menteri",
+        "Menteri",
+        "Inspektur Jenderal",
+        "Presiden"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 9,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja menurut Pasal 14?",
+      "options": [
+        "Menyusun kebijakan jaminan sosial tenaga kerja",
+        "Melaksanakan pengawasan atas norma keselamatan kerja",
+        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang penempatan tenaga kerja dan perluasan kesempatan kerja",
+        "Membina hubungan internasional terkait pekerja migran",
+        "Menyusun laporan evaluasi produktivitas kerja"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 10,
+      "chat_id": "-1002261380303",
+      "question": "Apa saja fungsi Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja menurut Pasal 15?",
+      "options": [
+        "Melakukan evaluasi dan laporan terkait kebijakan ketenagakerjaan",
+        "Mengawasi pelaksanaan hubungan industrial dan upah minimum",
+        "Menyusun norma, standar, prosedur, dan kriteria di bidang penempatan dan perlindungan tenaga kerja dalam dan luar negeri",
+        "Membangun hubungan antarlembaga terkait penempatan tenaga kerja",
+        "Memberikan bantuan teknis dalam perencanaan pengawasan tenaga kerja"
+      ],
+      "correct_option_id": 2
+    },
+	{
+      "id": 11,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 16 ayat (1), Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja bertanggung jawab kepada siapa?",
+      "options": [
+        "Presiden",
+        "Sekretaris Jenderal",
+        "Inspektur Jenderal",
+        "Menteri",
+        "Wakil Menteri"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 12,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja menurut Pasal 17?",
+      "options": [
+        "Melaksanakan pengawasan intern",
+        "Menyusun peraturan terkait keselamatan kerja",
+        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang hubungan industrial dan jaminan sosial tenaga kerja",
+        "Mengelola data dan informasi ketenagakerjaan",
+        "Melakukan koordinasi antarunit kementerian"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 13,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 18, apa fungsi dari Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja?",
+      "options": [
+        "Membina hubungan kerja internasional di bidang ketenagakerjaan",
+        "Menyusun norma, standar, prosedur, dan kriteria di bidang hubungan kerja dan pengupahan",
+        "Mengawasi pelaksanaan pelatihan vokasi",
+        "Mengelola anggaran kementerian terkait hubungan industrial",
+        "Menyusun evaluasi tahunan produktivitas tenaga kerja"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 14,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 19 ayat (1), Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja bertanggung jawab kepada siapa?",
+      "options": [
+        "Inspektur Jenderal",
+        "Menteri",
+        "Sekretaris Jenderal",
+        "Wakil Menteri",
+        "Presiden"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 15,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja menurut Pasal 20?",
+      "options": [
+        "Melakukan audit laporan tahunan kementerian",
+        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pembinaan pengawasan ketenagakerjaan dan keselamatan dan kesehatan kerja",
+        "Mengembangkan standar baru dalam hubungan industrial",
+        "Mengelola teknologi informasi kementerian",
+        "Memberikan rekomendasi peraturan ketenagakerjaan kepada Presiden"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 16,
+      "chat_id": "-1002261380303",
+      "question": "Apa fungsi Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja menurut Pasal 21?",
+      "options": [
+        "Menyusun laporan anggaran",
+        "Membangun hubungan internasional terkait pengawasan kerja",
+        "Menyusun norma, standar, prosedur, dan kriteria di bidang kelembagaan keselamatan dan kesehatan kerja",
+        "Melakukan pembinaan hubungan kerja antarunit kementerian",
+        "Mengawasi produktivitas tenaga kerja nasional"
+      ],
+      "correct_option_id": 2
+    },
+	{
+      "id": 17,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 22 ayat (1), Inspektorat Jenderal berada di bawah dan bertanggung jawab kepada siapa?",
+      "options": [
+        "Presiden",
+        "Menteri",
+        "Sekretaris Jenderal",
+        "Wakil Menteri",
+        "Direktur Jenderal"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 18,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas utama Inspektorat Jenderal menurut Pasal 23?",
+      "options": [
+        "Melakukan evaluasi produktivitas tenaga kerja",
+        "Menyelenggarakan pengawasan intern di lingkungan Kementerian Ketenagakerjaan",
+        "Melaksanakan pengawasan hubungan kerja internasional",
+        "Mengelola data dan informasi ketenagakerjaan",
+        "Menyusun norma dan standar kerja"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 19,
+      "chat_id": "-1002261380303",
+      "question": "Apa saja fungsi Inspektorat Jenderal menurut Pasal 24?",
+      "options": [
+        "Melaksanakan pengawasan intern terhadap kinerja dan keuangan",
+        "Menyusun kebijakan pengembangan pelatihan vokasi",
+        "Melakukan koordinasi pelaksanaan tugas kementerian",
+        "Mengelola anggaran kementerian",
+        "Mengawasi pelaksanaan peraturan ketenagakerjaan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 20,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 25 ayat (1), kepada siapa Badan Perencanaan dan Pengembangan Ketenagakerjaan bertanggung jawab?",
+      "options": [
+        "Presiden",
+        "Menteri",
+        "Sekretaris Jenderal",
+        "Inspektur Jenderal",
+        "Wakil Menteri"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 21,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas utama Badan Perencanaan dan Pengembangan Ketenagakerjaan menurut Pasal 26?",
+      "options": [
+        "Mengelola anggaran kementerian",
+        "Melaksanakan pengawasan hubungan kerja",
+        "Menyelenggarakan dukungan perencanaan ketenagakerjaan nasional, pengelolaan teknologi informasi, dan pengembangan kebijakan di bidang ketenagakerjaan",
+        "Menyusun norma, standar, dan kriteria hubungan kerja",
+        "Membina hubungan industrial di daerah"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 22,
+      "chat_id": "-1002261380303",
+      "question": "Apa fungsi dari Badan Perencanaan dan Pengembangan Ketenagakerjaan menurut Pasal 27?",
+      "options": [
+        "Menyusun laporan tahunan kementerian",
+        "Melakukan evaluasi dan pelaporan di bidang perencanaan ketenagakerjaan nasional",
+        "Mengembangkan hubungan internasional terkait ketenagakerjaan",
+        "Mengawasi pelaksanaan kebijakan keselamatan kerja",
+        "Membina hubungan antarunit kementerian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 23,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 28, di bawah siapa Staf Ahli berada dan bertanggung jawab?",
+      "options": [
+        "Presiden",
+        "Menteri",
+        "Sekretaris Jenderal",
+        "Direktur Jenderal",
+        "Wakil Menteri"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 24,
+      "chat_id": "-1002261380303",
+      "question": "Apa tugas Staf Ahli Bidang Ekonomi Ketenagakerjaan menurut Pasal 29 ayat (1)?",
+      "options": [
+        "Memberikan rekomendasi terhadap isu-isu strategis kepada Menteri terkait dengan bidang ekonomi ketenagakerjaan",
+        "Menyusun kebijakan vokasi tenaga kerja",
+        "Mengelola teknologi informasi ketenagakerjaan",
+        "Menyusun laporan evaluasi hubungan kerja",
+        "Mengawasi pelaksanaan kebijakan jaminan sosial tenaga kerja"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 25,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 30, jabatan fungsional di lingkungan Kementerian Ketenagakerjaan ditetapkan berdasarkan apa?",
+      "options": [
+        "Keputusan Presiden",
+        "Analisis beban kerja",
+        "Ketentuan peraturan perundang-undangan",
+        "Kebutuhan mendesak kementerian",
+        "Evaluasi tahunan"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 26,
+      "chat_id": "-1002261380303",
+      "question": "Apa tujuan pembentukan Unit Pelaksana Teknis (UPT) menurut Pasal 31 ayat (1)?",
+      "options": [
+        "Melaksanakan tugas teknis operasional dan/atau tugas teknis penunjang di lingkungan Kementerian Ketenagakerjaan",
+        "Menyusun laporan anggaran kementerian",
+        "Mengawasi pelaksanaan hubungan industrial",
+        "Membina hubungan kerja antarunit organisasi",
+        "Mengelola data ketenagakerjaan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 27,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 33, apa yang harus diterapkan oleh Menteri dalam melaksanakan tugas dan fungsinya?",
+      "options": [
+        "Sistem akuntabilitas kinerja instansi pemerintah",
+        "Pengelolaan anggaran yang efisien",
+        "Penyusunan norma dan standar kerja",
+        "Evaluasi tahunan produktivitas",
+        "Kerja sama dengan lembaga internasional"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 28,
+      "chat_id": "-1002261380303",
+      "question": "Apa kewajiban Kementerian Ketenagakerjaan menurut Pasal 36?",
+      "options": [
+        "Mengelola hubungan internasional terkait tenaga kerja",
+        "Menyusun analisis jabatan, peta jabatan, analisis beban kerja, dan uraian tugas terhadap seluruh jabatan",
+        "Melakukan evaluasi anggaran setiap tahun",
+        "Menyusun norma dan standar hubungan kerja",
+        "Mengembangkan teknologi informasi tenaga kerja"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 29,
+      "chat_id": "-1002261380303",
+      "question": "Apa prinsip yang harus diterapkan oleh setiap unsur Kementerian Ketenagakerjaan menurut Pasal 37?",
+      "options": [
+        "Koordinasi, integrasi, dan sinkronisasi",
+        "Efisiensi, efektivitas, dan akuntabilitas",
+        "Kolaborasi, partisipasi, dan inovasi",
+        "Pengawasan, evaluasi, dan pelaporan",
+        "Keterbukaan, transparansi, dan responsivitas"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 30,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 38, apa sistem yang harus diterapkan oleh semua unsur di lingkungan Kementerian Ketenagakerjaan?",
+      "options": [
+        "Sistem akuntabilitas instansi pemerintah",
+        "Sistem pengendalian intern pemerintah",
+        "Sistem informasi manajemen kerja",
+        "Sistem evaluasi kinerja kementerian",
+        "Sistem pemantauan hubungan kerja"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 31,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 41, pendanaan untuk pelaksanaan tugas dan fungsi Kementerian Ketenagakerjaan dibebankan kepada apa?",
+      "options": [
+        "Anggaran Pendapatan dan Belanja Negara",
+        "Dana bantuan internasional",
+        "Anggaran kementerian lain",
+        "Pendapatan daerah",
+        "Pinjaman luar negeri"
+      ],
+      "correct_option_id": 0
+    },
+	{
+      "id": 32,
+      "chat_id": "-1002261380303",
+      "question": "Menurut Pasal 42, siapa yang harus memberikan persetujuan tertulis untuk penetapan tugas, fungsi, susunan organisasi, dan tata kerja Kementerian Ketenagakerjaan?",
+      "options": [
+        "Presiden",
+        "Menteri Keuangan",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Dewan Perwakilan Rakyat",
+        "Sekretaris Jenderal"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 33,
+      "chat_id": "-1002261380303",
+      "question": "Apa ketentuan mengenai pelaksanaan jabatan yang ada di lingkungan Kementerian Ketenagakerjaan saat berlakunya Peraturan Presiden ini menurut Pasal 44?",
+      "options": [
+        "Semua jabatan akan dihapus dan diganti",
+        "Jabatan dan pejabat yang ada tetap melaksanakan tugas dan fungsinya sampai dibentuknya jabatan baru",
+        "Semua jabatan akan diintegrasikan dengan kementerian lain",
+        "Hanya jabatan struktural yang tetap berlaku",
+        "Semua jabatan di lingkungan kementerian akan dibekukan sementara"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 34,
+      "chat_id": "-1002261380303",
+      "question": "Apa yang dicabut dengan berlakunya Peraturan Presiden Nomor 95 Tahun 2020 sesuai dengan Pasal 45?",
+      "options": [
+        "Peraturan Presiden Nomor 67 Tahun 2019",
+        "Peraturan Presiden Nomor 18 Tahun 2015",
+        "Peraturan Presiden Nomor 39 Tahun 2008",
+        "Peraturan Presiden Nomor 68 Tahun 2019",
+        "Peraturan Presiden Nomor 60 Tahun 2012"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 35,
+      "chat_id": "-1002261380303",
+      "question": "Kapan Peraturan Presiden Nomor 95 Tahun 2020 mulai berlaku menurut Pasal 46?",
+      "options": [
+        "Pada tanggal ditetapkan",
+        "Pada tanggal diundangkan",
+        "Tiga bulan setelah ditetapkan",
+        "Enam bulan setelah diundangkan",
+        "Satu tahun setelah ditetapkan"
+      ],
+      "correct_option_id": 1
+    }
+  ]
+}
