@@ -47,11 +47,11 @@ def job():
                 if quiz['id'] not in sent_quizzes:
                     send_quiz(quiz['chat_id'], quiz['question'], quiz['options'], quiz['correct_option_id'])
                     sent_quizzes.add(quiz['id'])
-                    time.sleep(300) #tidur bentar 1 menit
+                    time.sleep(300) #tidur bentar 5 menit / delay
         
         quiz_index += 1  # Increment counter after processing
 
-schedule.every(1).seconds.do(job)  # Change to desired scheduling interval
+schedule.every().day.at("21:30", "Asia/Jakarta").do(job)  # Change to desired scheduling interval
 
 while True:
     schedule.run_pending()
