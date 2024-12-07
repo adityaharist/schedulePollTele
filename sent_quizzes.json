@@ -1,394 +1,914 @@
 {
-  "quizzes": [
-    {
-      "id": 6,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas menurut Pasal 11?",
-      "options": [
-        "Mengawasi keselamatan kerja di perusahaan",
-        "Melakukan pelatihan kepemimpinan",
-        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja",
-        "Menyusun laporan keuangan kementerian",
-        "Membentuk peraturan terkait ketenagakerjaan internasional"
-      ],
-      "correct_option_id": 2
-    },
-	{
-      "id": 7,
-      "chat_id": "-1002199224078",
-      "question": "Apa saja fungsi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas menurut Pasal 12?",
-      "options": [
-        "Menyusun rencana strategis pengembangan industri tenaga kerja",
-        "Membuat norma, standar, prosedur, dan kriteria di bidang pelatihan vokasi",
-        "Menyelenggarakan pengawasan hubungan industrial",
-        "Memberikan pelatihan keselamatan kerja",
-        "Membangun kerja sama internasional di bidang produktivitas"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 8,
-      "chat_id": "-1002199224078",
-      "question": "Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja bertanggung jawab kepada siapa menurut Pasal 13 ayat (1)?",
-      "options": [
-        "Sekretaris Jenderal",
-        "Wakil Menteri",
-        "Menteri",
-        "Inspektur Jenderal",
-        "Presiden"
-      ],
-      "correct_option_id": 2
-    },
-    {
-      "id": 9,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja menurut Pasal 14?",
-      "options": [
-        "Menyusun kebijakan jaminan sosial tenaga kerja",
-        "Melaksanakan pengawasan atas norma keselamatan kerja",
-        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang penempatan tenaga kerja dan perluasan kesempatan kerja",
-        "Membina hubungan internasional terkait pekerja migran",
-        "Menyusun laporan evaluasi produktivitas kerja"
-      ],
-      "correct_option_id": 2
-    },
-    {
-      "id": 10,
-      "chat_id": "-1002199224078",
-      "question": "Apa saja fungsi Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja menurut Pasal 15?",
-      "options": [
-        "Melakukan evaluasi dan laporan terkait kebijakan ketenagakerjaan",
-        "Mengawasi pelaksanaan hubungan industrial dan upah minimum",
-        "Menyusun norma, standar, prosedur, dan kriteria di bidang penempatan dan perlindungan tenaga kerja dalam dan luar negeri",
-        "Membangun hubungan antarlembaga terkait penempatan tenaga kerja",
-        "Memberikan bantuan teknis dalam perencanaan pengawasan tenaga kerja"
-      ],
-      "correct_option_id": 2
-    },
-	{
-      "id": 11,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 16 ayat (1), Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja bertanggung jawab kepada siapa?",
-      "options": [
-        "Presiden",
-        "Sekretaris Jenderal",
-        "Inspektur Jenderal",
-        "Menteri",
-        "Wakil Menteri"
-      ],
-      "correct_option_id": 3
-    },
-    {
-      "id": 12,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja menurut Pasal 17?",
-      "options": [
-        "Melaksanakan pengawasan intern",
-        "Menyusun peraturan terkait keselamatan kerja",
-        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang hubungan industrial dan jaminan sosial tenaga kerja",
-        "Mengelola data dan informasi ketenagakerjaan",
-        "Melakukan koordinasi antarunit kementerian"
-      ],
-      "correct_option_id": 2
-    },
-    {
-      "id": 13,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 18, apa fungsi dari Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja?",
-      "options": [
-        "Membina hubungan kerja internasional di bidang ketenagakerjaan",
-        "Menyusun norma, standar, prosedur, dan kriteria di bidang hubungan kerja dan pengupahan",
-        "Mengawasi pelaksanaan pelatihan vokasi",
-        "Mengelola anggaran kementerian terkait hubungan industrial",
-        "Menyusun evaluasi tahunan produktivitas tenaga kerja"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 14,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 19 ayat (1), Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja bertanggung jawab kepada siapa?",
-      "options": [
-        "Inspektur Jenderal",
-        "Menteri",
-        "Sekretaris Jenderal",
-        "Wakil Menteri",
-        "Presiden"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 15,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas utama Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja menurut Pasal 20?",
-      "options": [
-        "Melakukan audit laporan tahunan kementerian",
-        "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pembinaan pengawasan ketenagakerjaan dan keselamatan dan kesehatan kerja",
-        "Mengembangkan standar baru dalam hubungan industrial",
-        "Mengelola teknologi informasi kementerian",
-        "Memberikan rekomendasi peraturan ketenagakerjaan kepada Presiden"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 16,
-      "chat_id": "-1002199224078",
-      "question": "Apa fungsi Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja menurut Pasal 21?",
-      "options": [
-        "Menyusun laporan anggaran",
-        "Membangun hubungan internasional terkait pengawasan kerja",
-        "Menyusun norma, standar, prosedur, dan kriteria di bidang kelembagaan keselamatan dan kesehatan kerja",
-        "Melakukan pembinaan hubungan kerja antarunit kementerian",
-        "Mengawasi produktivitas tenaga kerja nasional"
-      ],
-      "correct_option_id": 2
-    },
-	{
-      "id": 17,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 22 ayat (1), Inspektorat Jenderal berada di bawah dan bertanggung jawab kepada siapa?",
-      "options": [
-        "Presiden",
-        "Menteri",
-        "Sekretaris Jenderal",
-        "Wakil Menteri",
-        "Direktur Jenderal"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 18,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas utama Inspektorat Jenderal menurut Pasal 23?",
-      "options": [
-        "Melakukan evaluasi produktivitas tenaga kerja",
-        "Menyelenggarakan pengawasan intern di lingkungan Kementerian Ketenagakerjaan",
-        "Melaksanakan pengawasan hubungan kerja internasional",
-        "Mengelola data dan informasi ketenagakerjaan",
-        "Menyusun norma dan standar kerja"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 19,
-      "chat_id": "-1002199224078",
-      "question": "Apa saja fungsi Inspektorat Jenderal menurut Pasal 24?",
-      "options": [
-        "Melaksanakan pengawasan intern terhadap kinerja dan keuangan",
-        "Menyusun kebijakan pengembangan pelatihan vokasi",
-        "Melakukan koordinasi pelaksanaan tugas kementerian",
-        "Mengelola anggaran kementerian",
-        "Mengawasi pelaksanaan peraturan ketenagakerjaan"
-      ],
-      "correct_option_id": 0
-    },
-    {
-      "id": 20,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 25 ayat (1), kepada siapa Badan Perencanaan dan Pengembangan Ketenagakerjaan bertanggung jawab?",
-      "options": [
-        "Presiden",
-        "Menteri",
-        "Sekretaris Jenderal",
-        "Inspektur Jenderal",
-        "Wakil Menteri"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 21,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas utama Badan Perencanaan dan Pengembangan Ketenagakerjaan menurut Pasal 26?",
-      "options": [
-        "Mengelola anggaran kementerian",
-        "Melaksanakan pengawasan hubungan kerja",
-        "Menyelenggarakan dukungan perencanaan ketenagakerjaan nasional, pengelolaan teknologi informasi, dan pengembangan kebijakan di bidang ketenagakerjaan",
-        "Menyusun norma, standar, dan kriteria hubungan kerja",
-        "Membina hubungan industrial di daerah"
-      ],
-      "correct_option_id": 2
-    },
-    {
-      "id": 22,
-      "chat_id": "-1002199224078",
-      "question": "Apa fungsi dari Badan Perencanaan dan Pengembangan Ketenagakerjaan menurut Pasal 27?",
-      "options": [
-        "Menyusun laporan tahunan kementerian",
-        "Melakukan evaluasi dan pelaporan di bidang perencanaan ketenagakerjaan nasional",
-        "Mengembangkan hubungan internasional terkait ketenagakerjaan",
-        "Mengawasi pelaksanaan kebijakan keselamatan kerja",
-        "Membina hubungan antarunit kementerian"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 23,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 28, di bawah siapa Staf Ahli berada dan bertanggung jawab?",
-      "options": [
-        "Presiden",
-        "Menteri",
-        "Sekretaris Jenderal",
-        "Direktur Jenderal",
-        "Wakil Menteri"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 24,
-      "chat_id": "-1002199224078",
-      "question": "Apa tugas Staf Ahli Bidang Ekonomi Ketenagakerjaan menurut Pasal 29 ayat (1)?",
-      "options": [
-        "Memberikan rekomendasi terhadap isu-isu strategis kepada Menteri terkait dengan bidang ekonomi ketenagakerjaan",
-        "Menyusun kebijakan vokasi tenaga kerja",
-        "Mengelola teknologi informasi ketenagakerjaan",
-        "Menyusun laporan evaluasi hubungan kerja",
-        "Mengawasi pelaksanaan kebijakan jaminan sosial tenaga kerja"
-      ],
-      "correct_option_id": 0
-    },
-    {
-      "id": 25,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 30, jabatan fungsional di lingkungan Kementerian Ketenagakerjaan ditetapkan berdasarkan apa?",
-      "options": [
-        "Keputusan Presiden",
-        "Analisis beban kerja",
-        "Ketentuan peraturan perundang-undangan",
-        "Kebutuhan mendesak kementerian",
-        "Evaluasi tahunan"
-      ],
-      "correct_option_id": 2
-    },
-    {
-      "id": 26,
-      "chat_id": "-1002199224078",
-      "question": "Apa tujuan pembentukan Unit Pelaksana Teknis (UPT) menurut Pasal 31 ayat (1)?",
-      "options": [
-        "Melaksanakan tugas teknis operasional dan/atau tugas teknis penunjang di lingkungan Kementerian Ketenagakerjaan",
-        "Menyusun laporan anggaran kementerian",
-        "Mengawasi pelaksanaan hubungan industrial",
-        "Membina hubungan kerja antarunit organisasi",
-        "Mengelola data ketenagakerjaan"
-      ],
-      "correct_option_id": 0
-    },
-    {
-      "id": 27,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 33, apa yang harus diterapkan oleh Menteri dalam melaksanakan tugas dan fungsinya?",
-      "options": [
-        "Sistem akuntabilitas kinerja instansi pemerintah",
-        "Pengelolaan anggaran yang efisien",
-        "Penyusunan norma dan standar kerja",
-        "Evaluasi tahunan produktivitas",
-        "Kerja sama dengan lembaga internasional"
-      ],
-      "correct_option_id": 0
-    },
-    {
-      "id": 28,
-      "chat_id": "-1002199224078",
-      "question": "Apa kewajiban Kementerian Ketenagakerjaan menurut Pasal 36?",
-      "options": [
-        "Mengelola hubungan internasional terkait tenaga kerja",
-        "Menyusun analisis jabatan, peta jabatan, analisis beban kerja, dan uraian tugas terhadap seluruh jabatan",
-        "Melakukan evaluasi anggaran setiap tahun",
-        "Menyusun norma dan standar hubungan kerja",
-        "Mengembangkan teknologi informasi tenaga kerja"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 29,
-      "chat_id": "-1002199224078",
-      "question": "Apa prinsip yang harus diterapkan oleh setiap unsur Kementerian Ketenagakerjaan menurut Pasal 37?",
-      "options": [
-        "Koordinasi, integrasi, dan sinkronisasi",
-        "Efisiensi, efektivitas, dan akuntabilitas",
-        "Kolaborasi, partisipasi, dan inovasi",
-        "Pengawasan, evaluasi, dan pelaporan",
-        "Keterbukaan, transparansi, dan responsivitas"
-      ],
-      "correct_option_id": 0
-    },
-    {
-      "id": 30,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 38, apa sistem yang harus diterapkan oleh semua unsur di lingkungan Kementerian Ketenagakerjaan?",
-      "options": [
-        "Sistem akuntabilitas instansi pemerintah",
-        "Sistem pengendalian intern pemerintah",
-        "Sistem informasi manajemen kerja",
-        "Sistem evaluasi kinerja kementerian",
-        "Sistem pemantauan hubungan kerja"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 31,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 41, pendanaan untuk pelaksanaan tugas dan fungsi Kementerian Ketenagakerjaan dibebankan kepada apa?",
-      "options": [
-        "Anggaran Pendapatan dan Belanja Negara",
-        "Dana bantuan internasional",
-        "Anggaran kementerian lain",
-        "Pendapatan daerah",
-        "Pinjaman luar negeri"
-      ],
-      "correct_option_id": 0
-    },
-	{
-      "id": 32,
-      "chat_id": "-1002199224078",
-      "question": "Menurut Pasal 42, siapa yang harus memberikan persetujuan tertulis untuk penetapan tugas, fungsi, susunan organisasi, dan tata kerja Kementerian Ketenagakerjaan?",
-      "options": [
-        "Presiden",
-        "Menteri Keuangan",
-        "Menteri Pendayagunaan Aparatur Negara",
-        "Dewan Perwakilan Rakyat",
-        "Sekretaris Jenderal"
-      ],
-      "correct_option_id": 2
-    },
-    {
-      "id": 33,
-      "chat_id": "-1002199224078",
-      "question": "Apa ketentuan mengenai pelaksanaan jabatan yang ada di lingkungan Kementerian Ketenagakerjaan saat berlakunya Peraturan Presiden ini menurut Pasal 44?",
-      "options": [
-        "Semua jabatan akan dihapus dan diganti",
-        "Jabatan dan pejabat yang ada tetap melaksanakan tugas dan fungsinya sampai dibentuknya jabatan baru",
-        "Semua jabatan akan diintegrasikan dengan kementerian lain",
-        "Hanya jabatan struktural yang tetap berlaku",
-        "Semua jabatan di lingkungan kementerian akan dibekukan sementara"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 34,
-      "chat_id": "-1002199224078",
-      "question": "Apa yang dicabut dengan berlakunya Peraturan Presiden Nomor 95 Tahun 2020 sesuai dengan Pasal 45?",
-      "options": [
-        "Peraturan Presiden Nomor 67 Tahun 2019",
-        "Peraturan Presiden Nomor 18 Tahun 2015",
-        "Peraturan Presiden Nomor 39 Tahun 2008",
-        "Peraturan Presiden Nomor 68 Tahun 2019",
-        "Peraturan Presiden Nomor 60 Tahun 2012"
-      ],
-      "correct_option_id": 1
-    },
-    {
-      "id": 35,
-      "chat_id": "-1002199224078",
-      "question": "Kapan Peraturan Presiden Nomor 95 Tahun 2020 mulai berlaku menurut Pasal 46?",
-      "options": [
-        "Pada tanggal ditetapkan",
-        "Pada tanggal diundangkan",
-        "Tiga bulan setelah ditetapkan",
-        "Enam bulan setelah diundangkan",
-        "Satu tahun setelah ditetapkan"
-      ],
-      "correct_option_id": 1
-    }
-  ]
+    "quizzes": [
+        {
+            "id": 1,
+            "chat_id": "-1002261380303",
+            "question": "Siapa yang bertanggung jawab atas Kementerian Ketenagakerjaan sebagaimana diatur dalam Pasal 1 ayat (1)?",
+            "options": [
+                "Menteri Pendayagunaan Aparatur Negara",
+                "Presiden",
+                "Sekretaris Jenderal",
+                "Dewan Perwakilan Rakyat",
+                "Direktur Jenderal"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 2,
+            "chat_id": "-1002261380303",
+            "question": "Siapa yang memimpin Kementerian Ketenagakerjaan menurut Pasal 1 ayat (2)?",
+            "options": [
+                "Direktur Jenderal",
+                "Sekretaris Jenderal",
+                "Inspektur Jenderal",
+                "Menteri",
+                "Wakil Menteri"
+            ],
+            "correct_option_id": 3
+        },
+        {
+            "id": 3,
+            "chat_id": "-1002261380303",
+            "question": "Menurut Pasal 2 ayat (1), siapa yang membantu Menteri Ketenagakerjaan dalam pelaksanaan tugas kementerian?",
+            "options": [
+                "Sekretaris Jenderal",
+                "Direktur Jenderal",
+                "Wakil Menteri",
+                "Inspektur Jenderal",
+                "Staf Ahli"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 4,
+            "chat_id": "-1002261380303",
+            "question": "Apa ruang lingkup tugas Wakil Menteri sebagaimana diatur dalam Pasal 2 ayat (5)?",
+            "options": [
+                "Membantu Menteri dalam perumusan kebijakan kementerian",
+                "Mengelola anggaran kementerian",
+                "Mengawasi implementasi kebijakan daerah",
+                "Menyusun laporan keuangan tahunan",
+                "Mengurus administrasi internal kementerian"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 5,
+            "chat_id": "-1002261380303",
+            "question": "Siapa yang menjadi satu kesatuan unsur pemimpin kementerian menurut Pasal 3?",
+            "options": [
+                "Menteri dan Wakil Menteri",
+                "Sekretaris Jenderal dan Direktur Jenderal",
+                "Menteri dan Direktur Jenderal",
+                "Inspektur Jenderal dan Wakil Menteri",
+                "Menteri dan Inspektur Jenderal"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 6,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Kementerian Ketenagakerjaan sesuai Pasal 4?",
+            "options": [
+                "Melaksanakan tugas pemerintahan di bidang ketenagakerjaan untuk membantu Presiden",
+                "Mengelola hubungan kerja di sektor swasta",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan pengawasan terhadap tenaga kerja asing",
+                "Menyediakan pelatihan kerja secara langsung"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 7,
+            "chat_id": "-1002261380303",
+            "question": "Apa fungsi Kementerian Ketenagakerjaan dalam pelaksanaan tugasnya menurut Pasal 5 ayat (a)?",
+            "options": [
+                "Merumuskan kebijakan di bidang kompetensi dan daya saing tenaga kerja",
+                "Mengawasi hubungan industrial di seluruh wilayah",
+                "Menyusun program kerja tahunan kementerian",
+                "Melakukan evaluasi terhadap tenaga kerja asing",
+                "Menjalin hubungan kerja sama internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 8,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja yang termasuk dalam susunan organisasi Kementerian Ketenagakerjaan menurut Pasal 6?",
+            "options": [
+                "Sekretariat Jenderal, Direktorat Jenderal, Inspektorat Jenderal, dan unit pelaksana teknis",
+                "Direktur Utama, Inspektur Jenderal, dan Staf Khusus",
+                "Menteri, Sekretaris Daerah, dan Dewan Pengawas",
+                "Sekretariat Negara, Badan Usaha Milik Negara, dan Inspektorat",
+                "Menteri, Sekretaris Jenderal, dan Staf Khusus"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 9,
+            "chat_id": "-1002261380303",
+            "question": "Siapa yang memimpin Sekretariat Jenderal menurut Pasal 7 ayat (2)?",
+            "options": [
+                "Direktur Jenderal",
+                "Sekretaris Jenderal",
+                "Wakil Menteri",
+                "Menteri",
+                "Staf Ahli"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 10,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Sekretariat Jenderal sebagaimana diatur dalam Pasal 8?",
+            "options": [
+                "Menyelenggarakan koordinasi pelaksanaan tugas dan pemberian dukungan administrasi",
+                "Mengawasi hubungan kerja antara pekerja dan pengusaha",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Mengelola hubungan internasional di bidang ketenagakerjaan",
+                "Menentukan kebijakan pengupahan nasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 11,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Biro Perencanaan dan Manajemen Kinerja menurut Pasal 11?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan, penyusunan, penyerasian, dan pengintegrasian rencana, program, dan anggaran",
+                "Mengawasi hubungan kerja antar karyawan dan pimpinan",
+                "Melakukan evaluasi tenaga kerja nasional",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Mengelola sistem informasi ketenagakerjaan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 12,
+            "chat_id": "-1002261380303",
+            "question": "Apa fungsi Biro Perencanaan dan Manajemen Kinerja sebagaimana disebutkan dalam Pasal 12 ayat (a)?",
+            "options": [
+                "Koordinasi dan penyusunan rencana, program, dan anggaran kementerian",
+                "Penyusunan program pelatihan vokasi",
+                "Evaluasi kebijakan hubungan industrial",
+                "Pelaksanaan pengelolaan barang milik negara",
+                "Penyusunan laporan tahunan kementerian"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 13,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Biro Perencanaan dan Manajemen Kinerja menurut Pasal 14?",
+            "options": [
+                "Melakukan penyusunan rencana, program, dan anggaran",
+                "Mengawasi pelaksanaan kebijakan hubungan industrial",
+                "Menyediakan pelatihan bagi tenaga kerja",
+                "Menetapkan kebijakan jaminan sosial tenaga kerja",
+                "Mengelola perlengkapan kantor"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 14,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Biro Keuangan dan Barang Milik Negara sebagaimana tercantum dalam Pasal 15?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan, dan pengelolaan keuangan dan barang milik negara di tingkat kementerian",
+                "Melakukan pengelolaan hubungan industrial",
+                "Menyusun program pengembangan tenaga kerja",
+                "Melakukan penyusunan peraturan perundang-undangan",
+                "Mengawasi pelaksanaan pelatihan vokasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 15,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Biro Keuangan dan Barang Milik Negara sebagaimana diatur dalam Pasal 16 ayat (b)?",
+            "options": [
+                "Koordinasi, pembinaan, dan pengelolaan sistem akuntansi dan pelaporan keuangan dan barang milik negara",
+                "Melakukan supervisi hubungan kerja dan pengupahan",
+                "Mengelola program pelatihan tenaga kerja",
+                "Membantu Menteri dalam penyusunan kebijakan",
+                "Melakukan evaluasi tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 16,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Bagian Barang Milik Negara menurut Pasal 18?",
+            "options": [
+                "Melaksanakan penyiapan koordinasi, pembinaan, dan pengelolaan barang milik negara kementerian",
+                "Mengelola sistem informasi ketenagakerjaan",
+                "Melakukan supervisi terhadap hubungan kerja antar karyawan",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Menyusun laporan tahunan kementerian"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 17,
+            "chat_id": "-1002261380303",
+            "question": "Apa isi utama Pasal 20 tentang Bagian Barang Milik Negara?",
+            "options": [
+                "Bagian Barang Milik Negara terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Bagian Barang Milik Negara hanya bertugas melakukan evaluasi",
+                "Bagian Barang Milik Negara mengelola hubungan kerja",
+                "Bagian Barang Milik Negara menyusun peraturan perundang-undangan",
+                "Bagian Barang Milik Negara menetapkan kebijakan pengupahan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 18,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Biro Organisasi dan Sumber Daya Manusia Aparatur sesuai Pasal 22?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan, penataan organisasi, tata laksana, dan reformasi birokrasi",
+                "Mengelola hubungan kerja antara pekerja dan pengusaha",
+                "Melakukan pelatihan bagi tenaga kerja",
+                "Menetapkan kebijakan jaminan sosial tenaga kerja",
+                "Melakukan pengawasan terhadap tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 19,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Biro Organisasi dan Sumber Daya Manusia Aparatur sebagaimana diatur dalam Pasal 23 ayat (d)?",
+            "options": [
+                "Koordinasi, pembinaan, dan pengembangan sumber daya manusia aparatur",
+                "Pengelolaan program pelatihan vokasi",
+                "Penyusunan kebijakan jaminan sosial tenaga kerja",
+                "Pelaksanaan hubungan kerja internasional",
+                "Supervisi terhadap hubungan kerja antar organisasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 20,
+            "chat_id": "-1002261380303",
+            "question": "Apa isi utama Pasal 24 tentang susunan organisasi Biro Organisasi dan Sumber Daya Manusia Aparatur?",
+            "options": [
+                "Biro terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Biro terdiri atas Subbagian Perencanaan Anggaran",
+                "Biro hanya mengelola pelatihan tenaga kerja",
+                "Biro mengelola hubungan kerja",
+                "Biro menetapkan kebijakan hubungan internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 21,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Biro Organisasi dan Sumber Daya Manusia Aparatur sebagaimana tercantum dalam Pasal 25?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pelatihan vokasi untuk tenaga kerja",
+                "Mengawasi hubungan kerja dan pengupahan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 22,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Biro Hukum sebagaimana disebutkan dalam Pasal 26?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan penyusunan peraturan perundang-undangan, advokasi, dan pemberian pertimbangan hukum",
+                "Mengelola sistem akuntansi dan keuangan",
+                "Menyediakan pelatihan bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan",
+                "Melakukan evaluasi kinerja unit kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 23,
+            "chat_id": "-1002261380303",
+            "question": "Apa fungsi Biro Hukum sebagaimana disebutkan dalam Pasal 27 ayat (a)?",
+            "options": [
+                "Koordinasi, pembinaan, dan penyusunan peraturan perundang-undangan",
+                "Pelaksanaan pelatihan vokasi",
+                "Penyusunan kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Pengelolaan hubungan kerja antar organisasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 24,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Biro Hukum sesuai Pasal 29?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
+                "Mengelola pelatihan bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Menyusun laporan tahunan kementerian",
+                "Mengawasi hubungan kerja antar unit kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 25,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Biro Umum sebagaimana diatur dalam Pasal 30?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan, dan pelaksanaan urusan rumah tangga, layanan pengadaan barang/jasa, dan keprotokolan",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi untuk tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Mengawasi pengelolaan hubungan industrial"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 26,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Biro Umum sebagaimana disebutkan dalam Pasal 31 ayat (a)?",
+            "options": [
+                "Pelaksanaan urusan rumah tangga dan perlengkapan",
+                "Pengelolaan hubungan kerja antar unit",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pengawasan terhadap tenaga kerja asing",
+                "Pelaksanaan pelatihan vokasi untuk tenaga kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 27,
+            "chat_id": "-1002261380303",
+            "question": "Apa isi utama Pasal 32 tentang susunan organisasi Biro Umum?",
+            "options": [
+                "Terdiri atas Bagian Rumah Tangga dan Perlengkapan, Bagian Layanan Pengadaan, Bagian Tata Usaha Pimpinan dan Protokol, dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Bagian Perencanaan dan Anggaran",
+                "Terdiri atas Subbagian Tata Usaha dan Staf Khusus",
+                "Terdiri atas Sekretaris Jenderal dan Wakil Menteri",
+                "Terdiri atas Direktur Utama dan Inspektorat"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 28,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Bagian Rumah Tangga dan Perlengkapan sebagaimana disebutkan dalam Pasal 33?",
+            "options": [
+                "Melaksanakan penyiapan koordinasi dan pelaksanaan urusan keamanan, ketertiban, dan kebersihan lingkungan kantor",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Mengawasi pengelolaan barang milik negara"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 29,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Bagian Rumah Tangga dan Perlengkapan sebagaimana diatur dalam Pasal 34 ayat (a)?",
+            "options": [
+                "Penyiapan koordinasi dan pelaksanaan keamanan, ketertiban, dan kebersihan lingkungan kementerian",
+                "Penyusunan kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Menyediakan pelatihan vokasi untuk tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 30,
+            "chat_id": "-1002261380303",
+            "question": "Apa isi utama Pasal 35 tentang struktur Bagian Rumah Tangga dan Perlengkapan?",
+            "options": [
+                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Kelompok Jabatan Fungsional",
+                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Subbagian Perencanaan Anggaran",
+                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Staf Khusus",
+                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Inspektorat",
+                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Direktur Utama"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 31,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Bagian Layanan Pengadaan sebagaimana tercantum dalam Pasal 36?",
+            "options": [
+                "Melaksanakan penyiapan koordinasi, pembinaan, dan layanan pengadaan barang/jasa di lingkungan Kementerian",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan pengawasan terhadap barang milik negara",
+                "Mengelola sistem informasi ketenagakerjaan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 32,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Bagian Layanan Pengadaan sebagaimana disebutkan dalam Pasal 37 ayat (a)?",
+            "options": [
+                "Pengelolaan pengadaan barang/jasa",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan pengawasan hubungan kerja",
+                "Mengelola data kinerja tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 33,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur Bagian Layanan Pengadaan menurut Pasal 38?",
+            "options": [
+                "Bagian Layanan Pengadaan terdiri atas Kelompok Jabatan Fungsional",
+                "Bagian Layanan Pengadaan terdiri atas Subbagian Tata Usaha",
+                "Bagian Layanan Pengadaan terdiri atas Inspektorat dan Direktur Utama",
+                "Bagian Layanan Pengadaan terdiri atas Bagian Keuangan dan Anggaran",
+                "Bagian Layanan Pengadaan terdiri atas Subbagian Humas dan Keprotokolan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 34,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Bagian Tata Usaha Pimpinan dan Protokol sebagaimana disebutkan dalam Pasal 39?",
+            "options": [
+                "Melaksanakan urusan tata usaha pimpinan, urusan keprotokolan, serta urusan rumah tangga Biro",
+                "Mengelola pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Menyediakan hubungan kerja antar organisasi",
+                "Melakukan pengawasan hubungan kerja dan pengupahan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 35,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Bagian Tata Usaha Pimpinan dan Protokol sebagaimana tercantum dalam Pasal 40 ayat (a)?",
+            "options": [
+                "Pelaksanaan urusan tata usaha Menteri dan Wakil Menteri",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Menyediakan pelatihan vokasi untuk tenaga kerja",
+                "Mengelola hubungan kerja antar organisasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 36,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Bagian Tata Usaha Pimpinan dan Protokol sebagaimana tercantum dalam Pasal 41?",
+            "options": [
+                "Bagian ini terdiri atas Subbagian Tata Usaha Menteri dan Wakil Menteri, Subbagian Tata Usaha Sekretaris Jenderal dan Staf Ahli Menteri, Subbagian Protokol, dan Subbagian Tata Usaha",
+                "Bagian ini terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Bagian ini terdiri atas Subbagian Keuangan dan Anggaran",
+                "Bagian ini terdiri atas Subbagian Rumah Tangga",
+                "Bagian ini terdiri atas Subbagian Pelaporan dan Evaluasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 37,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Protokol sebagaimana disebutkan dalam Pasal 42 ayat (3)?",
+            "options": [
+                "Melaksanakan urusan keprotokolan Kementerian",
+                "Mengelola data keuangan kementerian",
+                "Melakukan pelatihan bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Menyusun laporan tahunan kementerian"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 38,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Biro Kerja Sama sebagaimana diatur dalam Pasal 43?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan, dan urusan kerja sama dalam dan luar negeri",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Mengawasi pengelolaan barang milik negara"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 39,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Biro Kerja Sama sebagaimana disebutkan dalam Pasal 44 ayat (b)?",
+            "options": [
+                "Koordinasi, pembinaan, dan pelaksanaan kerja sama bilateral dan multilateral",
+                "Pengelolaan hubungan kerja antar unit",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Pelaksanaan pelatihan vokasi untuk tenaga kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 40,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Biro Kerja Sama sebagaimana disebutkan dalam Pasal 45?",
+            "options": [
+                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Perencanaan Anggaran",
+                "Terdiri atas Subbagian Kerja Sama Internasional",
+                "Terdiri atas Subbagian Humas dan Keprotokolan",
+                "Terdiri atas Subbagian Data dan Informasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 41,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Biro Kerja Sama sebagaimana diatur dalam Pasal 46?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan pengawasan terhadap tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 42,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Biro Hubungan Masyarakat sebagaimana disebutkan dalam Pasal 47?",
+            "options": [
+                "Melaksanakan koordinasi, pembinaan, dan penyelenggaraan hubungan masyarakat kementerian",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan pengawasan hubungan kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 43,
+            "chat_id": "-1002261380303",
+            "question": "Apa fungsi Biro Hubungan Masyarakat sebagaimana diatur dalam Pasal 48 ayat (b)?",
+            "options": [
+                "Koordinasi, pembinaan, dan pelaksanaan pemberitaan dan publikasi kebijakan, program, kegiatan, dan kinerja kementerian",
+                "Pengelolaan hubungan kerja antar organisasi",
+                "Penyusunan kebijakan pengupahan nasional",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Melakukan pengawasan terhadap tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 44,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Biro Hubungan Masyarakat sebagaimana disebutkan dalam Pasal 49?",
+            "options": [
+                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Hubungan Internasional",
+                "Terdiri atas Subbagian Perencanaan Anggaran",
+                "Terdiri atas Subbagian Data dan Informasi",
+                "Terdiri atas Subbagian Evaluasi dan Laporan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 45,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Biro Hubungan Masyarakat sebagaimana tercantum dalam Pasal 50?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi kinerja tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 46,
+            "chat_id": "-1002261380303",
+            "question": "Apa kedudukan Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas menurut Pasal 51 ayat (1)?",
+            "options": [
+                "Berada di bawah dan bertanggung jawab kepada Menteri",
+                "Berada di bawah dan bertanggung jawab kepada Sekretaris Jenderal",
+                "Berada di bawah dan bertanggung jawab kepada Inspektur Jenderal",
+                "Berada di bawah dan bertanggung jawab kepada Wakil Menteri",
+                "Berada di bawah dan bertanggung jawab kepada Direktur Utama"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 47,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana diatur dalam Pasal 52?",
+            "options": [
+                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja serta produktivitas",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi hubungan kerja internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 48,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana disebutkan dalam Pasal 53 ayat (a)?",
+            "options": [
+                "Perumusan kebijakan di bidang standardisasi kompetensi, kelembagaan pelatihan vokasi, penyelenggaraan pelatihan vokasi, pemagangan, dan produktivitas",
+                "Pengelolaan hubungan kerja antar organisasi",
+                "Penyusunan kebijakan hubungan internasional",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan pengawasan terhadap tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 49,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana diatur dalam Pasal 54?",
+            "options": [
+                "Terdiri atas Sekretariat Direktorat Jenderal, Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan, Direktorat Bina Kelembagaan Pelatihan Vokasi, Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan, Direktorat Bina Peningkatan Produktivitas, dan Direktorat Bina Instruktur dan Tenaga Pelatihan",
+                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Perencanaan Anggaran",
+                "Terdiri atas Subbagian Hubungan Internasional",
+                "Terdiri atas Subbagian Data dan Informasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 50,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Sekretariat Direktorat Jenderal sebagaimana disebutkan dalam Pasal 55?",
+            "options": [
+                "Melaksanakan pemberian dukungan administratif dan koordinasi pelaksanaan tugas unit organisasi di lingkungan Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan evaluasi hubungan kerja internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 51,
+            "chat_id": "-1002261380303",
+            "question": "Apa fungsi Sekretariat Direktorat Jenderal sebagaimana tercantum dalam Pasal 56 ayat (a)?",
+            "options": [
+                "Koordinasi dan penyusunan rencana, program dan anggaran, serta evaluasi dan pelaporan Direktorat Jenderal",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan pengawasan hubungan kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 52,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Sekretariat Direktorat Jenderal sebagaimana diatur dalam Pasal 57?",
+            "options": [
+                "Terdiri atas Bagian Umum dan Rumah Tangga serta Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Perencanaan dan Anggaran",
+                "Terdiri atas Bagian Keuangan dan Hubungan Internasional",
+                "Terdiri atas Subbagian Hubungan Masyarakat",
+                "Terdiri atas Subbagian Data dan Informasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 53,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Bagian Umum dan Rumah Tangga sebagaimana disebutkan dalam Pasal 58?",
+            "options": [
+                "Melaksanakan urusan umum dan rumah tangga Direktorat Jenderal",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi kinerja hubungan internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 54,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Bagian Umum dan Rumah Tangga sebagaimana diatur dalam Pasal 59 ayat (a)?",
+            "options": [
+                "Penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
+                "Pengelolaan hubungan kerja antar unit organisasi",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Melakukan evaluasi terhadap tenaga kerja asing"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 55,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Bagian Umum dan Rumah Tangga sebagaimana tercantum dalam Pasal 60?",
+            "options": [
+                "Terdiri atas Subbagian Rumah Tangga dan Perlengkapan serta Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Perencanaan dan Anggaran",
+                "Terdiri atas Subbagian Keuangan dan Evaluasi",
+                "Terdiri atas Subbagian Hubungan Masyarakat",
+                "Terdiri atas Subbagian Data dan Informasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 56,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Rumah Tangga dan Perlengkapan sebagaimana disebutkan dalam Pasal 61?",
+            "options": [
+                "Melakukan urusan rumah tangga, pengelolaan perlengkapan dan barang milik negara Direktorat Jenderal",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan evaluasi hubungan kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 57,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan sebagaimana diatur dalam Pasal 62?",
+            "options": [
+                "Melaksanakan perumusan dan pelaksanaan kebijakan di bidang standardisasi kompetensi dan program pelatihan",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi hubungan kerja internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 58,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan sebagaimana diatur dalam Pasal 63 ayat (a)?",
+            "options": [
+                "Penyiapan perumusan kebijakan di bidang standardisasi kompetensi, program, materi, dan metode pelatihan vokasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi kinerja hubungan internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 59,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan sebagaimana tercantum dalam Pasal 64?",
+            "options": [
+                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Hubungan Internasional",
+                "Terdiri atas Subbagian Keuangan dan Evaluasi",
+                "Terdiri atas Subbagian Data dan Informasi",
+                "Terdiri atas Subbagian Perencanaan dan Anggaran"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 60,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan menurut Pasal 65?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan evaluasi hubungan kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 61,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana diatur dalam Pasal 66?",
+            "options": [
+                "Melaksanakan perumusan kebijakan dan pelaksanaan kebijakan di bidang kelembagaan pelatihan vokasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Mengelola hubungan kerja antar organisasi",
+                "Melakukan evaluasi hubungan kerja internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 62,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana diatur dalam Pasal 67 ayat (a)?",
+            "options": [
+                "Penyiapan perumusan kebijakan di bidang akreditasi lembaga pelatihan vokasi dan produktivitas, sistem manajemen mutu, serta kemitraan dan pendanaan",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi terhadap kinerja pelatihan vokasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 63,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana tercantum dalam Pasal 68?",
+            "options": [
+                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Hubungan Internasional",
+                "Terdiri atas Subbagian Keuangan dan Evaluasi",
+                "Terdiri atas Subbagian Data dan Informasi",
+                "Terdiri atas Subbagian Perencanaan dan Anggaran"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 64,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana diatur dalam Pasal 69?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan evaluasi hubungan kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 65,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana diatur dalam Pasal 70?",
+            "options": [
+                "Melaksanakan perumusan kebijakan dan pelaksanaan kebijakan di bidang penyelenggaraan pelatihan vokasi dan pemagangan",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Mengelola hubungan kerja antar organisasi",
+                "Melakukan evaluasi hubungan kerja internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 66,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana diatur dalam Pasal 71 ayat (a)?",
+            "options": [
+                "Penyiapan perumusan kebijakan di bidang penyelenggaraan pelatihan vokasi dan pemagangan",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi terhadap kinerja pelatihan vokasi"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 67,
+            "chat_id": "-1002261380303",
+            "question": "Apa struktur organisasi Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana tercantum dalam Pasal 72?",
+            "options": [
+                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
+                "Terdiri atas Subbagian Hubungan Internasional",
+                "Terdiri atas Subbagian Keuangan dan Evaluasi",
+                "Terdiri atas Subbagian Data dan Informasi",
+                "Terdiri atas Subbagian Perencanaan dan Anggaran"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 68,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas Subbagian Tata Usaha Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana diatur dalam Pasal 73?",
+            "options": [
+                "Melakukan penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
+                "Mengelola hubungan kerja antar organisasi",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan hubungan internasional",
+                "Melakukan evaluasi hubungan kerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 69,
+            "chat_id": "-1002261380303",
+            "question": "Apa tugas utama Direktorat Bina Peningkatan Produktivitas sebagaimana diatur dalam Pasal 74?",
+            "options": [
+                "Melaksanakan perumusan dan pelaksanaan kebijakan di bidang peningkatan produktivitas",
+                "Menyediakan pelatihan vokasi bagi tenaga kerja",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Mengelola hubungan kerja antar organisasi",
+                "Melakukan evaluasi hubungan kerja internasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 70,
+            "chat_id": "-1002261380303",
+            "question": "Apa saja fungsi Direktorat Bina Peningkatan Produktivitas sebagaimana diatur dalam Pasal 75 ayat (a)?",
+            "options": [
+                "Penyiapan perumusan kebijakan di bidang pengukuran produktivitas, sistem dan metode peningkatan produktivitas",
+                "Menyusun kebijakan hubungan internasional",
+                "Melakukan pengawasan tenaga kerja asing",
+                "Menetapkan kebijakan pengupahan nasional",
+                "Melakukan evaluasi terhadap kinerja pelatihan vokasi"
+            ],
+            "correct_option_id": 0
+        }
+    ]
 }
