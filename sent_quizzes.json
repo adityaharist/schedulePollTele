@@ -1,914 +1,719 @@
 {
-    "quizzes": [
-        {
-            "id": 1,
-            "chat_id": "-1002199224078",
-            "question": "Siapa yang bertanggung jawab atas Kementerian Ketenagakerjaan sebagaimana diatur dalam Pasal 1 ayat (1)?",
-            "options": [
-                "Menteri Pendayagunaan Aparatur Negara",
-                "Presiden",
-                "Sekretaris Jenderal",
-                "Dewan Perwakilan Rakyat",
-                "Direktur Jenderal"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 2,
-            "chat_id": "-1002199224078",
-            "question": "Siapa yang memimpin Kementerian Ketenagakerjaan menurut Pasal 1 ayat (2)?",
-            "options": [
-                "Direktur Jenderal",
-                "Sekretaris Jenderal",
-                "Inspektur Jenderal",
-                "Menteri",
-                "Wakil Menteri"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 3,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 2 ayat (1), siapa yang membantu Menteri Ketenagakerjaan dalam pelaksanaan tugas kementerian?",
-            "options": [
-                "Sekretaris Jenderal",
-                "Direktur Jenderal",
-                "Wakil Menteri",
-                "Inspektur Jenderal",
-                "Staf Ahli"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 4,
-            "chat_id": "-1002199224078",
-            "question": "Apa ruang lingkup tugas Wakil Menteri sebagaimana diatur dalam Pasal 2 ayat (5)?",
-            "options": [
-                "Membantu Menteri dalam perumusan kebijakan kementerian",
-                "Mengelola anggaran kementerian",
-                "Mengawasi implementasi kebijakan daerah",
-                "Menyusun laporan keuangan tahunan",
-                "Mengurus administrasi internal kementerian"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 5,
-            "chat_id": "-1002199224078",
-            "question": "Siapa yang menjadi satu kesatuan unsur pemimpin kementerian menurut Pasal 3?",
-            "options": [
-                "Menteri dan Wakil Menteri",
-                "Sekretaris Jenderal dan Direktur Jenderal",
-                "Menteri dan Direktur Jenderal",
-                "Inspektur Jenderal dan Wakil Menteri",
-                "Menteri dan Inspektur Jenderal"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 6,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Kementerian Ketenagakerjaan sesuai Pasal 4?",
-            "options": [
-                "Melaksanakan tugas pemerintahan di bidang ketenagakerjaan untuk membantu Presiden",
-                "Mengelola hubungan kerja di sektor swasta",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan pengawasan terhadap tenaga kerja asing",
-                "Menyediakan pelatihan kerja secara langsung"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 7,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi Kementerian Ketenagakerjaan dalam pelaksanaan tugasnya menurut Pasal 5 ayat (a)?",
-            "options": [
-                "Merumuskan kebijakan di bidang kompetensi dan daya saing tenaga kerja",
-                "Mengawasi hubungan industrial di seluruh wilayah",
-                "Menyusun program kerja tahunan kementerian",
-                "Melakukan evaluasi terhadap tenaga kerja asing",
-                "Menjalin hubungan kerja sama internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 8,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja yang termasuk dalam susunan organisasi Kementerian Ketenagakerjaan menurut Pasal 6?",
-            "options": [
-                "Sekretariat Jenderal, Direktorat Jenderal, Inspektorat Jenderal, dan unit pelaksana teknis",
-                "Direktur Utama, Inspektur Jenderal, dan Staf Khusus",
-                "Menteri, Sekretaris Daerah, dan Dewan Pengawas",
-                "Sekretariat Negara, Badan Usaha Milik Negara, dan Inspektorat",
-                "Menteri, Sekretaris Jenderal, dan Staf Khusus"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 9,
-            "chat_id": "-1002199224078",
-            "question": "Siapa yang memimpin Sekretariat Jenderal menurut Pasal 7 ayat (2)?",
-            "options": [
-                "Direktur Jenderal",
-                "Sekretaris Jenderal",
-                "Wakil Menteri",
-                "Menteri",
-                "Staf Ahli"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 10,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Sekretariat Jenderal sebagaimana diatur dalam Pasal 8?",
-            "options": [
-                "Menyelenggarakan koordinasi pelaksanaan tugas dan pemberian dukungan administrasi",
-                "Mengawasi hubungan kerja antara pekerja dan pengusaha",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Mengelola hubungan internasional di bidang ketenagakerjaan",
-                "Menentukan kebijakan pengupahan nasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 11,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Biro Perencanaan dan Manajemen Kinerja menurut Pasal 11?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan, penyusunan, penyerasian, dan pengintegrasian rencana, program, dan anggaran",
-                "Mengawasi hubungan kerja antar karyawan dan pimpinan",
-                "Melakukan evaluasi tenaga kerja nasional",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Mengelola sistem informasi ketenagakerjaan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 12,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi Biro Perencanaan dan Manajemen Kinerja sebagaimana disebutkan dalam Pasal 12 ayat (a)?",
-            "options": [
-                "Koordinasi dan penyusunan rencana, program, dan anggaran kementerian",
-                "Penyusunan program pelatihan vokasi",
-                "Evaluasi kebijakan hubungan industrial",
-                "Pelaksanaan pengelolaan barang milik negara",
-                "Penyusunan laporan tahunan kementerian"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 13,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Biro Perencanaan dan Manajemen Kinerja menurut Pasal 14?",
-            "options": [
-                "Melakukan penyusunan rencana, program, dan anggaran",
-                "Mengawasi pelaksanaan kebijakan hubungan industrial",
-                "Menyediakan pelatihan bagi tenaga kerja",
-                "Menetapkan kebijakan jaminan sosial tenaga kerja",
-                "Mengelola perlengkapan kantor"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 14,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Biro Keuangan dan Barang Milik Negara sebagaimana tercantum dalam Pasal 15?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan, dan pengelolaan keuangan dan barang milik negara di tingkat kementerian",
-                "Melakukan pengelolaan hubungan industrial",
-                "Menyusun program pengembangan tenaga kerja",
-                "Melakukan penyusunan peraturan perundang-undangan",
-                "Mengawasi pelaksanaan pelatihan vokasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 15,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Biro Keuangan dan Barang Milik Negara sebagaimana diatur dalam Pasal 16 ayat (b)?",
-            "options": [
-                "Koordinasi, pembinaan, dan pengelolaan sistem akuntansi dan pelaporan keuangan dan barang milik negara",
-                "Melakukan supervisi hubungan kerja dan pengupahan",
-                "Mengelola program pelatihan tenaga kerja",
-                "Membantu Menteri dalam penyusunan kebijakan",
-                "Melakukan evaluasi tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 16,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Bagian Barang Milik Negara menurut Pasal 18?",
-            "options": [
-                "Melaksanakan penyiapan koordinasi, pembinaan, dan pengelolaan barang milik negara kementerian",
-                "Mengelola sistem informasi ketenagakerjaan",
-                "Melakukan supervisi terhadap hubungan kerja antar karyawan",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Menyusun laporan tahunan kementerian"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 17,
-            "chat_id": "-1002199224078",
-            "question": "Apa isi utama Pasal 20 tentang Bagian Barang Milik Negara?",
-            "options": [
-                "Bagian Barang Milik Negara terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Bagian Barang Milik Negara hanya bertugas melakukan evaluasi",
-                "Bagian Barang Milik Negara mengelola hubungan kerja",
-                "Bagian Barang Milik Negara menyusun peraturan perundang-undangan",
-                "Bagian Barang Milik Negara menetapkan kebijakan pengupahan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 18,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Biro Organisasi dan Sumber Daya Manusia Aparatur sesuai Pasal 22?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan, penataan organisasi, tata laksana, dan reformasi birokrasi",
-                "Mengelola hubungan kerja antara pekerja dan pengusaha",
-                "Melakukan pelatihan bagi tenaga kerja",
-                "Menetapkan kebijakan jaminan sosial tenaga kerja",
-                "Melakukan pengawasan terhadap tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 19,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Biro Organisasi dan Sumber Daya Manusia Aparatur sebagaimana diatur dalam Pasal 23 ayat (d)?",
-            "options": [
-                "Koordinasi, pembinaan, dan pengembangan sumber daya manusia aparatur",
-                "Pengelolaan program pelatihan vokasi",
-                "Penyusunan kebijakan jaminan sosial tenaga kerja",
-                "Pelaksanaan hubungan kerja internasional",
-                "Supervisi terhadap hubungan kerja antar organisasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 20,
-            "chat_id": "-1002199224078",
-            "question": "Apa isi utama Pasal 24 tentang susunan organisasi Biro Organisasi dan Sumber Daya Manusia Aparatur?",
-            "options": [
-                "Biro terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Biro terdiri atas Subbagian Perencanaan Anggaran",
-                "Biro hanya mengelola pelatihan tenaga kerja",
-                "Biro mengelola hubungan kerja",
-                "Biro menetapkan kebijakan hubungan internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 21,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Biro Organisasi dan Sumber Daya Manusia Aparatur sebagaimana tercantum dalam Pasal 25?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pelatihan vokasi untuk tenaga kerja",
-                "Mengawasi hubungan kerja dan pengupahan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 22,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Biro Hukum sebagaimana disebutkan dalam Pasal 26?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan penyusunan peraturan perundang-undangan, advokasi, dan pemberian pertimbangan hukum",
-                "Mengelola sistem akuntansi dan keuangan",
-                "Menyediakan pelatihan bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan",
-                "Melakukan evaluasi kinerja unit kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 23,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi Biro Hukum sebagaimana disebutkan dalam Pasal 27 ayat (a)?",
-            "options": [
-                "Koordinasi, pembinaan, dan penyusunan peraturan perundang-undangan",
-                "Pelaksanaan pelatihan vokasi",
-                "Penyusunan kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Pengelolaan hubungan kerja antar organisasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 24,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Biro Hukum sesuai Pasal 29?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
-                "Mengelola pelatihan bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Menyusun laporan tahunan kementerian",
-                "Mengawasi hubungan kerja antar unit kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 25,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Biro Umum sebagaimana diatur dalam Pasal 30?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan, dan pelaksanaan urusan rumah tangga, layanan pengadaan barang/jasa, dan keprotokolan",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi untuk tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Mengawasi pengelolaan hubungan industrial"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 26,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Biro Umum sebagaimana disebutkan dalam Pasal 31 ayat (a)?",
-            "options": [
-                "Pelaksanaan urusan rumah tangga dan perlengkapan",
-                "Pengelolaan hubungan kerja antar unit",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pengawasan terhadap tenaga kerja asing",
-                "Pelaksanaan pelatihan vokasi untuk tenaga kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 27,
-            "chat_id": "-1002199224078",
-            "question": "Apa isi utama Pasal 32 tentang susunan organisasi Biro Umum?",
-            "options": [
-                "Terdiri atas Bagian Rumah Tangga dan Perlengkapan, Bagian Layanan Pengadaan, Bagian Tata Usaha Pimpinan dan Protokol, dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Bagian Perencanaan dan Anggaran",
-                "Terdiri atas Subbagian Tata Usaha dan Staf Khusus",
-                "Terdiri atas Sekretaris Jenderal dan Wakil Menteri",
-                "Terdiri atas Direktur Utama dan Inspektorat"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 28,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Bagian Rumah Tangga dan Perlengkapan sebagaimana disebutkan dalam Pasal 33?",
-            "options": [
-                "Melaksanakan penyiapan koordinasi dan pelaksanaan urusan keamanan, ketertiban, dan kebersihan lingkungan kantor",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Mengawasi pengelolaan barang milik negara"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 29,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Bagian Rumah Tangga dan Perlengkapan sebagaimana diatur dalam Pasal 34 ayat (a)?",
-            "options": [
-                "Penyiapan koordinasi dan pelaksanaan keamanan, ketertiban, dan kebersihan lingkungan kementerian",
-                "Penyusunan kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Menyediakan pelatihan vokasi untuk tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 30,
-            "chat_id": "-1002199224078",
-            "question": "Apa isi utama Pasal 35 tentang struktur Bagian Rumah Tangga dan Perlengkapan?",
-            "options": [
-                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Kelompok Jabatan Fungsional",
-                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Subbagian Perencanaan Anggaran",
-                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Staf Khusus",
-                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Inspektorat",
-                "Bagian Rumah Tangga dan Perlengkapan terdiri atas Direktur Utama"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 31,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Bagian Layanan Pengadaan sebagaimana tercantum dalam Pasal 36?",
-            "options": [
-                "Melaksanakan penyiapan koordinasi, pembinaan, dan layanan pengadaan barang/jasa di lingkungan Kementerian",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan pengawasan terhadap barang milik negara",
-                "Mengelola sistem informasi ketenagakerjaan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 32,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Bagian Layanan Pengadaan sebagaimana disebutkan dalam Pasal 37 ayat (a)?",
-            "options": [
-                "Pengelolaan pengadaan barang/jasa",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan pengawasan hubungan kerja",
-                "Mengelola data kinerja tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 33,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur Bagian Layanan Pengadaan menurut Pasal 38?",
-            "options": [
-                "Bagian Layanan Pengadaan terdiri atas Kelompok Jabatan Fungsional",
-                "Bagian Layanan Pengadaan terdiri atas Subbagian Tata Usaha",
-                "Bagian Layanan Pengadaan terdiri atas Inspektorat dan Direktur Utama",
-                "Bagian Layanan Pengadaan terdiri atas Bagian Keuangan dan Anggaran",
-                "Bagian Layanan Pengadaan terdiri atas Subbagian Humas dan Keprotokolan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 34,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Bagian Tata Usaha Pimpinan dan Protokol sebagaimana disebutkan dalam Pasal 39?",
-            "options": [
-                "Melaksanakan urusan tata usaha pimpinan, urusan keprotokolan, serta urusan rumah tangga Biro",
-                "Mengelola pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Menyediakan hubungan kerja antar organisasi",
-                "Melakukan pengawasan hubungan kerja dan pengupahan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 35,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Bagian Tata Usaha Pimpinan dan Protokol sebagaimana tercantum dalam Pasal 40 ayat (a)?",
-            "options": [
-                "Pelaksanaan urusan tata usaha Menteri dan Wakil Menteri",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Menyediakan pelatihan vokasi untuk tenaga kerja",
-                "Mengelola hubungan kerja antar organisasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 36,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Bagian Tata Usaha Pimpinan dan Protokol sebagaimana tercantum dalam Pasal 41?",
-            "options": [
-                "Bagian ini terdiri atas Subbagian Tata Usaha Menteri dan Wakil Menteri, Subbagian Tata Usaha Sekretaris Jenderal dan Staf Ahli Menteri, Subbagian Protokol, dan Subbagian Tata Usaha",
-                "Bagian ini terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Bagian ini terdiri atas Subbagian Keuangan dan Anggaran",
-                "Bagian ini terdiri atas Subbagian Rumah Tangga",
-                "Bagian ini terdiri atas Subbagian Pelaporan dan Evaluasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 37,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Protokol sebagaimana disebutkan dalam Pasal 42 ayat (3)?",
-            "options": [
-                "Melaksanakan urusan keprotokolan Kementerian",
-                "Mengelola data keuangan kementerian",
-                "Melakukan pelatihan bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Menyusun laporan tahunan kementerian"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 38,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Biro Kerja Sama sebagaimana diatur dalam Pasal 43?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan, dan urusan kerja sama dalam dan luar negeri",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Mengawasi pengelolaan barang milik negara"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 39,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Biro Kerja Sama sebagaimana disebutkan dalam Pasal 44 ayat (b)?",
-            "options": [
-                "Koordinasi, pembinaan, dan pelaksanaan kerja sama bilateral dan multilateral",
-                "Pengelolaan hubungan kerja antar unit",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Pelaksanaan pelatihan vokasi untuk tenaga kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 40,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Biro Kerja Sama sebagaimana disebutkan dalam Pasal 45?",
-            "options": [
-                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Perencanaan Anggaran",
-                "Terdiri atas Subbagian Kerja Sama Internasional",
-                "Terdiri atas Subbagian Humas dan Keprotokolan",
-                "Terdiri atas Subbagian Data dan Informasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 41,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Biro Kerja Sama sebagaimana diatur dalam Pasal 46?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan pengawasan terhadap tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 42,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Biro Hubungan Masyarakat sebagaimana disebutkan dalam Pasal 47?",
-            "options": [
-                "Melaksanakan koordinasi, pembinaan, dan penyelenggaraan hubungan masyarakat kementerian",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan pengawasan hubungan kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 43,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi Biro Hubungan Masyarakat sebagaimana diatur dalam Pasal 48 ayat (b)?",
-            "options": [
-                "Koordinasi, pembinaan, dan pelaksanaan pemberitaan dan publikasi kebijakan, program, kegiatan, dan kinerja kementerian",
-                "Pengelolaan hubungan kerja antar organisasi",
-                "Penyusunan kebijakan pengupahan nasional",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Melakukan pengawasan terhadap tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 44,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Biro Hubungan Masyarakat sebagaimana disebutkan dalam Pasal 49?",
-            "options": [
-                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Hubungan Internasional",
-                "Terdiri atas Subbagian Perencanaan Anggaran",
-                "Terdiri atas Subbagian Data dan Informasi",
-                "Terdiri atas Subbagian Evaluasi dan Laporan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 45,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Biro Hubungan Masyarakat sebagaimana tercantum dalam Pasal 50?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, serta pengelolaan data dan informasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi kinerja tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 46,
-            "chat_id": "-1002199224078",
-            "question": "Apa kedudukan Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas menurut Pasal 51 ayat (1)?",
-            "options": [
-                "Berada di bawah dan bertanggung jawab kepada Menteri",
-                "Berada di bawah dan bertanggung jawab kepada Sekretaris Jenderal",
-                "Berada di bawah dan bertanggung jawab kepada Inspektur Jenderal",
-                "Berada di bawah dan bertanggung jawab kepada Wakil Menteri",
-                "Berada di bawah dan bertanggung jawab kepada Direktur Utama"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 47,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana diatur dalam Pasal 52?",
-            "options": [
-                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja serta produktivitas",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi hubungan kerja internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 48,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana disebutkan dalam Pasal 53 ayat (a)?",
-            "options": [
-                "Perumusan kebijakan di bidang standardisasi kompetensi, kelembagaan pelatihan vokasi, penyelenggaraan pelatihan vokasi, pemagangan, dan produktivitas",
-                "Pengelolaan hubungan kerja antar organisasi",
-                "Penyusunan kebijakan hubungan internasional",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan pengawasan terhadap tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 49,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana diatur dalam Pasal 54?",
-            "options": [
-                "Terdiri atas Sekretariat Direktorat Jenderal, Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan, Direktorat Bina Kelembagaan Pelatihan Vokasi, Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan, Direktorat Bina Peningkatan Produktivitas, dan Direktorat Bina Instruktur dan Tenaga Pelatihan",
-                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Perencanaan Anggaran",
-                "Terdiri atas Subbagian Hubungan Internasional",
-                "Terdiri atas Subbagian Data dan Informasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 50,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Sekretariat Direktorat Jenderal sebagaimana disebutkan dalam Pasal 55?",
-            "options": [
-                "Melaksanakan pemberian dukungan administratif dan koordinasi pelaksanaan tugas unit organisasi di lingkungan Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan evaluasi hubungan kerja internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 51,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi Sekretariat Direktorat Jenderal sebagaimana tercantum dalam Pasal 56 ayat (a)?",
-            "options": [
-                "Koordinasi dan penyusunan rencana, program dan anggaran, serta evaluasi dan pelaporan Direktorat Jenderal",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan pengawasan hubungan kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 52,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Sekretariat Direktorat Jenderal sebagaimana diatur dalam Pasal 57?",
-            "options": [
-                "Terdiri atas Bagian Umum dan Rumah Tangga serta Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Perencanaan dan Anggaran",
-                "Terdiri atas Bagian Keuangan dan Hubungan Internasional",
-                "Terdiri atas Subbagian Hubungan Masyarakat",
-                "Terdiri atas Subbagian Data dan Informasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 53,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Bagian Umum dan Rumah Tangga sebagaimana disebutkan dalam Pasal 58?",
-            "options": [
-                "Melaksanakan urusan umum dan rumah tangga Direktorat Jenderal",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi kinerja hubungan internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 54,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Bagian Umum dan Rumah Tangga sebagaimana diatur dalam Pasal 59 ayat (a)?",
-            "options": [
-                "Penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
-                "Pengelolaan hubungan kerja antar unit organisasi",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Melakukan evaluasi terhadap tenaga kerja asing"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 55,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Bagian Umum dan Rumah Tangga sebagaimana tercantum dalam Pasal 60?",
-            "options": [
-                "Terdiri atas Subbagian Rumah Tangga dan Perlengkapan serta Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Perencanaan dan Anggaran",
-                "Terdiri atas Subbagian Keuangan dan Evaluasi",
-                "Terdiri atas Subbagian Hubungan Masyarakat",
-                "Terdiri atas Subbagian Data dan Informasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 56,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Rumah Tangga dan Perlengkapan sebagaimana disebutkan dalam Pasal 61?",
-            "options": [
-                "Melakukan urusan rumah tangga, pengelolaan perlengkapan dan barang milik negara Direktorat Jenderal",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan evaluasi hubungan kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 57,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan sebagaimana diatur dalam Pasal 62?",
-            "options": [
-                "Melaksanakan perumusan dan pelaksanaan kebijakan di bidang standardisasi kompetensi dan program pelatihan",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi hubungan kerja internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 58,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan sebagaimana diatur dalam Pasal 63 ayat (a)?",
-            "options": [
-                "Penyiapan perumusan kebijakan di bidang standardisasi kompetensi, program, materi, dan metode pelatihan vokasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi kinerja hubungan internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 59,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan sebagaimana tercantum dalam Pasal 64?",
-            "options": [
-                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Hubungan Internasional",
-                "Terdiri atas Subbagian Keuangan dan Evaluasi",
-                "Terdiri atas Subbagian Data dan Informasi",
-                "Terdiri atas Subbagian Perencanaan dan Anggaran"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 60,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Direktorat Bina Standardisasi Kompetensi dan Program Pelatihan menurut Pasal 65?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan evaluasi hubungan kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 61,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana diatur dalam Pasal 66?",
-            "options": [
-                "Melaksanakan perumusan kebijakan dan pelaksanaan kebijakan di bidang kelembagaan pelatihan vokasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Mengelola hubungan kerja antar organisasi",
-                "Melakukan evaluasi hubungan kerja internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 62,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana diatur dalam Pasal 67 ayat (a)?",
-            "options": [
-                "Penyiapan perumusan kebijakan di bidang akreditasi lembaga pelatihan vokasi dan produktivitas, sistem manajemen mutu, serta kemitraan dan pendanaan",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi terhadap kinerja pelatihan vokasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 63,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana tercantum dalam Pasal 68?",
-            "options": [
-                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Hubungan Internasional",
-                "Terdiri atas Subbagian Keuangan dan Evaluasi",
-                "Terdiri atas Subbagian Data dan Informasi",
-                "Terdiri atas Subbagian Perencanaan dan Anggaran"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 64,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Direktorat Bina Kelembagaan Pelatihan Vokasi sebagaimana diatur dalam Pasal 69?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan evaluasi hubungan kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 65,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana diatur dalam Pasal 70?",
-            "options": [
-                "Melaksanakan perumusan kebijakan dan pelaksanaan kebijakan di bidang penyelenggaraan pelatihan vokasi dan pemagangan",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Mengelola hubungan kerja antar organisasi",
-                "Melakukan evaluasi hubungan kerja internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 66,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana diatur dalam Pasal 71 ayat (a)?",
-            "options": [
-                "Penyiapan perumusan kebijakan di bidang penyelenggaraan pelatihan vokasi dan pemagangan",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi terhadap kinerja pelatihan vokasi"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 67,
-            "chat_id": "-1002199224078",
-            "question": "Apa struktur organisasi Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana tercantum dalam Pasal 72?",
-            "options": [
-                "Terdiri atas Subbagian Tata Usaha dan Kelompok Jabatan Fungsional",
-                "Terdiri atas Subbagian Hubungan Internasional",
-                "Terdiri atas Subbagian Keuangan dan Evaluasi",
-                "Terdiri atas Subbagian Data dan Informasi",
-                "Terdiri atas Subbagian Perencanaan dan Anggaran"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 68,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas Subbagian Tata Usaha Direktorat Bina Penyelenggaraan Pelatihan Vokasi dan Pemagangan sebagaimana diatur dalam Pasal 73?",
-            "options": [
-                "Melakukan penyusunan rencana, program dan anggaran, pelaporan kinerja, serta pengelolaan data dan informasi",
-                "Mengelola hubungan kerja antar organisasi",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan hubungan internasional",
-                "Melakukan evaluasi hubungan kerja"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 69,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Direktorat Bina Peningkatan Produktivitas sebagaimana diatur dalam Pasal 74?",
-            "options": [
-                "Melaksanakan perumusan dan pelaksanaan kebijakan di bidang peningkatan produktivitas",
-                "Menyediakan pelatihan vokasi bagi tenaga kerja",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Mengelola hubungan kerja antar organisasi",
-                "Melakukan evaluasi hubungan kerja internasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 70,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja fungsi Direktorat Bina Peningkatan Produktivitas sebagaimana diatur dalam Pasal 75 ayat (a)?",
-            "options": [
-                "Penyiapan perumusan kebijakan di bidang pengukuran produktivitas, sistem dan metode peningkatan produktivitas",
-                "Menyusun kebijakan hubungan internasional",
-                "Melakukan pengawasan tenaga kerja asing",
-                "Menetapkan kebijakan pengupahan nasional",
-                "Melakukan evaluasi terhadap kinerja pelatihan vokasi"
-            ],
-            "correct_option_id": 0
-        }
-    ]
+  "quizzes": [
+    {
+      "id": 1,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang dimaksud dengan Peta Proses Bisnis menurut Pasal 1 ayat (1)?",
+      "options": [
+        "Diagram hubungan kerja yang efisien antar unit organisasi untuk kinerja bernilai tambah",
+        "Rangkaian tahapan dalam transformasi data menjadi informasi",
+        "Dokumen yang memuat rencana strategis kementerian",
+        "Regulasi yang mengatur hubungan kerja lintas unit di kementerian",
+        "Proses pengawasan internal atas tata kelola kementerian"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 2,
+      "chat_id": "-1002199224078",
+      "question": "Berdasarkan Pasal 2 ayat (1), apa saja komponen utama dalam Peta Proses Bisnis?",
+      "options": [
+        "Proses inti, subproses, kebijakan, dan evaluasi",
+        "Peta proses, peta subproses, peta relasi, dan peta lintas fungsi",
+        "Rencana strategis, peta proses, kebijakan publik, dan sistem informasi",
+        "Evaluasi, subproses, kebijakan, dan kinerja organisasi",
+        "Laporan tahunan, proses inti, relasi, dan fungsi lintas unit"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 3,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 3 ayat (4), subproses dalam pembinaan pelatihan vokasi dan produktivitas mencakup:",
+      "options": [
+        "Pengelolaan data dan teknologi informasi",
+        "Peningkatan kompetensi tenaga kerja dan produktivitas",
+        "Pembinaan hubungan kerja dan pengupahan",
+        "Pengawasan norma ketenagakerjaan",
+        "Pengelolaan keuangan dan barang milik negara"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 4,
+      "chat_id": "-1002199224078",
+      "question": "Apa fungsi dari peta lintas fungsi sebagaimana tercantum dalam Pasal 6 ayat (1)?",
+      "options": [
+        "Menggambarkan hubungan kerja antar kementerian",
+        "Menunjukkan lintas unit/fungsi yang saling berhubungan dalam suatu proses kerja",
+        "Memetakan semua unit di bawah Kementerian Ketenagakerjaan",
+        "Menguraikan subproses dari proses utama",
+        "Menyediakan panduan evaluasi dan monitoring tahunan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 5,
+      "chat_id": "-1002199224078",
+      "question": "Berikut adalah salah satu bagian dalam Peta Proses Bisnis Kemnaker. Komponen mana yang masuk dalam proses inti?",
+      "options": [
+        "Penyusunan rencana dan kebijakan",
+        "Pengawasan internal",
+        "Pembinaan pelatihan vokasi dan produktivitas",
+        "Penatakelolaan pemerintahan dan dukungan manajemen",
+        "Pengelolaan hubungan masyarakat"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 6,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 3 ayat (6) menyebutkan bahwa proses pendukung mencakup:",
+      "options": [
+        "Pengelolaan data, sistem informasi, dan subproses peningkatan kompetensi",
+        "Peningkatan hubungan kerja lintas kementerian dan kebijakan internasional",
+        "Penyusunan pelatihan berbasis kompetensi dan evaluasi tahunan",
+        "Penyelesaian sengketa dan norma ketenagakerjaan",
+        "Penyusunan rencana, kebijakan, sistem informasi, dan pengawasan internal"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 7,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 4 ayat (6), subproses dari pengawasan ketenagakerjaan dan keselamatan kerja adalah:",
+      "options": [
+        "Penyusunan kebijakan dan pengelolaan data",
+        "Pemeriksaan, pengujian norma, dan penyidikan tindak pidana ketenagakerjaan",
+        "Pelatihan vokasi dan peningkatan produktivitas",
+        "Perencanaan dan evaluasi program tahunan",
+        "Pengelolaan hubungan kerja antar unit"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 8,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 5 ayat (1) menjelaskan bahwa peta relasi menggambarkan:",
+      "options": [
+        "Hubungan antara kementerian dan pemerintah daerah",
+        "Strategi organisasi dalam mencapai visi dan misi",
+        "Hubungan kerja antar unit di satu kementerian",
+        "Pihak-pihak yang terlibat dalam setiap proses bisnis",
+        "Koordinasi antar kementerian dan legislatif"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 9,
+      "chat_id": "-1002199224078",
+      "question": "Apa saja pihak yang termasuk dalam peta lintas fungsi menurut Pasal 6 ayat (2)?",
+      "options": [
+        "Lintas kementerian, lembaga, dan organisasi internasional",
+        "Lintas unit/fungsi di satu unit jabatan pimpinan tinggi madya dan pihak terkait lainnya",
+        "Hanya lembaga pemerintah yang berwenang",
+        "Organisasi masyarakat dan kementerian terkait",
+        "Lintas negara dan sektor privat"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 10,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 7 ayat (1) menetapkan bahwa monitoring dan evaluasi peta proses bisnis dilakukan:",
+      "options": [
+        "Setiap triwulan",
+        "Setiap dua tahun sekali",
+        "Setiap satu tahun sekali",
+        "Setiap lima tahun sekali",
+        "Berdasarkan kebutuhan kementerian"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 11,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Lampiran Peta Proses Bisnis, apa yang termasuk dalam proses inti?",
+      "options": [
+        "Pengelolaan keuangan dan barang milik negara",
+        "Pengawasan internal",
+        "Pembinaan pelatihan vokasi dan produktivitas",
+        "Penyusunan rencana strategis",
+        "Evaluasi implementasi kebijakan"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 12,
+      "chat_id": "-1002199224078",
+      "question": "Siapa yang menetapkan Peta Lintas Fungsi sebagaimana diatur dalam Pasal 6 ayat (3)?",
+      "options": [
+        "Menteri Ketenagakerjaan",
+        "Sekretaris Jenderal",
+        "Direktur Jenderal",
+        "Kepala Biro Hukum",
+        "Unit Pimpinan Tinggi Madya"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 13,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang dilakukan terhadap Peraturan Menteri Nomor 19 Tahun 2016 sesuai dengan Pasal 8?",
+      "options": [
+        "Diperbarui dengan lampiran baru",
+        "Diperpanjang masa berlakunya",
+        "Dibentuk tim evaluasi",
+        "Diintegrasikan dengan peraturan baru",
+        "Diganti dan dinyatakan tidak berlaku"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 14,
+      "chat_id": "-1002199224078",
+      "question": "Pada bagian Lampiran, peta proses bisnis mencakup interaksi antara kementerian dengan:",
+      "options": [
+        "Media sosial dan masyarakat",
+        "Legislatif, dunia usaha, dan pemerintah daerah",
+        "Organisasi non-pemerintah",
+        "Institusi pendidikan dan lembaga penelitian",
+        "Bank internasional dan donor"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 15,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang dimaksud dengan 'Proses Pendukung' dalam Pasal 3 ayat (6)?",
+      "options": [
+        "Proses yang memberikan nilai tambah kepada pihak luar",
+        "Proses utama dalam memenuhi kebutuhan publik",
+        "Evaluasi kinerja kementerian",
+        "Proses yang memastikan operasional sistem berjalan lancar",
+        "Transformasi kebijakan menjadi aksi nyata"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 16,
+      "chat_id": "-1002199224078",
+      "question": "Apa tujuan utama dari Peta Proses Bisnis sebagaimana tercantum dalam Pasal 1 ayat (1)?",
+      "options": [
+        "Mengurangi konflik internal dalam kementerian",
+        "Memastikan efisiensi dan efektivitas kerja antar unit organisasi",
+        "Memantau kinerja pegawai secara individu",
+        "Menggambarkan hubungan kerja lintas kementerian",
+        "Mengatur kebijakan anggaran tahunan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 17,
+      "chat_id": "-1002199224078",
+      "question": "Subproses dalam pengawasan norma ketenagakerjaan meliputi:",
+      "options": [
+        "Pengujian norma, penyidikan tindak pidana, dan pemeriksaan norma",
+        "Perencanaan strategis, evaluasi tahunan, dan pengelolaan keuangan",
+        "Pembinaan hubungan kerja dan pengupahan",
+        "Pelatihan vokasi dan produktivitas",
+        "Peningkatan kompetensi tenaga kerja"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 18,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 4 ayat (3), apa subproses dari pembinaan pelatihan vokasi dan produktivitas?",
+      "options": [
+        "Peningkatan hubungan kerja dan penyelesaian perselisihan",
+        "Peningkatan kompetensi tenaga kerja dan produktivitas",
+        "Peningkatan hubungan dengan pemerintah daerah",
+        "Pengelolaan data dan teknologi informasi",
+        "Evaluasi kebijakan dan pelatihan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 19,
+      "chat_id": "-1002199224078",
+      "question": "Siapa saja yang dapat terlibat dalam Peta Relasi sebagaimana tercantum dalam Pasal 5 ayat (2)?",
+      "options": [
+        "Hanya kementerian terkait",
+        "Legislatif dan dunia usaha",
+        "Lembaga swadaya masyarakat",
+        "Kementerian, lembaga, daerah, dan swasta",
+        "Kepala unit organisasi di kementerian"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 20,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang termasuk dalam peta subproses dari peningkatan penempatan tenaga kerja sesuai Pasal 4 ayat (4)?",
+      "options": [
+        "Peningkatan kompetensi tenaga kerja",
+        "Pembinaan sumber daya manusia dan kelembagaan penempatan tenaga kerja",
+        "Pengawasan ketenagakerjaan",
+        "Peningkatan produktivitas",
+        "Penyusunan kebijakan ketenagakerjaan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 21,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Lampiran Peta Proses Bisnis, siapa yang memberikan data, informasi, dan kebijakan kepada kementerian?",
+      "options": [
+        "Media sosial",
+        "Dunia usaha dan perguruan tinggi",
+        "Legislatif dan organisasi internasional",
+        "Masyarakat umum",
+        "Pemerintah daerah, kementerian/lembaga, dan asosiasi"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 22,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 3 ayat (4) menjelaskan bahwa proses inti mencakup:",
+      "options": [
+        "Pengelolaan hubungan masyarakat",
+        "Peningkatan produktivitas",
+        "Peningkatan penempatan tenaga kerja dan perluasan kesempatan kerja",
+        "Penyusunan rencana kebijakan",
+        "Pengawasan internal"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 23,
+      "chat_id": "-1002199224078",
+      "question": "Subproses dari penyusunan rencana, kebijakan, dan sistem informasi mencakup:",
+      "options": [
+        "Perencanaan ketenagakerjaan dan pengelolaan data teknologi informasi",
+        "Peningkatan kompetensi tenaga kerja",
+        "Penyelesaian perselisihan hubungan industrial",
+        "Peningkatan produktivitas pekerja",
+        "Pengawasan norma ketenagakerjaan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 24,
+      "chat_id": "-1002199224078",
+      "question": "Peta lintas fungsi yang menggambarkan kerja lintas unit diatur dalam Pasal berapa?",
+      "options": [
+        "Pasal 2 ayat (1)",
+        "Pasal 3 ayat (6)",
+        "Pasal 5 ayat (1)",
+        "Pasal 6 ayat (1)",
+        "Pasal 4 ayat (3)"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 25,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang dilakukan kementerian terhadap hasil monitoring dan evaluasi peta proses bisnis?",
+      "options": [
+        "Disimpan sebagai arsip internal",
+        "Dilaporkan kepada kementerian yang berwenang di bidang pendayagunaan aparatur negara",
+        "Digunakan sebagai referensi anggaran",
+        "Diajukan sebagai dokumen resmi ke legislatif",
+        "Diserahkan kepada perguruan tinggi untuk penelitian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 26,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 3 ayat (3), apa saja kriteria proses inti dalam peta proses bisnis?",
+      "options": [
+        "Berperan langsung dalam memenuhi kebutuhan pengguna eksternal dan internal",
+        "Hanya berhubungan dengan internal kementerian",
+        "Menciptakan aliran nilai yang kompleks",
+        "Bertanggung jawab untuk semua keputusan strategis",
+        "Menyusun laporan tahunan secara berkala"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 27,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang termasuk dalam proses pendukung sesuai Pasal 3 ayat (6)?",
+      "options": [
+        "Pengembangan hubungan kerja dan pengupahan",
+        "Pengelolaan keuangan dan barang milik negara",
+        "Peningkatan kompetensi tenaga kerja",
+        "Penyelesaian perselisihan hubungan industrial",
+        "Pengujian norma ketenagakerjaan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 28,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 4 ayat (5) menyebutkan bahwa subproses dari hubungan industrial mencakup:",
+      "options": [
+        "Pembinaan kelembagaan dan pencegahan perselisihan hubungan industrial",
+        "Perencanaan program kerja tahunan",
+        "Penyusunan kebijakan pengupahan",
+        "Pengelolaan hubungan masyarakat",
+        "Penyusunan laporan sistem informasi"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 29,
+      "chat_id": "-1002199224078",
+      "question": "Siapa yang bertanggung jawab mengoordinasikan lintas fungsi di Kementerian, sebagaimana tercantum dalam Pasal 6?",
+      "options": [
+        "Direktur Jenderal",
+        "Menteri Ketenagakerjaan",
+        "Sekretaris Jenderal",
+        "Unit Pimpinan Tinggi Madya",
+        "Kepala Biro Hukum"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 30,
+      "chat_id": "-1002199224078",
+      "question": "Apa tujuan monitoring dan evaluasi peta proses bisnis yang dilakukan setiap tahun?",
+      "options": [
+        "Menciptakan laporan keuangan",
+        "Mengidentifikasi kebutuhan sumber daya tambahan",
+        "Mengevaluasi efektivitas dan efisiensi peta proses bisnis",
+        "Memastikan pembinaan sumber daya manusia berjalan baik",
+        "Mengembangkan hubungan kerja dengan lembaga internasional"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 31,
+      "chat_id": "-1002199224078",
+      "question": "Dalam Lampiran Peta Proses Bisnis, pihak mana yang memberikan data dan informasi kepada kementerian?",
+      "options": [
+        "Legislatif, dunia usaha, dan perguruan tinggi",
+        "Hanya pemerintah daerah",
+        "Lembaga keuangan nasional",
+        "Pengusaha lokal dan asosiasi buruh",
+        "Media massa dan masyarakat"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 32,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 4 ayat (7) menyebutkan bahwa subproses penyusunan rencana meliputi:",
+      "options": [
+        "Penyusunan laporan tahunan",
+        "Peningkatan hubungan kerja",
+        "Perencanaan ketenagakerjaan dan pengelolaan data teknologi informasi",
+        "Evaluasi kerja lintas kementerian",
+        "Pembinaan hubungan kerja"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 33,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang termasuk dalam proses inti pengawasan ketenagakerjaan sesuai Pasal 3 ayat (4)?",
+      "options": [
+        "Peningkatan produktivitas pekerja",
+        "Pengembangan sistem pengawasan ketenagakerjaan",
+        "Pengelolaan hubungan masyarakat",
+        "Perencanaan anggaran kerja tahunan",
+        "Penyusunan kebijakan pengawasan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 34,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 6 ayat (2) menyatakan bahwa peta lintas fungsi menggambarkan:",
+      "options": [
+        "Kerja lintas unit di satu jabatan pimpinan tinggi madya",
+        "Hubungan antara kementerian dengan dunia usaha",
+        "Penyelesaian sengketa antar lembaga",
+        "Laporan lintas fungsi ke pemerintah daerah",
+        "Hubungan bilateral antara kementerian"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 35,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Lampiran Peta Proses Bisnis, siapa yang menerima output dari proses inti?",
+      "options": [
+        "Legislatif",
+        "Masyarakat dan pekerja",
+        "Pemerintah daerah",
+        "Dunia usaha",
+        "Seluruh pihak terkait"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 36,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang dimaksud dengan proses inti dalam Pasal 3 ayat (3)?",
+      "options": [
+        "Serangkaian proses untuk mengelola administrasi organisasi",
+        "Proses yang memberikan dukungan terhadap aktivitas internal",
+        "Proses yang menciptakan aliran nilai utama dan memenuhi kebutuhan pengguna",
+        "Proses yang bersifat lintas fungsi dalam organisasi",
+        "Proses penyusunan kebijakan strategis"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 37,
+      "chat_id": "-1002199224078",
+      "question": "Siapa yang berperan langsung dalam penetapan kebijakan peta lintas fungsi sebagaimana Pasal 6 ayat (3)?",
+      "options": [
+        "Direktur Jenderal",
+        "Sekretaris Jenderal",
+        "Kepala Unit Kerja",
+        "Menteri Ketenagakerjaan",
+        "Kepala Biro Hukum"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 38,
+      "chat_id": "-1002199224078",
+      "question": "Apa tujuan dari peta relasi sebagaimana Pasal 5 ayat (1)?",
+      "options": [
+        "Mengelola hubungan antara kementerian dengan lembaga internasional",
+        "Menunjukkan pihak yang terlibat dalam setiap proses yang tergambarkan pada peta proses bisnis",
+        "Mengatur interaksi antara pemerintah daerah dan kementerian terkait",
+        "Mengelola data strategis untuk pengambilan keputusan",
+        "Menyediakan dokumen rencana kerja tahunan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 39,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 4 ayat (9) menyebutkan subproses dari pengawasan internal mencakup:",
+      "options": [
+        "Pengelolaan sistem pengendalian dan pengawasan",
+        "Penyusunan laporan tahunan",
+        "Evaluasi kerja lintas kementerian",
+        "Pengelolaan hubungan kerja",
+        "Peningkatan hubungan dengan dunia usaha"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 40,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang menjadi dasar hukum penyusunan Peta Proses Bisnis Kementerian Ketenagakerjaan?",
+      "options": [
+        "Pasal 34 Peraturan Presiden Nomor 95 Tahun 2020",
+        "Pasal 17 ayat (3) Undang-Undang Dasar 1945",
+        "Pasal 8 ayat (1) Undang-Undang Nomor 13 Tahun 2003",
+        "Peraturan Menteri Pendayagunaan Aparatur Negara Nomor 19 Tahun 2018",
+        "Pasal 5 Peraturan Menteri Nomor 1 Tahun 2022"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 41,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang dimaksud dengan 'Proses Pendukung' sebagaimana Pasal 3 ayat (6)?",
+      "options": [
+        "Proses yang mendukung operasional sistem dan memastikan proses inti berjalan dengan baik",
+        "Proses yang menciptakan nilai utama organisasi",
+        "Proses yang fokus pada hubungan dengan pihak eksternal",
+        "Proses yang bertanggung jawab atas pengawasan kerja",
+        "Proses yang digunakan untuk menyusun kebijakan tahunan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 42,
+      "chat_id": "-1002199224078",
+      "question": "Siapa saja pihak yang termasuk dalam peta relasi menurut Pasal 5 ayat (2)?",
+      "options": [
+        "Hanya kementerian yang relevan dengan sektor ketenagakerjaan",
+        "Seluruh kementerian, lembaga, daerah, dan swasta terkait",
+        "Pemerintah daerah dan perguruan tinggi",
+        "Asosiasi buruh dan pekerja",
+        "Lembaga internasional yang bekerja sama dengan kementerian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 43,
+      "chat_id": "-1002199224078",
+      "question": "Apa tujuan dari monitoring dan evaluasi peta proses bisnis yang diatur dalam Pasal 7 ayat (1)?",
+      "options": [
+        "Meningkatkan hubungan kerja lintas kementerian",
+        "Memastikan pelaksanaan peta proses bisnis berjalan efektif dan efisien",
+        "Melibatkan semua pihak dalam pengambilan keputusan strategis",
+        "Menyusun laporan keuangan kementerian",
+        "Mengembangkan program pelatihan berbasis data"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 44,
+      "chat_id": "-1002199224078",
+      "question": "Subproses peningkatan penempatan tenaga kerja mencakup:",
+      "options": [
+        "Peningkatan produktivitas dan pengawasan tenaga kerja",
+        "Pembinaan sumber daya manusia dan kelembagaan penempatan tenaga kerja",
+        "Evaluasi kebijakan dan perencanaan strategis",
+        "Peningkatan kompetensi tenaga kerja",
+        "Pengelolaan data teknologi informasi ketenagakerjaan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 45,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 8 menyebutkan bahwa Peraturan Menteri Nomor 19 Tahun 2016 dinyatakan:",
+      "options": [
+        "Masih berlaku sebagai pedoman",
+        "Tidak berlaku dan diganti dengan peraturan baru",
+        "Diperpanjang hingga ada evaluasi",
+        "Menjadi referensi untuk kebijakan baru",
+        "Dihapuskan tanpa penggantian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 46,
+      "chat_id": "-1002199224078",
+      "question": "Apa isi dari Pasal 2 ayat (2) dalam Peraturan Menteri ini?",
+      "options": [
+        "Peta Proses Bisnis terdiri atas komponen proses inti dan proses pendukung",
+        "Peta Proses Bisnis mencakup peta proses, peta subproses, peta relasi, dan peta lintas fungsi yang tercantum dalam lampiran",
+        "Peta Proses menggambarkan hubungan kerja lintas kementerian",
+        "Peta Proses mencakup penyusunan rencana strategis dan evaluasi",
+        "Peta Relasi bertujuan untuk mendukung pelaksanaan fungsi organisasi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 47,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 3 ayat (4) huruf c mencakup proses inti yang berkaitan dengan:",
+      "options": [
+        "Peningkatan kompetensi tenaga kerja",
+        "Pengembangan hubungan industrial dan jaminan sosial tenaga kerja",
+        "Pengelolaan keuangan dan barang milik negara",
+        "Pengawasan ketenagakerjaan",
+        "Penyusunan kebijakan publik"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 48,
+      "chat_id": "-1002199224078",
+      "question": "Apa isi Pasal 4 ayat (8) tentang subproses penatakelolaan pemerintahan dan dukungan manajemen?",
+      "options": [
+        "Perencanaan program anggaran, pengelolaan keuangan, dan penyelesaian masalah hukum",
+        "Peningkatan produktivitas dan penyusunan kebijakan",
+        "Pengelolaan hubungan kerja dan pengawasan ketenagakerjaan",
+        "Pengembangan sistem informasi dan perencanaan kerja tahunan",
+        "Penyusunan rencana strategis dan evaluasi"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 49,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 6 ayat (2) menyebutkan bahwa lintas unit fungsi mencakup:",
+      "options": [
+        "Hanya lintas unit dalam satu kementerian",
+        "Lintas unit di satu jabatan pimpinan tinggi madya dan lintas unit antar kementerian, lembaga, serta pihak terkait lainnya",
+        "Lintas fungsi antar pegawai kementerian",
+        "Hubungan kerja lintas wilayah administrasi",
+        "Interaksi antara pemerintah pusat dan daerah"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 50,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 7 ayat (2) menyebutkan bahwa laporan hasil monitoring dan evaluasi wajib disampaikan kepada:",
+      "options": [
+        "Menteri Ketenagakerjaan",
+        "Pemerintah daerah yang terkait dengan proses bisnis",
+        "Kementerian yang menyelenggarakan urusan pemerintahan di bidang pendayagunaan aparatur negara dan reformasi birokrasi",
+        "Direktur Jenderal yang terkait langsung dengan pelaksanaan peta proses bisnis",
+        "Unit kerja pimpinan tinggi madya"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 51,
+      "chat_id": "-1002199224078",
+      "question": "Apa tujuan utama dari subproses yang termasuk dalam Pasal 4 ayat (8)?",
+      "options": [
+        "Mendukung operasional sistem dan memastikan proses inti berjalan dengan baik",
+        "Meningkatkan hubungan kerja lintas kementerian",
+        "Mengembangkan program pelatihan berbasis teknologi",
+        "Menyusun rencana kerja tahunan untuk kementerian",
+        "Mengelola hubungan dengan pihak internasional"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 52,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 3 ayat (4) huruf d mencakup subproses yang berhubungan dengan:",
+      "options": [
+        "Pengawasan ketenagakerjaan dan keselamatan serta kesehatan kerja",
+        "Penyelesaian perselisihan hubungan industrial",
+        "Pengelolaan sumber daya manusia aparatur",
+        "Pengembangan sistem informasi berbasis teknologi",
+        "Peningkatan kompetensi tenaga kerja"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 53,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Lampiran Peta Proses Bisnis, siapa yang menyediakan data dan informasi untuk mendukung proses bisnis kementerian?",
+      "options": [
+        "Media sosial dan organisasi masyarakat",
+        "Pemerintah daerah, kementerian/lembaga, dunia usaha, dan asosiasi",
+        "Hanya pemerintah daerah",
+        "Legislatif dan perguruan tinggi",
+        "Lembaga internasional dan organisasi non-pemerintah"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 54,
+      "chat_id": "-1002199224078",
+      "question": "Apa saja yang termasuk dalam subproses hubungan industrial menurut Pasal 4 ayat (5)?",
+      "options": [
+        "Pengelolaan data teknologi informasi",
+        "Peningkatan kompetensi tenaga kerja dan produktivitas",
+        "Pembinaan hubungan kerja dan pengupahan, serta penyelesaian perselisihan hubungan industrial",
+        "Pengawasan ketenagakerjaan dan keselamatan kerja",
+        "Penyusunan rencana kebijakan publik"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 55,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 8 menyatakan bahwa Peraturan Menteri Nomor 19 Tahun 2016 tentang Penataan Tatalaksana (Business Process) dinyatakan:",
+      "options": [
+        "Masih berlaku untuk mendukung peta proses bisnis baru",
+        "Tidak berlaku sejak diundangkannya Peraturan Menteri ini",
+        "Digabungkan dengan peraturan baru",
+        "Diperbarui dengan tambahan lampiran",
+        "Dihapuskan tanpa penggantian"
+      ],
+      "correct_option_id": 1
+    }
+  ]
 }
