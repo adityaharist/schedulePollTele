@@ -47,7 +47,7 @@ def job():
                 if quiz['id'] not in sent_quizzes:
                     send_quiz(quiz['chat_id'], quiz['question'], quiz['options'], quiz['correct_option_id'])
                     sent_quizzes.add(quiz['id'])
-                    time.sleep(300) #tidur bentar 5 menit / delay
+                    time.sleep(120) #tidur bentar 5 menit / delay
         
         quiz_index += 1  # Increment counter after processing
 
