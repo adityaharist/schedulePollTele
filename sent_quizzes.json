@@ -3,519 +3,780 @@
         {
             "id": 1,
             "chat_id": "-1002199224078",
-            "question": "Siapa yang bertanggung jawab atas Kementerian Ketenagakerjaan sebagaimana diatur dalam Pasal 1 ayat (1)?",
+            "question": "Apa yang dimaksud dengan Aparatur Sipil Negara (ASN) menurut Pasal 1 ayat (1) UU ASN 2023?",
             "options": [
-                "Menteri Keuangan",
-                "Presiden",
-                "Menteri Hukum dan HAM",
-                "Dewan Perwakilan Rakyat",
-                "Wakil Menteri"
+                "Profesional yang bekerja di sektor swasta",
+                "Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja bekerja di instansi pemerintah",
+                "Pegawai pemerintah dengan tugas di lembaga internasional",
+                "Menteri yang bertanggung jawab atas kebijakan pemerintah",
+                "Konsultan independen yang bekerja untuk lembaga negara"
             ],
             "correct_option_id": 1
         },
         {
             "id": 2,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 2 ayat (2), siapa yang memiliki kewenangan mengangkat dan memberhentikan Wakil Menteri Ketenagakerjaan?",
+            "question": "Menurut Pasal 1 ayat (5), apa yang dimaksud dengan Manajemen ASN?",
             "options": [
-                "Sekretaris Jenderal",
-                "Presiden",
-                "Menteri Ketenagakerjaan",
-                "Dewan Perwakilan Rakyat",
-                "Wakil Presiden"
+                "Proses pengelolaan sumber daya keuangan ASN",
+                "Pengelolaan ASN untuk mewujudkan profesionalisme",
+                "Pengawasan ASN dalam instansi pemerintah",
+                "Pelatihan teknis untuk pegawai ASN",
+                "Sistem pemantauan kinerja ASN"
             ],
             "correct_option_id": 1
         },
         {
             "id": 3,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Kementerian Ketenagakerjaan menurut Pasal 4?",
+            "question": "Pasal 2 menyebutkan asas penyelenggaraan kebijakan dan Manajemen ASN. Apa saja asas yang disebutkan?",
             "options": [
-                "Mengelola anggaran negara",
-                "Menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan",
-                "Mengawasi pelaksanaan undang-undang",
-                "Menyusun kebijakan fiskal",
-                "Mengatur hubungan internasional"
+                "Profesionalitas, akuntabilitas, dan kolaborasi",
+                "Netralitas, akuntabilitas, dan perlindungan",
+                "Keterbukaan, nondiskriminatif, dan keadilan",
+                "Efektivitas, pendelegasian, dan loyalitas",
+                "Proporsionalitas, transparansi, dan kepastian hukum"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 2
         },
         {
             "id": 4,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 7 ayat (2), siapa yang memimpin Sekretariat Jenderal di Kementerian Ketenagakerjaan?",
+            "question": "Menurut Pasal 3 ayat (2), nilai dasar ASN mencakup beberapa aspek. Yang mana yang bukan termasuk?",
             "options": [
-                "Direktur Jenderal",
-                "Wakil Menteri",
-                "Sekretaris Jenderal",
-                "Inspektur Jenderal",
-                "Kepala Badan"
+                "Berorientasi pelayanan",
+                "Akuntabel",
+                "Bersikap kritis",
+                "Loyal",
+                "Adaptif"
             ],
             "correct_option_id": 2
         },
         {
             "id": 5,
             "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi fungsi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana disebutkan dalam Pasal 12?",
+            "question": "Pasal 4 ayat (2) menjelaskan bahwa nilai dasar ASN dijabarkan dalam  berorientasi pelayan. Apa contoh nilai dasar ini?",
             "options": [
-                "Mengelola hubungan antar lembaga",
-                "Mengawasi kebijakan publik",
-                "Meningkatkan kompetensi dan daya saing tenaga kerja",
-                "Melakukan penelitian tenaga kerja",
-                "Mengatur regulasi sektor swasta"
+                "Mengawasi instansi pemerintah lainnya",
+                "Menyusun kebijakan independen",
+                "Mendukung intervensi politik",
+                "Mengelola sumber daya luar negeri",
+                "Memahami dan memenuhi kebutuhan masyarakat"
             ],
-            "correct_option_id": 2
-        },{
+            "correct_option_id": 4
+        },
+        {
             "id": 6,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas Wakil Menteri sesuai Pasal 2 ayat (4)?",
+            "question": "Pasal 5 menyebutkan dua jenis pegawai ASN. Apa saja jenis tersebut?",
             "options": [
-                "Menyusun anggaran kementerian",
-                "Mengatur hubungan internasional",
-                "Membantu Menteri dalam memimpin pelaksanaan tugas kementerian",
-                "Melaksanakan pengawasan terhadap kinerja staf",
-                "Mengatur kerja sama antar kementerian"
+                "Pegawai kontrak dan tetap",
+                "Pegawai lokal dan internasional",
+                "Pegawai negeri sipil (PNS) dan pegawai pemerintah dengan perjanjian kerja (PPPK)",
+                "Pegawai struktural dan fungsional",
+                "Pegawai tetap dan honorer"
             ],
             "correct_option_id": 2
         },
         {
             "id": 7,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 6, apa saja yang termasuk dalam susunan organisasi Kementerian Ketenagakerjaan?",
+            "question": "Berdasarkan Pasal 10, apa saja fungsi utama ASN?",
             "options": [
-                "Sekretariat Jenderal, Direktorat Jenderal, dan Badan Perencanaan",
-                "Direktorat Utama, Badan Perencanaan, dan Staf Ahli",
-                "Sekretariat Jenderal, Direktorat Utama, dan Inspektorat",
-                "Direktorat Jenderal, Badan Pengawas, dan Divisi Teknologi",
-                "Sekretariat Jenderal, Divisi Operasional, dan Direktorat Utama"
+                "Pelaksana kebijakan publik, pelayan publik, perekat bangsa",
+                "Pengawas legislatif, pelaksana anggaran, pelayan masyarakat",
+                "Perencana ekonomi nasional, pengawas kebijakan, pelayan publik",
+                "Penyelenggara upacara negara, pengembang infrastruktur, perekat bangsa",
+                "Pelayan masyarakat, pemimpin partai, pengelola bisnis"
             ],
             "correct_option_id": 0
         },
         {
             "id": 8,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 9, apa saja fungsi Sekretariat Jenderal?",
+            "question": "Apa peran ASN menurut Pasal 12?",
             "options": [
-                "Menyusun kebijakan ekonomi",
-                "Melaksanakan koordinasi kegiatan kementerian",
-                "Mengawasi sektor swasta",
-                "Mengelola pengembangan teknologi",
-                "Melakukan supervisi hubungan internasional"
+                "Melakukan penelitian ilmiah",
+                "Mengawasi kebijakan pemerintah daerah",
+                "Merancang kebijakan partai politik",
+                "Sebagai perencana, pelaksana, & pengawas penyelenggaraan tugas umum pemerintahan",
+                "Mengelola anggaran lembaga negara"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 3
         },
         {
             "id": 9,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas utama Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja menurut Pasal 14?",
+            "question": "Pasal 14 menyebutkan jenis Jabatan Manajerial dalam ASN. Apa saja jabatannya?",
             "options": [
-                "Meningkatkan pelatihan vokasi",
-                "Menyelenggarakan kebijakan pembinaan penempatan tenaga kerja dan perluasan kesempatan kerja",
-                "Mengatur regulasi hubungan internasional",
-                "Mengoordinasikan keselamatan kerja",
-                "Mengawasi kebijakan sosial"
+                "Jabatan fungsional dan pelaksana",
+                "Jabatan pimpinan tinggi utama, madya, pratama, administrator, dan pengawas",
+                "Jabatan pemula, terampil, penyelia, dan mahir",
+                "Jabatan ahli pertama, ahli muda, ahli madya dan ahli utama",
+                "Jabatan pelaksana klerek, pelaksana teknis, dan pelaksana operator"
             ],
             "correct_option_id": 1
         },
         {
             "id": 10,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 22, siapa yang bertanggung jawab memimpin Inspektorat Jenderal?",
+            "question": "Pasal 18 menyebutkan dua jenis Jabatan Nonmanajerial. Apa saja jenis jabatan ini?",
             "options": [
-                "Direktur Jenderal",
-                "Sekretaris Jenderal",
-                "Inspektur Jenderal",
-                "Wakil Menteri",
-                "Staf Ahli"
+                "Jabatan JPT, JA dan JF",
+                "Jabatan fungsional dan pelaksana",
+                "Jabatan administrator dan teknis",
+                "Jabatan profesional dan spesialis",
+                "PNS dan PPPK"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 11,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas Badan Perencanaan dan Pengembangan Ketenagakerjaan menurut Pasal 26?",
+            "question": "Menurut Pasal 21, apa saja komponen penghargaan bagi ASN?",
             "options": [
-                "Mengelola data teknologi informasi dan pengembangan kebijakan di bidang ketenagakerjaan",
-                "Mengawasi pelaksanaan hubungan kerja",
-                "Mengoordinasikan hubungan internasional",
-                "Melakukan audit keuangan",
-                "Menyusun regulasi sektor swasta"
+                "Bonus tahunan dan penghargaan bersifat motivasi",
+                "Penghasilan, tunjangan, dan pengembangan diri",
+                "Fasilitas, lingkungan kerja dan hak keluarga",
+                "Kesejahteraan keluarga dan hak pensiun",
+                "Jaminan sosial, penghasilan dan pendidikan"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 1
         },
         {
             "id": 12,
             "chat_id": "-1002199224078",
-            "question": "Apa yang dimaksud dengan proses bisnis sebagaimana tercantum dalam Pasal 34 ayat (1)?",
+            "question": "Apa tujuan dari Digitalisasi Manajemen ASN seperti yang dijelaskan pada Pasal 63?",
             "options": [
-                "Hubungan kerja yang efektif dan efisien antar unit organisasi",
-                "Proses pelaporan keuangan tahunan",
-                "Perencanaan pelatihan teknis",
-                "Prosedur hubungan internasional",
-                "Koordinasi regulasi antar kementerian"
+                "Menjamin efisiensi, efektivitas dan akurasi anggaran pemerintah",
+                "Mengintegrasikan data nasional dan mendukung pengambilan keputusan",
+                "Meningkatkan fleksibilitas kerahasiaan dan keamanan data nasional",
+                "Menciptakan sistem kompetisi antar instansi",
+                "Mewujudkan ekosistem penyelenggaraan kebutuhan akan pelatihan"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 1
         },
         {
             "id": 13,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 41, dari mana sumber pendanaan untuk Kementerian Ketenagakerjaan berasal?",
+            "question": "Pasal 65 menyatakan larangan apa terkait ASN?",
             "options": [
-                "Dana investasi publik",
-                "Anggaran Pendapatan dan Belanja Negara",
-                "Dana hibah internasional",
-                "Pendapatan kementerian terkait",
-                "Dana organisasi non-pemerintah"
+                "Mengambil cuti di luar tanggungan negara",
+                "Mengangkat pegawai non-ASN untuk mengisi jabatan ASN",
+                "Mengadakan pelatihan di luar negeri",
+                "Menolak transfer mutasi ke daerah lain",
+                "Melakukan tugas tanpa supervisi pimpinan"
             ],
             "correct_option_id": 1
         },
         {
             "id": 14,
             "chat_id": "-1002199224078",
-            "question": "Apa yang terjadi dengan Peraturan Presiden Nomor 18 Tahun 2015 menurut Pasal 45?",
+            "question": "Menurut Pasal 27, apa dasar penyelenggaraan Manajemen ASN?",
             "options": [
-                "Akan ditinjau ulang",
-                "Tetap berlaku sebagai pedoman",
-                "Dicabut dan dinyatakan tidak berlaku",
-                "Diperbarui untuk menyesuaikan kondisi saat ini",
-                "Digantikan dengan regulasi baru"
+                "Sekolah kader",
+                "Prinsip pelayanan publik",
+                "Sistem Merit",
+                "Kebijakan atasan",
+                "Asas demokrasi"
             ],
             "correct_option_id": 2
         },
         {
             "id": 15,
             "chat_id": "-1002199224078",
-            "question": "Kapan Peraturan Presiden ini mulai berlaku sebagaimana diatur dalam Pasal 46?",
+            "question": "Pasal 46 menyebutkan metode pengembangan karier ASN. Apa metode yang dimaksud?",
             "options": [
-                "Setelah mendapatkan persetujuan parlemen",
-                "Pada saat diumumkan secara publik",
-                "Pada tanggal diundangkan",
-                "Setelah persetujuan dari Presiden",
-                "Setelah revisi selesai dilakukan"
+                "Peningkatan insentif",
+                "Pengadaan pelatihan mingguan",
+                "Mobilitas talenta",
+                "Rekrutmen terbuka",
+                "Kerja sama dengan sektor swasta"
             ],
             "correct_option_id": 2
         },
         {
             "id": 16,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 5, apa saja fungsi yang diselenggarakan Kementerian Ketenagakerjaan dalam melaksanakan tugasnya?",
+            "question": "Apa tujuan organisasi profesi ASN menurut Pasal 62?",
             "options": [
-                "Pengawasan kinerja dan evaluasi keuangan",
-                "Perumusan kebijakan, pengelolaan barang milik negara, dan pengawasan pelaksanaan tugas",
-                "Peningkatan hubungan internasional dan penyelesaian sengketa tenaga kerja",
-                "Penyusunan norma kerja dan pengawasan hubungan industrial",
-                "Pengembangan pelatihan dan pengelolaan data tenaga kerja"
+                "Mewujudkan jiwa korps ASN sebagai pelayan publik",
+                "Melakukan pemantauan terhadap partai politik",
+                "Menjaga etika profesi dan meningkatkan motivasi kerja",
+                "Meningkatkan produktivitas kerja Pegawai ASN yang independent",
+                "Menyusun program inovasi dan kreativitas Pegawai ASN regional"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 2
         },
         {
             "id": 17,
             "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tugas Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja sesuai Pasal 17?",
+            "question": "Apa yang dimaksud dengan Sistem Merit dalam Manajemen ASN?",
             "options": [
-                "Mengelola data dan informasi ketenagakerjaan",
-                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pembinaan hubungan industrial dan jaminan sosial tenaga kerja",
-                "Melaksanakan hubungan antar lembaga dan internasional",
-                "Mengatur kebijakan anggaran negara",
-                "Melakukan pelatihan dan supervisi pegawai"
+                "Sistem berbasis hierarki yang terstruktur baik sesuai aturan sudah disepakati",
+                "Pengelolaan ASN berdasarkan kompetensi, kualifikasi, dan kinerja",
+                "Sistem rotasi jabatan setiap 5 tahun",
+                "Pelatihan berkelanjutan dalam organisasi ASN",
+                "Suatu manajemen dalam pengangkatan pegawai berjenjang secara bijaksana"
             ],
             "correct_option_id": 1
         },
         {
             "id": 18,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 20, apa yang menjadi tugas Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja?",
+            "question": "Menurut Pasal 55, berapa batas usia pensiun pejabat administrator dan pengawas?",
             "options": [
-                "Menyusun perencanaan kerja dan pengawasan sektor informal",
-                "Mengembangkan teknologi keselamatan kerja",
-                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pembinaan pengawasan ketenagakerjaan dan keselamatan kerja",
-                "Mengatur regulasi hubungan tenaga kerja asing",
-                "Melakukan supervisi terhadap kinerja tenaga kerja di sektor publik"
+                "65 tahun",
+                "60 tahun",
+                "58 tahun",
+                "55 tahun",
+                "62 tahun"
             ],
             "correct_option_id": 2
         },
         {
             "id": 19,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas Staf Ahli Bidang Sosial, Politik, dan Kebijakan Publik sebagaimana diatur dalam Pasal 29 ayat (4)?",
+            "question": "Pasal 40 menjelaskan bahwa pengelolaan kinerja ASN harus berorientasi pada apa?",
             "options": [
-                "Mengatur hubungan internasional",
-                "Mengawasi kebijakan kementerian",
-                "Memberikan rekomendasi terhadap isu-isu strategis terkait bidang sosial, politik, dan kebijakan publik",
-                "Mengelola data dan informasi tenaga kerja",
-                "Menyusun anggaran kementerian"
+                "Hasil kerja dan perilaku kerja",
+                "Penguatan kolaborasi lintas unit kerja",
+                "Pengurangan biaya organisasi",
+                "Kompetisi antar pegawai yang adil",
+                "Loyalitas terhadap pimpinan"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 0
         },
         {
             "id": 20,
             "chat_id": "-1002199224078",
-            "question": "Apa ketentuan dalam Pasal 37 terkait pelaksanaan tugas dan fungsi di lingkungan Kementerian Ketenagakerjaan?",
+            "question": "Apa yang harus dilakukan instansi pemerintah sesuai Pasal 36 terkait pengadaan ASN?",
             "options": [
-                "Harus menerapkan prinsip koordinasi, integrasi, dan sinkronisasi",
-                "Mengutamakan prinsip efisiensi anggaran",
-                "Memprioritaskan pelatihan tenaga kerja",
-                "Melakukan evaluasi secara berkala",
-                "Melaksanakan audit kinerja"
+                "Mengumumkan kebutuhan jabatan secara terbuka",
+                "Membuat peraturan internal baru",
+                "Melakukan outsourcing tenaga kerja",
+                "Merekrut tanpa proses seleksi/honorer",
+                "Menetapkan kebijakan anggaran baru"
             ],
             "correct_option_id": 0
         },
         {
             "id": 21,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 38, sistem apa yang harus diterapkan oleh semua unsur di lingkungan Kementerian Ketenagakerjaan?",
+            "question": "Pasal 24 ayat (1) menyebutkan bahwa Pegawai ASN wajib menjaga netralitas. Apa arti dari netralitas ini?",
             "options": [
-                "Sistem akuntabilitas anggaran",
-                "Sistem pengendalian internal pemerintah",
-                "Sistem hubungan internasional",
-                "Sistem evaluasi berbasis kompetensi",
-                "Sistem koordinasi regional"
+                "Tidak memihak pada kepentingan pribadi",
+                "Tidak memihak dari segala bentuk pengaruh politik",
+                "Tidak berinteraksi dengan pejabat pemerintah",
+                "Tidak berpartisipasi dalam kegiatan sosial",
+                "Tidak menggunakan fasilitas pemerintah"
             ],
             "correct_option_id": 1
         },
         {
             "id": 22,
             "chat_id": "-1002199224078",
-            "question": "Apa ketentuan mengenai jabatan di lingkungan Kementerian Ketenagakerjaan sebagaimana disebutkan dalam Pasal 30?",
+            "question": "Menurut Pasal 31, ruang lingkup Manajemen ASN mencakup beberapa hal. Manakah yang bukan termasuk ruang lingkup tersebut?",
             "options": [
-                "Harus ditentukan oleh Presiden",
-                "Dapat ditetapkan sesuai kebutuhan sesuai peraturan perundang-undangan",
-                "Hanya dapat diisi oleh pejabat senior",
-                "Harus memiliki sertifikasi internasional",
-                "Ditetapkan melalui persetujuan DPR"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 23,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 31, siapa yang memimpin Unit Pelaksana Teknis di lingkungan Kementerian Ketenagakerjaan?",
-            "options": [
-                "Menteri",
-                "Sekretaris Jenderal",
-                "Direktur Jenderal",
-                "Kepala",
-                "Inspektur Jenderal"
+                "Perencanaan kebutuhan",
+                "Pengadaan",
+                "Pengelolaan kinerja",
+                "Pelaksanaan anggaran negara",
+                "Pemberhentian"
             ],
             "correct_option_id": 3
         },
         {
+            "id": 23,
+            "chat_id": "-1002199224078",
+            "question": "Apa tujuan utama pengembangan kompetensi ASN menurut Pasal 49 ayat (1)?",
+            "options": [
+                "Memenuhi persyaratan pensiun",
+                "Tetap relevan dengan tuntutan organisasi",
+                "Mengurangi jumlah tenaga kerja",
+                "Mempercepat proses rekrutmen",
+                "Meningkatkan insentif keuangan"
+            ],
+            "correct_option_id": 1
+        },
+        {
             "id": 24,
             "chat_id": "-1002199224078",
-            "question": "Apa ketentuan peralihan dalam Pasal 44 mengenai jabatan di lingkungan Kementerian Ketenagakerjaan?",
+            "question": "Pasal 43 menyebutkan bahwa pengelolaan kinerja ASN merupakan kewenangan siapa?",
             "options": [
-                "Semua jabatan harus diisi oleh pejabat baru dalam 30 hari",
-                "Seluruh jabatan yang ada tetap melaksanakan tugasnya hingga dibentuk jabatan baru",
-                "Pejabat lama akan diberhentikan segera setelah peraturan berlaku",
-                "Semua jabatan harus disetujui oleh Presiden",
-                "Jabatan baru akan diisi melalui seleksi terbuka"
+                "Pejabat Pembina Kepegawaian",
+                "Pejabat yang Berwenang",
+                "Kepala daerah",
+                "Menteri terkait",
+                "Sekretaris jenderal"
             ],
             "correct_option_id": 1
         },
         {
             "id": 25,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 2 ayat (5), apa ruang lingkup tugas Wakil Menteri?",
+            "question": "Apa syarat utama pengisian Jabatan Manajerial dari PPPK sebagaimana diatur dalam Pasal 34 ayat (2)?",
             "options": [
-                "Mengoordinasikan hubungan internasional",
-                "Membantu Menteri dalam perumusan kebijakan dan koordinasi pencapaian kebijakan strategis lintas unit organisasi",
-                "Menyusun anggaran kementerian",
-                "Mengelola data dan informasi ketenagakerjaan",
-                "Melaksanakan pengawasan terhadap unit organisasi"
+                "Mempunyai pengalaman minimal 10 tahun",
+                "Diperuntukkan bagi jabatan pimpinan tinggi tertentu",
+                "Lulus seleksi terbuka",
+                "Memiliki latar belakang pendidikan tinggi",
+                "Bekerja di sektor swasta sebelumnya"
             ],
             "correct_option_id": 1
         },
         {
             "id": 26,
             "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tugas Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana diatur dalam Pasal 11?",
+            "question": "Pasal 55 menyebutkan bahwa batas usia pensiun pejabat administrator adalah berapa tahun?",
             "options": [
-                "Menyusun kebijakan sosial dan tenaga kerja",
-                "Melakukan pelatihan pegawai kementerian",
-                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja serta produktivitas",
-                "Mengelola hubungan internasional di sektor ketenagakerjaan",
-                "Mengatur regulasi hubungan industrial"
+                "60 tahun",
+                "65 tahun",
+                "58 tahun",
+                "55 tahun",
+                "62 tahun"
             ],
             "correct_option_id": 2
         },
         {
             "id": 27,
             "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi fungsi Badan Perencanaan dan Pengembangan Ketenagakerjaan sebagaimana tercantum dalam Pasal 27?",
+            "question": "Pasal 13 menyatakan bahwa ASN memiliki dua jenis jabatan. Apa saja jenis tersebut?",
             "options": [
-                "Menyusun kebijakan di bidang hubungan kerja",
-                "Mengembangkan pelatihan vokasi untuk tenaga kerja asing",
-                "Menyelenggarakan perencanaan ketenagakerjaan nasional, pengelolaan teknologi informasi, dan pengembangan kebijakan",
-                "Melakukan supervisi terhadap pengawasan ketenagakerjaan",
-                "Mengatur hubungan industrial"
+                "Jabatan regional dan nasional",
+                "Jabatan teknis dan administratif",
+                "Jabatan manajerial dan nonmanajerial",
+                "Jabatan lokal dan internasional",
+                "Jabatan tetap dan honorer"
             ],
             "correct_option_id": 2
         },
         {
             "id": 28,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 33, apa yang harus diterapkan Menteri dalam melaksanakan tugas dan fungsinya?",
+            "question": "Menurut Pasal 50 ayat (1), penghargaan dan pengakuan bagi ASN harus diberikan dengan cara apa?",
             "options": [
-                "Sistem pelaporan reguler",
-                "Sistem koordinasi internal",
-                "Sistem akuntabilitas kinerja instansi pemerintah",
-                "Sistem pengelolaan anggaran",
-                "Sistem audit eksternal"
+                "Melalui survei kinerja publik",
+                "Berdasarkan rekomendasi kepala daerah",
+                "Secara adil, layak, dan kompetitif",
+                "Melalui penilaian dari lembaga eksternal",
+                "Dengan mengacu pada anggaran yang tersedia"
             ],
             "correct_option_id": 2
         },
         {
             "id": 29,
             "chat_id": "-1002199224078",
-            "question": "Apa yang harus disusun oleh Kementerian Ketenagakerjaan sebagaimana disebutkan dalam Pasal 36?",
+            "question": "Apa kewajiban utama instansi pemerintah terkait nilai dasar ASN sesuai Pasal 39 ayat (2)?",
             "options": [
-                "Laporan regulasi tahunan",
-                "Proses bisnis yang efektif dan efisien",
-                "Analisis jabatan, peta jabatan, analisis beban kerja, dan uraian tugas terhadap seluruh jabatan",
-                "Strategi hubungan internasional",
-                "Anggaran pelatihan tenaga kerja"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 30,
-            "chat_id": "-1002199224078",
-            "question": "Apa tujuan dari Pasal 43 mengenai ketentuan peralihan?",
-            "options": [
-                "Mencabut semua peraturan yang lama",
-                "Mengintegrasikan regulasi hubungan kerja",
-                "Menjamin ketentuan pelaksanaan tetap berlaku jika tidak bertentangan atau belum diubah",
-                "Mengatur kebijakan sementara untuk hubungan internasional",
-                "Menyusun kebijakan baru untuk regulasi tenaga kerja"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 31,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang diatur dalam Pasal 39 ayat (1) mengenai tugas pimpinan unit organisasi?",
-            "options": [
-                "Menyusun laporan keuangan tahunan",
-                "Membimbing dan mengoordinasikan bawahan untuk melaksanakan tugas sesuai uraian tugas",
-                "Melakukan audit terhadap bawahan",
-                "Menjalin kerja sama dengan kementerian lain",
-                "Mengelola anggaran unit organisasi"
+                "Melakukan penilaian tahunan terhadap ASN",
+                "Melaksanakan internalisasi nilai dasar ASN",
+                "Melakukan rotasi jabatan secara berkala",
+                "Menerapkan sanksi bagi ASN yang melanggar",
+                "Memberikan pelatihan secara langsung"
             ],
             "correct_option_id": 1
         },
         {
+            "id": 30,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 18 ayat (3) menyebutkan bahwa jabatan pelaksana memiliki tanggung jawab apa?",
+            "options": [
+                "Memberikan pelayanan yang bersifat rutin dan sederhana",
+                "Mengelola anggaran di instansi pemerintah",
+                "Mengawasi kinerja pegawai lainnya",
+                "Merancang kebijakan publik",
+                "Menyusun laporan evaluasi tahunan"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 31,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 64 ayat (2), apa saja upaya administratif untuk menyelesaikan sengketa ASN?",
+            "options": [
+                "Keberatan dan banding administratif",
+                "Pelaporan langsung ke instansi pemerintah",
+                "Mediasi antara ASN dan pimpinan",
+                "Penunjukan mediator eksternal",
+                "Proses hukum di pengadilan"
+            ],
+            "correct_option_id": 0
+        },
+        {
             "id": 32,
             "chat_id": "-1002199224078",
-            "question": "Apa yang diwajibkan oleh Pasal 40 kepada pimpinan unit organisasi dalam pelaksanaan tugasnya?",
+            "question": "Apa yang harus dilakukan ASN jika ingin mencalonkan diri sebagai pejabat politik, sesuai Pasal 56?",
             "options": [
-                "Mengatur hubungan kerja dengan negara lain",
-                "Melakukan pembinaan dan pengawasan terhadap unit organisasi di bawahnya",
-                "Melaporkan semua kegiatan operasional ke Presiden",
-                "Melakukan evaluasi terhadap kementerian lain",
-                "Mengawasi hubungan antar kementerian"
+                "Mengajukan cuti selama masa kampanye",
+                "Menyatakan pengunduran diri secara tertulis sejak ditetapkan sebagai calon",
+                "Meminta izin kepada kepala instansi",
+                "Memenuhi syarat usia tertentu",
+                "Menjalani pelatihan khusus"
             ],
             "correct_option_id": 1
         },
         {
             "id": 33,
             "chat_id": "-1002199224078",
-            "question": "Apa yang diatur dalam Pasal 42 mengenai ketentuan lebih lanjut tentang Kementerian Ketenagakerjaan?",
+            "question": "Apa tujuan utama dari Sistem Merit seperti yang disebutkan dalam Pasal 27 ayat (2)?",
             "options": [
-                "Harus diatur oleh Presiden secara langsung",
-                "Ditetapkan oleh Menteri setelah mendapat persetujuan tertulis dari Menteri Aparatur Negara",
-                "Mengatur hubungan internasional di bidang ketenagakerjaan",
-                "Harus mendapat persetujuan dari Dewan Perwakilan Rakyat",
-                "Ditentukan oleh hasil rapat kementerian"
+                "Mengurangi biaya operasional pemerintah",
+                "Meningkatkan efisiensi kinerja organisasi",
+                "Menjamin pengelolaan ASN berbasis kompetensi dan kinerja",
+                "Mengawasi aktivitas ASN secara menyeluruh",
+                "Meningkatkan loyalitas pegawai kepada pimpinan"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 2
         },
         {
             "id": 34,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 44, apa yang terjadi pada seluruh jabatan di lingkungan Kementerian Ketenagakerjaan saat peraturan ini mulai berlaku?",
+            "question": "Pasal 41 menjelaskan mekanisme pengelolaan kinerja ASN. Bagaimana mekanisme ini dilakukan?",
             "options": [
-                "Dibatalkan dan diganti",
-                "Tetap melaksanakan tugas dan fungsinya hingga dibentuk jabatan baru",
-                "Harus segera diisi oleh pejabat baru",
-                "Akan dilaporkan ke Presiden",
-                "Dibekukan sementara"
+                "Melalui pemantauan ketat oleh atasan",
+                "Melalui mekanisme kerja yang fleksibel dan kolaboratif",
+                "Melalui evaluasi harian oleh tim internal",
+                "Melalui pengawasan oleh lembaga independen",
+                "Melalui penilaian eksternal dari publik"
             ],
             "correct_option_id": 1
         },
         {
             "id": 35,
             "chat_id": "-1002199224078",
-            "question": "Apa yang dicabut dan dinyatakan tidak berlaku sebagaimana disebutkan dalam Pasal 45?",
+            "question": "Apa kewajiban Pegawai ASN yang disebutkan dalam Pasal 24 ayat (1)?",
             "options": [
-                "Peraturan Presiden Nomor 18 Tahun 2015",
-                "Semua regulasi terkait tenaga kerja",
-                "Undang-Undang tentang Ketenagakerjaan",
-                "Peraturan Menteri yang bertentangan",
-                "Instruksi Presiden tentang Hubungan Industrial"
+                "Menyelesaikan tugas sesuai tenggat waktu",
+                "Bersedia ditempatkan di seluruh wilayah NKRI",
+                "Melakukan pelatihan setiap 6 bulan",
+                "Menyusun laporan keuangan tahunan",
+                "Menjalani tes kesehatan berkala"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 1
         },
         {
             "id": 36,
             "chat_id": "-1002199224078",
-            "question": "Apa yang diatur dalam Pasal 30 terkait jabatan fungsional di lingkungan Kementerian Ketenagakerjaan?",
+            "question": "Pasal 63 menyebutkan prinsip apa yang harus diperhatikan dalam Digitalisasi Manajemen ASN?",
             "options": [
-                "Hanya untuk jabatan tertentu",
-                "Ditetapkan sesuai kebutuhan berdasarkan peraturan perundang-undangan",
-                "Harus diawasi oleh Inspektorat Jenderal",
-                "Memerlukan sertifikasi internasional",
-                "Ditentukan oleh Presiden"
+                "Efisiensi anggaran",
+                "Kerja sama internasional",
+                "Keberlangsungan, kerahasiaan, dan keamanan siber",
+                "Transparansi penuh kepada publik",
+                "Integrasi dengan lembaga swasta"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 2
         },
         {
             "id": 37,
             "chat_id": "-1002199224078",
-            "question": "Apa yang dimaksud dengan Unit Pelaksana Teknis menurut Pasal 31 ayat (1)?",
+            "question": "Apa kewenangan utama Presiden dalam kebijakan ASN seperti yang diatur dalam Pasal 26 ayat (1)?",
             "options": [
-                "Unit yang bertanggung jawab atas koordinasi antar kementerian",
-                "Unit yang melaksanakan tugas teknis operasional dan/atau teknis penunjang",
-                "Unit yang mengelola hubungan internasional",
-                "Unit yang bertanggung jawab atas evaluasi anggaran",
-                "Unit yang mengawasi pelaksanaan tugas kementerian lain"
+                "Menyusun anggaran tahunan ASN",
+                "Memimpin seleksi ASN di tingkat pusat",
+                "Mengelola kebijakan, pembinaan profesi, dan Manajemen ASN",
+                "Menentukan jadwal pelatihan nasional",
+                "Mengawasi rotasi pegawai di instansi daerah"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 2
         },
         {
             "id": 38,
             "chat_id": "-1002199224078",
-            "question": "Apa tujuan pengaturan proses bisnis sebagaimana disebutkan dalam Pasal 34 ayat (1)?",
+            "question": "Menurut Pasal 66, kapan penataan pegawai non-ASN harus diselesaikan?",
             "options": [
-                "Mengatur hubungan kerja dengan kementerian lain",
-                "Menggambarkan tata hubungan kerja yang efektif dan efisien antar unit organisasi",
-                "Mempermudah koordinasi antar negara",
-                "Mengawasi anggaran tahunan",
-                "Melakukan evaluasi hubungan internasional"
+                "Paling lambat Desember 2023",
+                "Paling lambat Desember 2024",
+                "Paling lambat Januari 2025",
+                "Paling lambat Juli 2025",
+                "Paling lambat Desember 2025"
             ],
             "correct_option_id": 1
         },
         {
             "id": 39,
             "chat_id": "-1002199224078",
-            "question": "Apa yang harus diterapkan setiap unsur di lingkungan Kementerian Ketenagakerjaan sebagaimana tercantum dalam Pasal 38?",
+            "question": "Apa saja sumber pembiayaan jaminan pensiun ASN sesuai Pasal 22 ayat (4)?",
             "options": [
-                "Sistem pengendalian internal pemerintah",
-                "Sistem koordinasi internasional",
-                "Sistem audit dan evaluasi",
-                "Sistem supervisi kerja",
-                "Sistem analisis beban kerja"
+                "Pemerintah dan dana sosial",
+                "Anggaran pribadi pegawai",
+                "Pemerintah dan iuran pegawai",
+                "Hibah dari lembaga internasional",
+                "Dana simpanan pemerintah daerah"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 2
         },
         {
             "id": 40,
             "chat_id": "-1002199224078",
-            "question": "Apa yang harus dilaporkan Menteri kepada Presiden sebagaimana disebutkan dalam Pasal 35?",
+            "question": "Menurut Pasal 47 ayat (3), apa tujuan mobilitas talenta secara nasional?",
             "options": [
-                "Laporan hasil kerja unit organisasi",
-                "Laporan hasil pelaksanaan urusan pemerintahan di bidang ketenagakerjaan",
-                "Laporan penggunaan anggaran kementerian",
-                "Laporan hubungan internasional kementerian",
-                "Laporan pelatihan pegawai"
+                "Meningkatkan insentif keuangan",
+                "Menciptakan peluang kerja di sektor swasta",
+                "Mengatasi kesenjangan talenta",
+                "Mengurangi jumlah pegawai di instansi tertentu",
+                "Meningkatkan loyalitas kepada pemerintah pusat"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 41,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 22, jaminan pensiun ASN diberikan untuk tujuan apa?",
+            "options": [
+                "Melindungi kesinambungan penghasilan ASN setelah pensiun",
+                "Memberikan penghargaan bagi ASN yang mencapai target",
+                "Sebagai pengakuan formal atas kontribusi ASN",
+                "Meningkatkan kualitas hidup pegawai setelah berhenti bekerja",
+                "Mendukung keseimbangan anggaran pensiun negara"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 42,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 3 ayat (2) menyebutkan nilai dasar ASN. Apa saja nilai dasar tersebut?",
+            "options": [
+                "Berorientasi pelayanan, kompeten, dan adil",
+                "Akuntabel, loyal, dan berorientasi hasil",
+                "Loyal, harmonis, dan berintegritas",
+                "Adaptif, kolaboratif, dan sinkronis",
+                "Berorientasi pelayanan, adaptif, dan harmonis"
+            ],
+            "correct_option_id": 4
+        },
+        {
+            "id": 43,
+            "chat_id": "-1002199224078",
+            "question": "Apa fungsi utama ASN sebagai perekat dan pemersatu bangsa, sesuai Pasal 10?",
+            "options": [
+                "Melaksanakan kebijakan publik dengan adil",
+                "Memberikan pelayanan publik secara optimal",
+                "Mengelola konflik antarinstansi pemerintah",
+                "Mendukung persatuan berdasarkan Pancasila",
+                "Membangun lingkungan kerja yang kondusif"
+            ],
+            "correct_option_id": 3
+        },
+        {
+            "id": 44,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 4 ayat (2) menyebutkan nilai dasar akuntabilitas. Apa saja yang termasuk dalam nilai tersebut?",
+            "options": [
+                "Menggerakkan pemanfaatan berbagai sumber daya untuk tujuan bersama",
+                "Memberikan pelayanan sesuai kebutuhan masyarakat",
+                "Meningkatkan kompetensi diri untuk menghadapi tantangan",
+                "Melaksanakan tugas dengan akurat dan efisien",
+                "Melaksanakan tugas dengan jujur dan bertanggung jawab"
+            ],
+            "correct_option_id": 4
+        },
+        {
+            "id": 45,
+            "chat_id": "-1002199224078",
+            "question": "Apa yang menjadi kriteria utama pengisian Jabatan Nonmanajerial, sesuai Pasal 18 ayat (2)?",
+            "options": [
+                "Keahlian dan pengalaman kerja",
+                "Kompetensi dan kualifikasi pendidikan",
+                "Keahlian dan/atau keterampilan tertentu",
+                "Pendidikan tinggi dan pengalaman teknis",
+                "Loyalitas dan keahlian khusus"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 46,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 40 menyebutkan pengelolaan kinerja ASN berorientasi pada apa?",
+            "options": [
+                "Hasil kerja dan perilaku kerja",
+                "Keseimbangan antara hak dan kewajiban",
+                "Kemajuan profesional dan pengembangan diri",
+                "Efisiensi waktu dalam mencapai target",
+                "Penghargaan atas kontribusi pegawai"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 47,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 39 ayat (1), apa panduan perilaku ASN dalam membangun budaya kerja?",
+            "options": [
+                "Kode etik dan prinsip transparansi",
+                "Peraturan instansi dan kode etik nasional",
+                "Nilai dasar ASN dan kode etik",
+                "SOP internal dan kode perilaku kerja",
+                "Kode perilaku dan pedoman pemerintah"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 48,
+            "chat_id": "-1002199224078",
+            "question": "Apa fungsi utama mobilitas talenta menurut Pasal 46 ayat (4)?",
+            "options": [
+                "Menyediakan peluang karier yang lebih luas",
+                "Mengoptimalkan distribusi keahlian ASN berdasarkan Sistem Merit",
+                "Meningkatkan efisiensi kerja antar instansi",
+                "Memastikan ketersediaan pegawai di daerah terpencil",
+                "Meningkatkan kemampuan teknis pegawai lintas sektor"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 49,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 31 menyebutkan bahwa pemberhentian ASN termasuk dalam ruang lingkup Manajemen ASN. Apa alasan utama pemberhentian tidak atas permintaan sendiri?",
+            "options": [
+                "Melakukan pelanggaran disiplin tingkat berat",
+                "Tidak menunjukkan kinerja yang memadai",
+                "Mencapai batas usia pensiun",
+                "Mengundurkan diri atas dasar pribadi",
+                "Dipidana dengan putusan hukum tetap"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 50,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 63 ayat (4) menyebutkan prinsip Digitalisasi Manajemen ASN. Apa yang menjadi prioritas dalam penerapan ini?",
+            "options": [
+                "Peningkatan transparansi dan integrasi data",
+                "Efisiensi anggaran melalui pengurangan manual proses",
+                "Keberlangsungan, kerahasiaan, dan keamanan siber",
+                "Kemudahan akses bagi seluruh instansi pemerintah",
+                "Kolaborasi lintas kementerian dengan sistem digital"
+            ],
+            "correct_option_id": 2
+        },
+		{
+            "id": 51,
+            "chat_id": "-1002199224078",
+            "question": "Apa kewenangan Pejabat Pembina Kepegawaian sesuai Pasal 28 ayat (1)?",
+            "options": [
+                "Menentukan kebijakan nasional terkait ASN",
+                "Melaksanakan Sistem Merit dalam pengangkatan, pemindahan, dan pemberhentian Pegawai ASN",
+                "Menyusun laporan evaluasi kinerja instansi",
+                "Mengatur distribusi anggaran untuk pegawai",
+                "Membuat program pengembangan kompetensi"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 52,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 36 menjelaskan tentang pengadaan ASN. Apa yang diwajibkan untuk setiap instansi pemerintah?",
+            "options": [
+                "Menerapkan sistem seleksi berbasis teknologi",
+                "Mengumumkan kebutuhan jabatan secara terbuka",
+                "Melakukan rotasi jabatan secara berkala",
+                "Membentuk tim pengawasan seleksi ASN",
+                "Mengadakan pelatihan teknis bagi pegawai baru"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 53,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 55, berapa batas usia pensiun untuk pejabat pimpinan tinggi utama?",
+            "options": [
+                "58 tahun",
+                "60 tahun",
+                "62 tahun",
+                "65 tahun",
+                "63 tahun"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 54,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 46 ayat (3) menyebutkan tiga jenis mobilitas talenta. Manakah yang termasuk dalam jenis tersebut?",
+            "options": [
+                "Antar-instansi pemerintah, ke luar instansi pemerintah, dan ke lembaga swasta",
+                "Dalam satu instansi pemerintah, antar-instansi pemerintah, dan ke luar instansi pemerintah",
+                "Ke luar negeri, ke lembaga swasta, dan antar-instansi pemerintah",
+                "Ke kementerian pusat, ke lembaga daerah, dan antar negara",
+                "Dalam satu instansi pemerintah, ke lembaga swasta, dan ke luar negeri"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 55,
+            "chat_id": "-1002199224078",
+            "question": "Apa yang menjadi tujuan utama pemberian penghargaan dan pengakuan bagi ASN sesuai Pasal 21?",
+            "options": [
+                "Memotivasi ASN untuk bekerja lebih efisien",
+                "Menjamin kesejahteraan ASN dan keluarga",
+                "Meningkatkan produktivitas kerja dan kepuasan pegawai",
+                "Mendukung loyalitas ASN terhadap pimpinan",
+                "Memberikan insentif finansial kepada ASN"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 56,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 64, bagaimana cara utama menyelesaikan sengketa ASN?",
+            "options": [
+                "Melalui pengadilan tata usaha negara",
+                "Melalui upaya administratif berupa keberatan dan banding",
+                "Melalui mediasi oleh pihak independen",
+                "Melalui komite pengawasan internal",
+                "Melalui arbitrase internasional"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 57,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 5 menyebutkan dua jenis pegawai ASN. Manakah yang benar?",
+            "options": [
+                "Pegawai negeri sipil (PNS) dan pegawai pemerintah dengan perjanjian kerja (PPPK)",
+                "Pegawai tetap dan pegawai tidak tetap",
+                "Pegawai kontrak dan pegawai profesional",
+                "Pegawai struktural dan pegawai teknis",
+                "Pegawai lokal dan pegawai nasional"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 58,
+            "chat_id": "-1002199224078",
+            "question": "Pasal 11 menyebutkan tugas ASN. Manakah yang termasuk tugas tersebut?",
+            "options": [
+                "Melaksanakan kebijakan publik yang dibuat oleh Pejabat Pembina Kepegawaian",
+                "Mengawasi kebijakan daerah sesuai mandat kepala instansi",
+                "Mengatur distribusi anggaran untuk program pemerintah",
+                "Menetapkan standar pelayanan nasional",
+                "Mengelola konflik antarinstansi di tingkat pusat"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 59,
+            "chat_id": "-1002199224078",
+            "question": "Apa tujuan dari transformasi Digitalisasi Manajemen ASN sesuai Pasal 63?",
+            "options": [
+                "Mengurangi kebutuhan pelatihan pegawai",
+                "Memastikan efisiensi, efektivitas, dan akurasi pengelolaan ASN",
+                "Meningkatkan kompetisi antar instansi",
+                "Mempercepat proses pensiun ASN",
+                "Memastikan kebijakan rotasi pegawai berjalan lancar"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 60,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 8, apa kedudukan ASN dalam sistem pemerintahan Indonesia?",
+            "options": [
+                "Sebagai tenaga profesional di lembaga negara",
+                "Sebagai unsur aparatur negara",
+                "Sebagai pendukung kebijakan internasional",
+                "Sebagai tenaga pengawas regulasi",
+                "Sebagai perencana pembangunan nasional"
             ],
             "correct_option_id": 1
         }
