@@ -1,1810 +1,523 @@
 {
     "quizzes": [
         {
-            "id": 130,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 60, Kepala Balai Besar Pelatihan Vokasi dan Produktivitas merupakan jabatan yang setara dengan eselon?",
-            "options": [
-                "Eselon I.a",
-                "Eselon II.b",
-                "Eselon III.a",
-                "Eselon IV.a",
-                "Eselon III.b"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 131,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 61 menyebutkan bahwa pejabat pimpinan tinggi pratama, administrator, dan pengawas diangkat oleh?",
-            "options": [
-                "Menteri Ketenagakerjaan",
-                "Kepala Subbagian Umum",
-                "Kepala Direktorat Jenderal",
-                "Sekretaris Jenderal",
-                "Presiden"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 132,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 60, Kepala Balai Pelatihan Vokasi dan Produktivitas Kelas I merupakan jabatan yang setara dengan eselon?",
-            "options": [
-                "Eselon II.a",
-                "Eselon II.b",
-                "Eselon III.a",
-                "Eselon IV.a",
-                "Eselon III.b"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 133,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 60, Kepala Subbagian pada Balai Pelatihan Vokasi dan Produktivitas Kelas II termasuk dalam jabatan setara dengan eselon?",
-            "options": [
-                "Eselon IV.a",
-                "Eselon III.b",
-                "Eselon IV.b",
-                "Eselon I.a",
-                "Eselon II.b"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 134,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 60 menyebutkan bahwa Kepala Subbagian pada Balai Perluasan Kesempatan Kerja dan Balai Keselamatan dan Kesehatan Kerja termasuk dalam jabatan setara eselon?",
-            "options": [
-                "Eselon I.a",
-                "Eselon II.a",
-                "Eselon III.a",
-                "Eselon IV.a",
-                "Eselon IV.b"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 135,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 60, Kepala Bagian pada Balai Besar Pelatihan Vokasi dan Produktivitas serta Balai Besar Keselamatan dan Kesehatan Kerja merupakan jabatan setara dengan eselon?",
-            "options": [
-                "Eselon II.b",
-                "Eselon III.a",
-                "Eselon III.b",
-                "Eselon I.a",
-                "Eselon IV.a"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 136,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 61 menyebutkan bahwa pengangkatan pejabat di jabatan pimpinan tinggi pratama, administrator, dan pengawas dilakukan oleh?",
-            "options": [
-                "Menteri",
-                "Kepala UPT",
-                "Sekretariat Jenderal",
-                "Kepala Subbagian",
-                "Kepala Direktorat Jenderal"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 137,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 60, jabatan Kepala Subbagian pada Balai Pelatihan Vokasi dan Produktivitas Kelas I adalah setara dengan eselon?",
-            "options": [
-                "Eselon IV.a",
-                "Eselon III.a",
-                "Eselon IV.b",
-                "Eselon III.b",
-                "Eselon I.a"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 138,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 60 menyebutkan bahwa Kepala Balai Perluasan Kesempatan Kerja merupakan jabatan yang setara dengan eselon?",
-            "options": [
-                "Eselon I.a",
-                "Eselon II.b",
-                "Eselon III.a",
-                "Eselon IV.a",
-                "Eselon II.a"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 139,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 60, Kepala Balai Keselamatan dan Kesehatan Kerja memiliki jabatan setara dengan eselon?",
-            "options": [
-                "Eselon I.a",
-                "Eselon II.b",
-                "Eselon III.a",
-                "Eselon IV.a",
-                "Eselon III.b"
-            ],
-            "correct_option_id": 1
-        },
-        {
             "id": 1,
             "chat_id": "-1002199224078",
-            "question": "Apa yang dimaksud dengan Unit Pelaksana Teknis (UPT) sebagaimana disebutkan dalam Pasal 1 ayat (1) Peraturan Menteri Ketenagakerjaan Nomor 1 Tahun 2022?",
+            "question": "Siapa yang bertanggung jawab atas Kementerian Ketenagakerjaan sebagaimana diatur dalam Pasal 1 ayat (1)?",
             "options": [
-                "Satuan kerja mandiri untuk pelaksanaan tugas teknis tertentu",
-                "Unit organisasi nonstruktural di kementerian",
-                "Bagian dari Direktorat Jenderal Pembinaan Pelatihan Vokasi",
-                "Satuan tugas yang dipimpin oleh koordinator",
-                "Struktur organisasi penunjang pelaksanaan fungsi kementerian"
+                "Menteri Keuangan",
+                "Presiden",
+                "Menteri Hukum dan HAM",
+                "Dewan Perwakilan Rakyat",
+                "Wakil Menteri"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 1
         },
         {
             "id": 2,
             "chat_id": "-1002199224078",
-            "question": "Sesuai dengan Pasal 2, kepada siapa UPT Bidang Pelatihan Vokasi dan Produktivitas bertanggung jawab?",
+            "question": "Berdasarkan Pasal 2 ayat (2), siapa yang memiliki kewenangan mengangkat dan memberhentikan Wakil Menteri Ketenagakerjaan?",
             "options": [
+                "Sekretaris Jenderal",
+                "Presiden",
                 "Menteri Ketenagakerjaan",
-                "Direktur Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas",
-                "Kepala Balai Besar Pelatihan Vokasi",
-                "Sekretariat Jenderal Kementerian",
-                "Koordinator Wilayah Pelatihan"
+                "Dewan Perwakilan Rakyat",
+                "Wakil Presiden"
             ],
             "correct_option_id": 1
         },
         {
             "id": 3,
             "chat_id": "-1002199224078",
-            "question": "Lokasi Balai Besar Pelatihan Vokasi dan Produktivitas tercantum di Pasal 10. Mana lokasi yang benar?",
+            "question": "Apa tugas utama Kementerian Ketenagakerjaan menurut Pasal 4?",
             "options": [
-                "Jakarta, Surabaya, Makassar",
-                "Medan, Serang, Bekasi, Bandung, Semarang, Makassar",
-                "Bandung Barat, Lombok Timur, Sidoarjo",
-                "Ternate, Ambon, Sorong",
-                "Padang, Banda Aceh, Kendari"
+                "Mengelola anggaran negara",
+                "Menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan",
+                "Mengawasi pelaksanaan undang-undang",
+                "Menyusun kebijakan fiskal",
+                "Mengatur hubungan internasional"
             ],
             "correct_option_id": 1
         },
         {
             "id": 4,
             "chat_id": "-1002199224078",
-            "question": "Dalam Lampiran I, wilayah kerja Balai Besar Pelatihan Vokasi dan Produktivitas adalah?",
+            "question": "Menurut Pasal 7 ayat (2), siapa yang memimpin Sekretariat Jenderal di Kementerian Ketenagakerjaan?",
             "options": [
-                "Provinsi setempat",
-                "Kabupaten tertentu",
-                "Seluruh Indonesia",
-                "Wilayah Barat dan Tengah",
-                "Wilayah Timur Indonesia"
+                "Direktur Jenderal",
+                "Wakil Menteri",
+                "Sekretaris Jenderal",
+                "Inspektur Jenderal",
+                "Kepala Badan"
             ],
             "correct_option_id": 2
         },
         {
             "id": 5,
             "chat_id": "-1002199224078",
-            "question": "Tugas utama Balai Besar Keselamatan dan Kesehatan Kerja tercantum dalam Pasal 38. Apa tugas tersebut?",
+            "question": "Apa yang menjadi fungsi Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana disebutkan dalam Pasal 12?",
             "options": [
-                "Menyediakan pelatihan vokasi",
-                "Melakukan promosi keselamatan kerja",
-                "Mengawasi kinerja organisasi",
-                "Melakukan pengukuran produktivitas",
-                "Melaksanakan pengujian dan peningkatan kapasitas"
+                "Mengelola hubungan antar lembaga",
+                "Mengawasi kebijakan publik",
+                "Meningkatkan kompetensi dan daya saing tenaga kerja",
+                "Melakukan penelitian tenaga kerja",
+                "Mengatur regulasi sektor swasta"
             ],
-            "correct_option_id": 4
-        },
-        {
+            "correct_option_id": 2
+        },{
             "id": 6,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 25, salah satu fungsi Balai Besar Perluasan Kesempatan Kerja adalah?",
+            "question": "Apa tugas Wakil Menteri sesuai Pasal 2 ayat (4)?",
             "options": [
-                "Melakukan peningkatan kapasitas",
-                "Menyediakan layanan konsultansi",
-                "Melaksanakan uji coba model perluasan kesempatan kerja",
-                "Mengelola persuratan dan kearsipan",
-                "Melakukan supervisi teknis"
+                "Menyusun anggaran kementerian",
+                "Mengatur hubungan internasional",
+                "Membantu Menteri dalam memimpin pelaksanaan tugas kementerian",
+                "Melaksanakan pengawasan terhadap kinerja staf",
+                "Mengatur kerja sama antar kementerian"
             ],
             "correct_option_id": 2
         },
         {
             "id": 7,
             "chat_id": "-1002199224078",
-            "question": "Pasal 17 menyebutkan salah satu fungsi Balai Pelatihan Vokasi dan Produktivitas Kelas II adalah?",
+            "question": "Berdasarkan Pasal 6, apa saja yang termasuk dalam susunan organisasi Kementerian Ketenagakerjaan?",
             "options": [
-                "Pelaksanaan sertifikasi kompetensi",
-                "Pelaksanaan promosi produktivitas",
-                "Pelaksanaan fasilitasi pemagangan",
-                "Peningkatan jejaring vokasi",
-                "Pengelolaan barang milik negara"
+                "Sekretariat Jenderal, Direktorat Jenderal, dan Badan Perencanaan",
+                "Direktorat Utama, Badan Perencanaan, dan Staf Ahli",
+                "Sekretariat Jenderal, Direktorat Utama, dan Inspektorat",
+                "Direktorat Jenderal, Badan Pengawas, dan Divisi Teknologi",
+                "Sekretariat Jenderal, Divisi Operasional, dan Direktorat Utama"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 0
         },
         {
             "id": 8,
             "chat_id": "-1002199224078",
-            "question": "Di antara lokasi berikut, manakah yang merupakan lokasi Balai Pelatihan Vokasi dan Produktivitas Kelas I menurut Pasal 15?",
+            "question": "Menurut Pasal 9, apa saja fungsi Sekretariat Jenderal?",
             "options": [
-                "Lombok Timur",
-                "Bandung",
-                "Medan",
-                "Makassar",
-                "Sorong"
+                "Menyusun kebijakan ekonomi",
+                "Melaksanakan koordinasi kegiatan kementerian",
+                "Mengawasi sektor swasta",
+                "Mengelola pengembangan teknologi",
+                "Melakukan supervisi hubungan internasional"
             ],
-            "correct_option_id": 4
+            "correct_option_id": 1
         },
         {
             "id": 9,
             "chat_id": "-1002199224078",
-            "question": "Gambar di Lampiran II menunjukkan struktur organisasi untuk bidang apa?",
+            "question": "Apa tugas utama Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja menurut Pasal 14?",
             "options": [
-                "Keselamatan dan Kesehatan Kerja",
-                "Perluasan Kesempatan Kerja",
-                "Pelatihan Vokasi dan Produktivitas",
-                "Pengembangan SDM",
-                "Ketenagakerjaan Regional"
+                "Meningkatkan pelatihan vokasi",
+                "Menyelenggarakan kebijakan pembinaan penempatan tenaga kerja dan perluasan kesempatan kerja",
+                "Mengatur regulasi hubungan internasional",
+                "Mengoordinasikan keselamatan kerja",
+                "Mengawasi kebijakan sosial"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 10,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 50, kelompok jabatan fungsional ditetapkan berdasarkan?",
+            "question": "Menurut Pasal 22, siapa yang bertanggung jawab memimpin Inspektorat Jenderal?",
             "options": [
-                "Instruksi langsung dari Menteri",
-                "Usulan kepala UPT",
-                "Evaluasi pelatihan vokasi",
-                "Analisis kebutuhan dan beban kerja",
-                "Rekomendasi Biro SDM"
+                "Direktur Jenderal",
+                "Sekretaris Jenderal",
+                "Inspektur Jenderal",
+                "Wakil Menteri",
+                "Staf Ahli"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 2
         },
         {
             "id": 11,
             "chat_id": "-1002199224078",
-            "question": "Tugas dari Satuan Pelayanan dalam Pasal 21 adalah?",
+            "question": "Apa tugas Badan Perencanaan dan Pengembangan Ketenagakerjaan menurut Pasal 26?",
             "options": [
-                "Melaksanakan fungsi pengawasan",
-                "Mengelola keuangan",
-                "Melakukan sebagian tugas UPT induknya",
-                "Melakukan promosi keselamatan kerja",
-                "Mengatur hubungan antar kementerian"
+                "Mengelola data teknologi informasi dan pengembangan kebijakan di bidang ketenagakerjaan",
+                "Mengawasi pelaksanaan hubungan kerja",
+                "Mengoordinasikan hubungan internasional",
+                "Melakukan audit keuangan",
+                "Menyusun regulasi sektor swasta"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 0
         },
         {
             "id": 12,
             "chat_id": "-1002199224078",
-            "question": "Kepala UPT dalam Pasal 53 harus menerapkan sistem apa?",
+            "question": "Apa yang dimaksud dengan proses bisnis sebagaimana tercantum dalam Pasal 34 ayat (1)?",
             "options": [
-                "Evaluasi internal berkala",
-                "Akuntabilitas kinerja instansi pemerintah",
-                "Pengawasan langsung dari Menteri",
-                "Pelatihan SDM terpadu",
-                "Pengelolaan berbasis digital"
+                "Hubungan kerja yang efektif dan efisien antar unit organisasi",
+                "Proses pelaporan keuangan tahunan",
+                "Perencanaan pelatihan teknis",
+                "Prosedur hubungan internasional",
+                "Koordinasi regulasi antar kementerian"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 0
         },
         {
             "id": 13,
             "chat_id": "-1002199224078",
-            "question": "Fungsi Balai Besar Pelatihan Vokasi dan Produktivitas dalam Pasal 5 meliputi?",
+            "question": "Berdasarkan Pasal 41, dari mana sumber pendanaan untuk Kementerian Ketenagakerjaan berasal?",
             "options": [
-                "Pelatihan vokasi dan peningkatan produktivitas",
-                "Pengawasan keuangan",
-                "Promosi jabatan internal",
-                "Evaluasi kinerja pegawai",
-                "Konsultasi SDM daerah"
+                "Dana investasi publik",
+                "Anggaran Pendapatan dan Belanja Negara",
+                "Dana hibah internasional",
+                "Pendapatan kementerian terkait",
+                "Dana organisasi non-pemerintah"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 1
         },
         {
             "id": 14,
             "chat_id": "-1002199224078",
-            "question": "Lokasi dari Balai Perluasan Kesempatan Kerja menurut Pasal 35 adalah?",
+            "question": "Apa yang terjadi dengan Peraturan Presiden Nomor 18 Tahun 2015 menurut Pasal 45?",
             "options": [
-                "Bandung Barat",
-                "Sorong dan Ternate",
-                "Makassar dan Surabaya",
-                "Jakarta dan Medan",
-                "Bekasi dan Kendari"
+                "Akan ditinjau ulang",
+                "Tetap berlaku sebagai pedoman",
+                "Dicabut dan dinyatakan tidak berlaku",
+                "Diperbarui untuk menyesuaikan kondisi saat ini",
+                "Digantikan dengan regulasi baru"
             ],
-            "correct_option_id": 4
+            "correct_option_id": 2
         },
         {
             "id": 15,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas dari Subbagian Umum sebagaimana tercantum dalam Pasal 14?",
+            "question": "Kapan Peraturan Presiden ini mulai berlaku sebagaimana diatur dalam Pasal 46?",
             "options": [
-                "Mengelola SDM aparatur dan tata laksana",
-                "Melaksanakan promosi jejaring vokasi",
-                "Melakukan evaluasi pelaksanaan sertifikasi",
-                "Mengawasi jejaring antar lembaga",
-                "Menetapkan kebijakan pelatihan"
+                "Setelah mendapatkan persetujuan parlemen",
+                "Pada saat diumumkan secara publik",
+                "Pada tanggal diundangkan",
+                "Setelah persetujuan dari Presiden",
+                "Setelah revisi selesai dilakukan"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 2
         },
         {
             "id": 16,
             "chat_id": "-1002199224078",
-            "question": "Menurut Lampiran I, Balai Pelatihan Vokasi dan Produktivitas Kelas II di Lombok Timur mencakup wilayah mana?",
+            "question": "Berdasarkan Pasal 5, apa saja fungsi yang diselenggarakan Kementerian Ketenagakerjaan dalam melaksanakan tugasnya?",
             "options": [
-                "Jawa Timur",
-                "Papua dan Maluku",
-                "Nusa Tenggara Barat, Nusa Tenggara Timur, dan Bali",
-                "Sulawesi Selatan",
-                "Kalimantan Barat"
+                "Pengawasan kinerja dan evaluasi keuangan",
+                "Perumusan kebijakan, pengelolaan barang milik negara, dan pengawasan pelaksanaan tugas",
+                "Peningkatan hubungan internasional dan penyelesaian sengketa tenaga kerja",
+                "Penyusunan norma kerja dan pengawasan hubungan industrial",
+                "Pengembangan pelatihan dan pengelolaan data tenaga kerja"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 17,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 39, Balai Besar Keselamatan dan Kesehatan Kerja bertugas melakukan apa?",
+            "question": "Apa yang menjadi tugas Direktorat Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja sesuai Pasal 17?",
             "options": [
-                "Peningkatan jejaring keselamatan kerja",
-                "Pengelolaan keuangan dan administrasi",
-                "Penyusunan evaluasi kinerja",
-                "Promosi keselamatan kerja regional",
-                "Pelatihan SDM lokal"
+                "Mengelola data dan informasi ketenagakerjaan",
+                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pembinaan hubungan industrial dan jaminan sosial tenaga kerja",
+                "Melaksanakan hubungan antar lembaga dan internasional",
+                "Mengatur kebijakan anggaran negara",
+                "Melakukan pelatihan dan supervisi pegawai"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 1
         },
         {
             "id": 18,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 45, salah satu fungsi Balai Keselamatan dan Kesehatan Kerja adalah?",
+            "question": "Menurut Pasal 20, apa yang menjadi tugas Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja?",
             "options": [
-                "Pengelolaan barang milik negara",
-                "Evaluasi kinerja kepala UPT",
-                "Peningkatan jejaring vokasi",
-                "Uji kompetensi personel",
-                "Pelaksanaan pemagangan"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 19,
-            "chat_id": "-1002199224078",
-            "question": "Manakah lokasi Balai Besar Perluasan Kesempatan Kerja menurut Pasal 30?",
-            "options": [
-                "Makassar",
-                "Bandung Barat",
-                "Medan",
-                "Surakarta",
-                "Lombok Timur"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 20,
-            "chat_id": "-1002199224078",
-            "question": "Tugas dari Kepala UPT dalam Pasal 59 meliputi?",
-            "options": [
-                "Pelatihan SDM",
-                "Promosi jabatan internal",
-                "Pengelolaan keuangan daerah",
-                "Memimpin pelaksanaan proyek",
-                "Membina dan mengawasi unit di bawahnya"
-			],
-            "correct_option_id": 4
-        },{
-            "id": 21,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tanggung jawab utama Subbagian Umum dalam struktur organisasi UPT sesuai Pasal 19?",
-            "options": [
-                "Mengatur jadwal pelatihan",
-                "Meningkatkan kompetensi staf",
-                "Membuat jejaring kemitraan",
-                "Melakukan supervisi program pelatihan",
-                "Melaksanakan urusan keuangan dan kearsipan"
-            ],
-            "correct_option_id": 4
-        },
-        {
-            "id": 22,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 34, apa saja tugas Subbagian Umum di Balai Perluasan Kesempatan Kerja?",
-            "options": [
-                "Meningkatkan jejaring pelatihan vokasi",
-                "Melaksanakan fasilitasi pemagangan",
-                "Mengelola urusan tata laksana, kearsipan, dan barang milik negara",
-                "Mengembangkan model pelatihan baru",
-                "Melakukan evaluasi jaringan nasional"
+                "Menyusun perencanaan kerja dan pengawasan sektor informal",
+                "Mengembangkan teknologi keselamatan kerja",
+                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pembinaan pengawasan ketenagakerjaan dan keselamatan kerja",
+                "Mengatur regulasi hubungan tenaga kerja asing",
+                "Melakukan supervisi terhadap kinerja tenaga kerja di sektor publik"
             ],
             "correct_option_id": 2
         },
         {
-            "id": 23,
+            "id": 19,
             "chat_id": "-1002199224078",
-            "question": "Pasal 23 menyebutkan klasifikasi UPT Bidang Perluasan Kesempatan Kerja, yaitu?",
+            "question": "Apa tugas Staf Ahli Bidang Sosial, Politik, dan Kebijakan Publik sebagaimana diatur dalam Pasal 29 ayat (4)?",
             "options": [
-                "UPT Kelas I dan Kelas II",
-                "Balai Besar dan Balai",
-                "UPT Pusat dan Daerah",
-                "Satuan Pelayanan Regional",
-                "Satuan Kerja Lokal"
+                "Mengatur hubungan internasional",
+                "Mengawasi kebijakan kementerian",
+                "Memberikan rekomendasi terhadap isu-isu strategis terkait bidang sosial, politik, dan kebijakan publik",
+                "Mengelola data dan informasi tenaga kerja",
+                "Menyusun anggaran kementerian"
+            ],
+            "correct_option_id": 2
+        },
+        {
+            "id": 20,
+            "chat_id": "-1002199224078",
+            "question": "Apa ketentuan dalam Pasal 37 terkait pelaksanaan tugas dan fungsi di lingkungan Kementerian Ketenagakerjaan?",
+            "options": [
+                "Harus menerapkan prinsip koordinasi, integrasi, dan sinkronisasi",
+                "Mengutamakan prinsip efisiensi anggaran",
+                "Memprioritaskan pelatihan tenaga kerja",
+                "Melakukan evaluasi secara berkala",
+                "Melaksanakan audit kinerja"
+            ],
+            "correct_option_id": 0
+        },
+        {
+            "id": 21,
+            "chat_id": "-1002199224078",
+            "question": "Berdasarkan Pasal 38, sistem apa yang harus diterapkan oleh semua unsur di lingkungan Kementerian Ketenagakerjaan?",
+            "options": [
+                "Sistem akuntabilitas anggaran",
+                "Sistem pengendalian internal pemerintah",
+                "Sistem hubungan internasional",
+                "Sistem evaluasi berbasis kompetensi",
+                "Sistem koordinasi regional"
             ],
             "correct_option_id": 1
         },
         {
-            "id": 24,
+            "id": 22,
             "chat_id": "-1002199224078",
-            "question": "Lokasi dari Balai Keselamatan dan Kesehatan Kerja sebagaimana disebutkan dalam Pasal 49 adalah?",
+            "question": "Apa ketentuan mengenai jabatan di lingkungan Kementerian Ketenagakerjaan sebagaimana disebutkan dalam Pasal 30?",
             "options": [
-                "Jakarta, Surakarta, Makassar",
-                "Bandung Barat, Bekasi, Kendari",
-                "Sorong, Ambon, Ternate",
-                "Medan, Bandung, Samarinda, Makassar",
-                "Makassar, Lombok Timur, Sidoarjo"
+                "Harus ditentukan oleh Presiden",
+                "Dapat ditetapkan sesuai kebutuhan sesuai peraturan perundang-undangan",
+                "Hanya dapat diisi oleh pejabat senior",
+                "Harus memiliki sertifikasi internasional",
+                "Ditetapkan melalui persetujuan DPR"
+            ],
+            "correct_option_id": 1
+        },
+        {
+            "id": 23,
+            "chat_id": "-1002199224078",
+            "question": "Menurut Pasal 31, siapa yang memimpin Unit Pelaksana Teknis di lingkungan Kementerian Ketenagakerjaan?",
+            "options": [
+                "Menteri",
+                "Sekretaris Jenderal",
+                "Direktur Jenderal",
+                "Kepala",
+                "Inspektur Jenderal"
             ],
             "correct_option_id": 3
         },
         {
+            "id": 24,
+            "chat_id": "-1002199224078",
+            "question": "Apa ketentuan peralihan dalam Pasal 44 mengenai jabatan di lingkungan Kementerian Ketenagakerjaan?",
+            "options": [
+                "Semua jabatan harus diisi oleh pejabat baru dalam 30 hari",
+                "Seluruh jabatan yang ada tetap melaksanakan tugasnya hingga dibentuk jabatan baru",
+                "Pejabat lama akan diberhentikan segera setelah peraturan berlaku",
+                "Semua jabatan harus disetujui oleh Presiden",
+                "Jabatan baru akan diisi melalui seleksi terbuka"
+            ],
+            "correct_option_id": 1
+        },
+        {
             "id": 25,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 46, salah satu fungsi Balai Keselamatan dan Kesehatan Kerja adalah?",
+            "question": "Berdasarkan Pasal 2 ayat (5), apa ruang lingkup tugas Wakil Menteri?",
             "options": [
-                "Melakukan promosi jejaring nasional",
-                "Menyediakan rekomendasi pengendalian keselamatan kerja",
-                "Mengelola keuangan kementerian",
-                "Melakukan evaluasi jabatan",
-                "Mengawasi pelatihan vokasi"
+                "Mengoordinasikan hubungan internasional",
+                "Membantu Menteri dalam perumusan kebijakan dan koordinasi pencapaian kebijakan strategis lintas unit organisasi",
+                "Menyusun anggaran kementerian",
+                "Mengelola data dan informasi ketenagakerjaan",
+                "Melaksanakan pengawasan terhadap unit organisasi"
             ],
             "correct_option_id": 1
         },
         {
             "id": 26,
             "chat_id": "-1002199224078",
-            "question": "Pasal 8 menyebutkan bahwa tugas Bagian Umum adalah?",
+            "question": "Apa yang menjadi tugas Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas sebagaimana diatur dalam Pasal 11?",
             "options": [
-                "Mengembangkan jejaring SDM",
-                "Melakukan sertifikasi keahlian",
-                "Menetapkan kebijakan pelatihan",
-                "Memfasilitasi peningkatan kompetensi",
-                "Melakukan evaluasi dan pelaporan"
+                "Menyusun kebijakan sosial dan tenaga kerja",
+                "Melakukan pelatihan pegawai kementerian",
+                "Menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang peningkatan kompetensi dan daya saing tenaga kerja serta produktivitas",
+                "Mengelola hubungan internasional di sektor ketenagakerjaan",
+                "Mengatur regulasi hubungan industrial"
             ],
-            "correct_option_id": 4
+            "correct_option_id": 2
         },
         {
             "id": 27,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 12, salah satu fungsi Balai Pelatihan Vokasi dan Produktivitas Kelas I adalah?",
+            "question": "Apa yang menjadi fungsi Badan Perencanaan dan Pengembangan Ketenagakerjaan sebagaimana tercantum dalam Pasal 27?",
             "options": [
-                "Melakukan peningkatan jejaring",
-                "Melakukan promosi produktivitas",
-                "Menyusun program evaluasi",
-                "Pelaksanaan pemantauan pelatihan",
-                "Melakukan supervisi internal"
+                "Menyusun kebijakan di bidang hubungan kerja",
+                "Mengembangkan pelatihan vokasi untuk tenaga kerja asing",
+                "Menyelenggarakan perencanaan ketenagakerjaan nasional, pengelolaan teknologi informasi, dan pengembangan kebijakan",
+                "Melakukan supervisi terhadap pengawasan ketenagakerjaan",
+                "Mengatur hubungan industrial"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 2
         },
         {
             "id": 28,
             "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi fokus dari Pasal 6 mengenai struktur organisasi Balai Besar Pelatihan Vokasi dan Produktivitas?",
+            "question": "Menurut Pasal 33, apa yang harus diterapkan Menteri dalam melaksanakan tugas dan fungsinya?",
             "options": [
-                "Pelaksanaan promosi dan jejaring",
-                "Terdiri atas Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Melakukan pengawasan internal",
-                "Mengembangkan pelatihan berbasis digital",
-                "Melakukan uji coba model vokasi"
+                "Sistem pelaporan reguler",
+                "Sistem koordinasi internal",
+                "Sistem akuntabilitas kinerja instansi pemerintah",
+                "Sistem pengelolaan anggaran",
+                "Sistem audit eksternal"
             ],
-            "correct_option_id": 1
+            "correct_option_id": 2
         },
         {
             "id": 29,
             "chat_id": "-1002199224078",
-            "question": "Pasal 40 menyebutkan struktur organisasi Balai Besar Keselamatan dan Kesehatan Kerja, yaitu?",
+            "question": "Apa yang harus disusun oleh Kementerian Ketenagakerjaan sebagaimana disebutkan dalam Pasal 36?",
             "options": [
-                "Kelompok Jabatan Fungsional dan Bagian Promosi",
-                "Satuan Kerja Regional dan Pusat",
-                "Komisi Pelatihan dan Evaluasi",
-                "Direktorat Kerja Lokal",
-                "Bagian Umum dan Kelompok Jabatan Fungsional"
+                "Laporan regulasi tahunan",
+                "Proses bisnis yang efektif dan efisien",
+                "Analisis jabatan, peta jabatan, analisis beban kerja, dan uraian tugas terhadap seluruh jabatan",
+                "Strategi hubungan internasional",
+                "Anggaran pelatihan tenaga kerja"
             ],
-            "correct_option_id": 4
+            "correct_option_id": 2
         },
         {
             "id": 30,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 57, unsur di lingkungan UPT wajib menerapkan apa?",
+            "question": "Apa tujuan dari Pasal 43 mengenai ketentuan peralihan?",
             "options": [
-                "Sistem pengendalian intern",
-                "Evaluasi berbasis kinerja",
-                "Konsultasi berkala dengan kementerian",
-                "Supervisi antarunit",
-                "Jejaring pelatihan digital"
+                "Mencabut semua peraturan yang lama",
+                "Mengintegrasikan regulasi hubungan kerja",
+                "Menjamin ketentuan pelaksanaan tetap berlaku jika tidak bertentangan atau belum diubah",
+                "Mengatur kebijakan sementara untuk hubungan internasional",
+                "Menyusun kebijakan baru untuk regulasi tenaga kerja"
             ],
-            "correct_option_id": 0
+            "correct_option_id": 2
         },
         {
             "id": 31,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 62, di mana nomenklatur dan lokasi satuan pelayanan pelatihan vokasi tercantum?",
+            "question": "Apa yang diatur dalam Pasal 39 ayat (1) mengenai tugas pimpinan unit organisasi?",
             "options": [
-                "Dalam Peraturan Presiden",
-                "Dalam Surat Keputusan Menteri",
-                "Dalam Lampiran I Peraturan Menteri ini",
-                "Dalam Rencana Strategis Kementerian",
-                "Dalam Tata Laksana Internal UPT"
+                "Menyusun laporan keuangan tahunan",
+                "Membimbing dan mengoordinasikan bawahan untuk melaksanakan tugas sesuai uraian tugas",
+                "Melakukan audit terhadap bawahan",
+                "Menjalin kerja sama dengan kementerian lain",
+                "Mengelola anggaran unit organisasi"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 32,
             "chat_id": "-1002199224078",
-            "question": "Pasal 53 menyebutkan bahwa Kepala UPT harus menerapkan sistem akuntabilitas apa?",
+            "question": "Apa yang diwajibkan oleh Pasal 40 kepada pimpinan unit organisasi dalam pelaksanaan tugasnya?",
             "options": [
-                "Sistem Akuntabilitas Keuangan Negara",
-                "Sistem Evaluasi Internal",
-                "Sistem Akuntabilitas Kinerja Instansi Pemerintah",
-                "Sistem Pengawasan Terpadu",
-                "Sistem Administrasi Pemerintah Elektronik"
+                "Mengatur hubungan kerja dengan negara lain",
+                "Melakukan pembinaan dan pengawasan terhadap unit organisasi di bawahnya",
+                "Melaporkan semua kegiatan operasional ke Presiden",
+                "Melakukan evaluasi terhadap kementerian lain",
+                "Mengawasi hubungan antar kementerian"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 1
         },
         {
             "id": 33,
             "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 31, Balai Perluasan Kesempatan Kerja bertugas melaksanakan?",
+            "question": "Apa yang diatur dalam Pasal 42 mengenai ketentuan lebih lanjut tentang Kementerian Ketenagakerjaan?",
             "options": [
-                "Pelatihan SDM daerah",
-                "Pengelolaan barang milik negara",
-                "Penciptaan tenaga kerja mandiri pemula",
-                "Sertifikasi kompetensi nasional",
-                "Promosi jejaring internasional"
+                "Harus diatur oleh Presiden secara langsung",
+                "Ditetapkan oleh Menteri setelah mendapat persetujuan tertulis dari Menteri Aparatur Negara",
+                "Mengatur hubungan internasional di bidang ketenagakerjaan",
+                "Harus mendapat persetujuan dari Dewan Perwakilan Rakyat",
+                "Ditentukan oleh hasil rapat kementerian"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 34,
             "chat_id": "-1002199224078",
-            "question": "Salah satu lokasi Balai Besar Perluasan Kesempatan Kerja menurut Pasal 30 adalah?",
+            "question": "Menurut Pasal 44, apa yang terjadi pada seluruh jabatan di lingkungan Kementerian Ketenagakerjaan saat peraturan ini mulai berlaku?",
             "options": [
-                "Jakarta",
-                "Makassar",
-                "Bandung Barat",
-                "Surakarta",
-                "Sorong"
+                "Dibatalkan dan diganti",
+                "Tetap melaksanakan tugas dan fungsinya hingga dibentuk jabatan baru",
+                "Harus segera diisi oleh pejabat baru",
+                "Akan dilaporkan ke Presiden",
+                "Dibekukan sementara"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 35,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 44, lokasi Balai Besar Keselamatan dan Kesehatan Kerja adalah?",
+            "question": "Apa yang dicabut dan dinyatakan tidak berlaku sebagaimana disebutkan dalam Pasal 45?",
             "options": [
-                "Bandung Barat",
-                "Medan",
-                "Jakarta",
-                "Makassar",
-                "Sorong"
+                "Peraturan Presiden Nomor 18 Tahun 2015",
+                "Semua regulasi terkait tenaga kerja",
+                "Undang-Undang tentang Ketenagakerjaan",
+                "Peraturan Menteri yang bertentangan",
+                "Instruksi Presiden tentang Hubungan Industrial"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 0
         },
         {
             "id": 36,
             "chat_id": "-1002199224078",
-            "question": "Pasal 25 menyebutkan bahwa Balai Besar Perluasan Kesempatan Kerja memiliki fungsi?",
+            "question": "Apa yang diatur dalam Pasal 30 terkait jabatan fungsional di lingkungan Kementerian Ketenagakerjaan?",
             "options": [
-                "Mengawasi pelatihan vokasi",
-                "Melakukan uji kompetensi personil",
-                "Meningkatkan jejaring perluasan kesempatan kerja",
-                "Melakukan sertifikasi kompetensi",
-                "Mengelola tata laksana SDM"
+                "Hanya untuk jabatan tertentu",
+                "Ditetapkan sesuai kebutuhan berdasarkan peraturan perundang-undangan",
+                "Harus diawasi oleh Inspektorat Jenderal",
+                "Memerlukan sertifikasi internasional",
+                "Ditentukan oleh Presiden"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 1
         },
         {
             "id": 37,
             "chat_id": "-1002199224078",
-            "question": "Apa tugas dari Satuan Pelayanan sebagaimana disebutkan dalam Pasal 21 ayat (4)?",
+            "question": "Apa yang dimaksud dengan Unit Pelaksana Teknis menurut Pasal 31 ayat (1)?",
             "options": [
-                "Melakukan pengawasan administratif",
-                "Mengelola jejaring pelatihan vokasi",
-                "Melaksanakan sebagian tugas pelayanan UPT induk",
-                "Melakukan pengembangan SDM",
-                "Mengawasi pengelolaan anggaran"
+                "Unit yang bertanggung jawab atas koordinasi antar kementerian",
+                "Unit yang melaksanakan tugas teknis operasional dan/atau teknis penunjang",
+                "Unit yang mengelola hubungan internasional",
+                "Unit yang bertanggung jawab atas evaluasi anggaran",
+                "Unit yang mengawasi pelaksanaan tugas kementerian lain"
             ],
-            "correct_option_id": 2
+            "correct_option_id": 1
         },
         {
             "id": 38,
             "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 39, Balai Besar Keselamatan dan Kesehatan Kerja memiliki fungsi?",
+            "question": "Apa tujuan pengaturan proses bisnis sebagaimana disebutkan dalam Pasal 34 ayat (1)?",
             "options": [
-                "Melakukan sertifikasi personil daerah",
-                "Menyusun kebijakan pelatihan vokasi",
-                "Melaksanakan uji coba metode keselamatan kerja",
-                "Mengelola pengelolaan SDM",
-                "Meningkatkan promosi kesehatan kerja"
+                "Mengatur hubungan kerja dengan kementerian lain",
+                "Menggambarkan tata hubungan kerja yang efektif dan efisien antar unit organisasi",
+                "Mempermudah koordinasi antar negara",
+                "Mengawasi anggaran tahunan",
+                "Melakukan evaluasi hubungan internasional"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 1
         },
         {
             "id": 39,
             "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 45, tugas Balai Keselamatan dan Kesehatan Kerja mencakup?",
+            "question": "Apa yang harus diterapkan setiap unsur di lingkungan Kementerian Ketenagakerjaan sebagaimana tercantum dalam Pasal 38?",
             "options": [
-                "Menyusun program jejaring pelatihan",
-                "Mengawasi kinerja pegawai",
-                "Melaksanakan pemeriksaan kesehatan kerja",
-                "Mengelola evaluasi SDM",
-                "Melakukan promosi vokasi internasional"
+                "Sistem pengendalian internal pemerintah",
+                "Sistem koordinasi internasional",
+                "Sistem audit dan evaluasi",
+                "Sistem supervisi kerja",
+                "Sistem analisis beban kerja"
             ],
-            "correct_option_id": 3
+            "correct_option_id": 0
         },
         {
             "id": 40,
             "chat_id": "-1002199224078",
-            "question": "Pasal 33 menyebutkan bahwa struktur organisasi Balai Perluasan Kesempatan Kerja terdiri atas?",
+            "question": "Apa yang harus dilaporkan Menteri kepada Presiden sebagaimana disebutkan dalam Pasal 35?",
             "options": [
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Kelompok Jabatan Fungsional dan Subkoordinator",
-                "Subbagian Umum dan Kelompok Jabatan Fungsional",
-                "Subbagian Umum dan Pengelola Program",
-                "Kelompok Jabatan Fungsional dan Kepala Subbagian"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 41,
-            "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 20, lokasi Balai Pelatihan Vokasi dan Produktivitas Kelas II meliputi?",
-            "options": [
-                "Makassar, Jakarta, Bandung Barat",
-                "Bandung Barat, Lombok Timur, Bantaeng",
-                "Sorong, Ambon, Kendari",
-                "Surakarta, Ternate, Padang",
-                "Medan, Serang, Bekasi"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 42,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 19, Subbagian Umum di Balai Pelatihan Vokasi dan Produktivitas Kelas II bertugas?",
-            "options": [
-                "Mengawasi pelaksanaan keuangan",
-                "Melakukan evaluasi jejaring",
-                "Mengelola rumah tangga, persuratan, dan perlengkapan",
-                "Melaksanakan sertifikasi keahlian",
-                "Menyusun laporan nasional"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 43,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 24 menyebutkan bahwa Balai Besar Perluasan Kesempatan Kerja memiliki tugas?",
-            "options": [
-                "Melakukan pengawasan regional",
-                "Mengelola persuratan dan kearsipan",
-                "Melaksanakan penciptaan tenaga kerja mandiri lanjutan",
-                "Mengembangkan promosi jejaring SDM",
-                "Menyusun program sertifikasi"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 44,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 14, tugas dari Subbagian Umum mencakup?",
-            "options": [
-                "Mengelola tata laksana organisasi",
-                "Melakukan pengawasan internal",
-                "Mengelola anggaran dan evaluasi program",
-                "Melaksanakan pengujian produk vokasi",
-                "Mengawasi kinerja regional"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 45,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 28, Bagian Umum di Balai Besar Perluasan Kesempatan Kerja bertugas?",
-            "options": [
-                "Melakukan pengawasan keuangan",
-                "Melaksanakan evaluasi SDM",
-                "Mengelola keuangan, sumber daya manusia, dan tata laksana",
-                "Meningkatkan kompetensi teknis staf",
-                "Melakukan promosi jejaring nasional"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 46,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 56, unsur di lingkungan UPT harus melaksanakan prinsip?",
-            "options": [
-                "Peningkatan kompetensi pegawai",
-                "Konsultasi keuangan reguler",
-                "Koordinasi, integrasi, dan sinkronisasi",
-                "Evaluasi kebijakan nasional",
-                "Promosi jejaring internasional"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 47,
-            "chat_id": "-1002199224078",
-            "question": "Lokasi Balai Pelatihan Vokasi dan Produktivitas Kelas I menurut Pasal 15 meliputi?",
-            "options": [
-                "Lombok Timur, Sidoarjo, Banyuwangi",
-                "Banda Aceh, Padang, Surakarta",
-                "Medan, Bandung, Makassar",
-                "Bekasi, Bandung Barat, Kendari",
-                "Sorong, Ambon, Ternate"
+                "Laporan hasil kerja unit organisasi",
+                "Laporan hasil pelaksanaan urusan pemerintahan di bidang ketenagakerjaan",
+                "Laporan penggunaan anggaran kementerian",
+                "Laporan hubungan internasional kementerian",
+                "Laporan pelatihan pegawai"
             ],
             "correct_option_id": 1
-        },
-        {
-            "id": 48,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 47, struktur organisasi Balai Keselamatan dan Kesehatan Kerja terdiri atas?",
-            "options": [
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Subkoordinator dan Koordinator Regional",
-                "Subbagian Umum dan Kelompok Jabatan Fungsional",
-                "Bagian Administrasi dan Fungsional",
-                "Kelompok Jabatan Fungsional dan Sekretariat"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 49,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 60 menyebutkan bahwa Kepala Balai Besar Pelatihan Vokasi memiliki jabatan apa?",
-            "options": [
-                "Eselon III.a",
-                "Eselon IV.a",
-                "Jabatan Pimpinan Tinggi Pratama (Eselon II.b)",
-                "Jabatan Administrator Regional",
-                "Koordinator Regional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 50,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 26, struktur organisasi Balai Besar Perluasan Kesempatan Kerja terdiri atas?",
-            "options": [
-                "Bagian Administrasi dan Subkoordinator",
-                "Kelompok Jabatan Fungsional dan Subbagian",
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Bagian Keuangan dan Tata Laksana",
-                "Subbagian Regional dan Kelompok Administrasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 51,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 27, tugas Bagian Umum di Balai Besar Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Mengelola evaluasi program nasional",
-                "Melakukan promosi jejaring",
-                "Melaksanakan urusan organisasi dan tata laksana",
-                "Melakukan pengawasan keuangan regional",
-                "Meningkatkan kualitas SDM lokal"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 52,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 57, sistem pengendalian intern di UPT dilakukan untuk?",
-            "options": [
-                "Melakukan pengawasan langsung oleh kementerian",
-                "Meningkatkan jejaring pelatihan vokasi",
-                "Menjamin akuntabilitas dan efisiensi kegiatan",
-                "Menyelaraskan kebijakan nasional",
-                "Melaksanakan evaluasi reguler"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 53,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 41, Bagian Umum di Balai Besar Keselamatan dan Kesehatan Kerja bertugas?",
-            "options": [
-                "Meningkatkan kapasitas staf",
-                "Melaksanakan evaluasi jejaring nasional",
-                "Melaksanakan pengelolaan keuangan, persuratan, dan tata laksana",
-                "Menyusun kebijakan pelatihan keselamatan kerja",
-                "Melakukan pengawasan anggaran"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 54,
-            "chat_id": "-1002199224078",
-            "question": "Lokasi dari Balai Keselamatan dan Kesehatan Kerja menurut Pasal 49 adalah?",
-            "options": [
-                "Jakarta, Bandung Barat, Kendari",
-                "Bandung, Makassar, Surakarta",
-                "Medan, Bandung, Samarinda, Makassar",
-                "Lombok Timur, Bantaeng, Banyuwangi",
-                "Padang, Sorong, Ambon"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 55,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 12, Balai Pelatihan Vokasi dan Produktivitas Kelas I melaksanakan fungsi?",
-            "options": [
-                "Menyusun evaluasi SDM",
-                "Mengelola tata laksana organisasi",
-                "Pelaksanaan fasilitasi pemagangan",
-                "Mengembangkan jejaring nasional",
-                "Melakukan pengawasan regional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 56,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 32 menyebutkan fungsi Balai Perluasan Kesempatan Kerja meliputi?",
-            "options": [
-                "Menyusun kebijakan evaluasi regional",
-                "Melakukan pengawasan administratif",
-                "Pelaksanaan penciptaan tenaga kerja mandiri pemula",
-                "Menyelaraskan kebijakan kementerian",
-                "Mengawasi pelaksanaan pelatihan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 57,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 38 menjelaskan tugas Balai Besar Keselamatan dan Kesehatan Kerja sebagai?",
-            "options": [
-                "Penyedia pelatihan vokasi regional",
-                "Pengawas keselamatan kerja nasional",
-                "Pelaksana pengujian dan peningkatan kapasitas",
-                "Pengelola persuratan dan tata laksana",
-                "Meningkatkan kualitas jejaring nasional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 58,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 5, salah satu fungsi Balai Besar Pelatihan Vokasi dan Produktivitas adalah?",
-            "options": [
-                "Melakukan pengawasan langsung",
-                "Menyusun evaluasi jabatan",
-                "Melaksanakan sertifikasi kompetensi",
-                "Mengelola tata laksana keuangan",
-                "Menyelaraskan kebijakan kementerian"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 59,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 33 menyebutkan bahwa Balai Perluasan Kesempatan Kerja terdiri atas?",
-            "options": [
-                "Bagian Administrasi dan Pengelolaan SDM",
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Subbagian Umum dan Kelompok Jabatan Fungsional",
-                "Bagian Keuangan dan Evaluasi Program",
-                "Subkoordinator dan Kepala Subbagian"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 60,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 17, salah satu fungsi Balai Pelatihan Vokasi dan Produktivitas Kelas II adalah?",
-            "options": [
-                "Melakukan pengawasan langsung",
-                "Menyusun evaluasi jabatan",
-                "Pelaksanaan promosi peningkatan produktivitas",
-                "Mengelola persuratan dan keuangan",
-                "Mengawasi pelatihan SDM"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 61,
-            "chat_id": "-1002199224078",
-            "question": "Lokasi Balai Pelatihan Vokasi dan Produktivitas Kelas II menurut Pasal 20 meliputi?",
-            "options": [
-                "Medan, Bekasi, Serang",
-                "Makassar, Lombok Timur, Bandung Barat",
-                "Bandung Barat, Lombok Timur, Pangkajene dan Kepulauan",
-                "Surakarta, Ternate, Sorong",
-                "Banda Aceh, Padang, Ambon"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 62,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tugas Satuan Pelayanan dalam Pasal 21 ayat (4)?",
-            "options": [
-                "Mengelola jejaring nasional",
-                "Melakukan evaluasi regional",
-                "Melaksanakan sebagian tugas pelayanan UPT",
-                "Mengembangkan jejaring internasional",
-                "Mengawasi program pelatihan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 63,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 8 menyebutkan tugas Bagian Umum meliputi?",
-            "options": [
-                "Mengelola anggaran kementerian",
-                "Melakukan promosi jejaring vokasi",
-                "Penyusunan evaluasi dan pelaporan",
-                "Mengawasi pelaksanaan pelatihan",
-                "Melakukan uji kompetensi personil"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 64,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 56, prinsip koordinasi, integrasi, dan sinkronisasi dilakukan untuk?",
-            "options": [
-                "Memperkuat jejaring SDM",
-                "Mengelola pengawasan keuangan",
-                "Meningkatkan efektivitas tugas dan fungsi",
-                "Melaksanakan evaluasi pelatihan",
-                "Mengembangkan kebijakan nasional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 65,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 26, Balai Besar Perluasan Kesempatan Kerja terdiri atas?",
-            "options": [
-                "Kelompok Jabatan Fungsional dan Subbagian",
-                "Bagian Umum dan Bagian Administrasi",
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Subkoordinator dan Kelompok Evaluasi",
-                "Bagian Regional dan Administrasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 66,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 45, Balai Keselamatan dan Kesehatan Kerja memiliki tugas?",
-            "options": [
-                "Melakukan evaluasi SDM",
-                "Mengembangkan jejaring nasional",
-                "Melaksanakan pemeriksaan kesehatan kerja",
-                "Mengelola evaluasi jejaring",
-                "Melakukan promosi vokasi internasional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 67,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 40 menyebutkan struktur organisasi Balai Besar Keselamatan dan Kesehatan Kerja terdiri atas?",
-            "options": [
-                "Bagian Regional dan Koordinator Nasional",
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Kelompok Jabatan Fungsional dan Subbagian",
-                "Subkoordinator Regional dan Kelompok Evaluasi",
-                "Kelompok Jabatan Fungsional dan Subbagian Umum"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 68,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 25 menyebutkan salah satu fungsi Balai Besar Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Mengelola tata laksana organisasi",
-                "Melakukan uji kompetensi personil",
-                "Melaksanakan uji coba model perluasan kerja",
-                "Mengembangkan kebijakan regional",
-                "Melakukan promosi jejaring vokasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 69,
-            "chat_id": "-1002199224078",
-            "question": "Dimana lokasi Balai Pelatihan Vokasi dan Produktivitas Kelas I menurut Pasal 15?",
-            "options": [
-                "Sorong, Ambon, Banda Aceh",
-                "Medan, Serang, Kendari",
-                "Banda Aceh, Padang, Surakarta",
-                "Makassar, Bekasi, Ternate",
-                "Pangkajene dan Kepulauan, Lombok Timur, Banyuwangi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 70,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 12, Balai Pelatihan Vokasi dan Produktivitas Kelas I melaksanakan fungsi?",
-            "options": [
-                "Mengembangkan pelatihan digital",
-                "Mengelola keuangan nasional",
-                "Meningkatkan jejaring pelatihan vokasi",
-                "Melakukan supervisi pelatihan",
-                "Mengawasi evaluasi keuangan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 71,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 18, struktur organisasi Balai Pelatihan Vokasi dan Produktivitas Kelas II terdiri dari?",
-            "options": [
-                "Bagian Umum dan Koordinator Regional",
-                "Subbagian Umum dan Kelompok Jabatan Fungsional",
-                "Bagian Administrasi dan Pengelola Program",
-                "Kelompok Evaluasi dan Tata Laksana",
-                "Bagian Keuangan dan Pengelola SDM"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 72,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 22, UPT Bidang Perluasan Kesempatan Kerja berada di bawah?",
-            "options": [
-                "Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas",
-                "Kepala Bagian Tata Laksana",
-                "Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja dan Perluasan Kesempatan Kerja",
-                "Kepala Subbagian Nasional",
-                "Menteri Ketenagakerjaan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 73,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 35, lokasi Balai Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Bandung Barat, Kendari, Bekasi",
-                "Lombok Timur, Sidoarjo, Banyuwangi",
-                "Ternate, Ambon, Surakarta",
-                "Sorong, Banda Aceh, Padang",
-                "Jakarta, Medan, Makassar"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 74,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi dari Subbagian Umum Balai Pelatihan Vokasi dan Produktivitas Kelas I sesuai Pasal 14?",
-            "options": [
-                "Mengawasi jejaring pelatihan vokasi",
-                "Mengelola tata laksana organisasi",
-                "Melaksanakan urusan keuangan, kearsipan, dan perlengkapan",
-                "Mengelola evaluasi keuangan nasional",
-                "Melakukan supervisi atas tugas regional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 75,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 16 menyebutkan bahwa Balai Pelatihan Vokasi dan Produktivitas Kelas II memiliki tugas?",
-            "options": [
-                "Mengembangkan model jejaring pelatihan vokasi",
-                "Melakukan supervisi teknis pelatihan",
-                "Melaksanakan pelatihan vokasi dan peningkatan produktivitas",
-                "Meningkatkan jejaring internasional",
-                "Menyusun kebijakan pelatihan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 76,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 38, salah satu fungsi Balai Besar Keselamatan dan Kesehatan Kerja adalah?",
-            "options": [
-                "Melakukan promosi jejaring",
-                "Mengawasi pelaksanaan pelatihan",
-                "Melaksanakan pengujian dan peningkatan kapasitas personil",
-                "Mengembangkan kebijakan nasional",
-                "Melakukan evaluasi jabatan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 77,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 3, klasifikasi UPT Bidang Pelatihan Vokasi dan Produktivitas terdiri dari?",
-            "options": [
-                "UPT Kelas I dan Kelas II",
-                "Balai Besar, Balai Pelatihan Vokasi dan Produktivitas Kelas I, dan Balai Pelatihan Vokasi dan Produktivitas Kelas II",
-                "UPT Pusat dan Regional",
-                "Balai Nasional dan Balai Daerah",
-                "UPT Bidang dan UPT Pelatihan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 78,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 29 menyebutkan bahwa struktur organisasi Bagian Umum Balai Besar Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Bagian Administrasi dan Kelompok Evaluasi",
-                "Bagian Umum dan Subkoordinator",
-                "Kelompok Jabatan Fungsional",
-                "Bagian Keuangan dan Tata Laksana",
-                "Subbagian Umum dan Pengelola Program"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 79,
-            "chat_id": "-1002199224078",
-            "question": "Apa salah satu tugas dari Bagian Umum sesuai Pasal 41 di Balai Besar Keselamatan dan Kesehatan Kerja?",
-            "options": [
-                "Mengelola keuangan, kearsipan, dan tata laksana",
-                "Melakukan promosi jejaring internasional",
-                "Menyusun evaluasi jabatan nasional",
-                "Mengembangkan kebijakan pelatihan SDM",
-                "Mengawasi evaluasi regional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 80,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 46, salah satu tugas Balai Keselamatan dan Kesehatan Kerja adalah?",
-            "options": [
-                "Meningkatkan jejaring pelatihan vokasi",
-                "Melakukan pengawasan keuangan",
-                "Melaksanakan rekomendasi pengendalian keselamatan kerja",
-                "Melakukan sertifikasi kompetensi regional",
-                "Mengembangkan jejaring internasional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 81,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Lampiran I, wilayah kerja Balai Besar Pelatihan Vokasi dan Produktivitas adalah?",
-            "options": [
-                "Provinsi tertentu",
-                "Wilayah barat Indonesia",
-                "Seluruh Indonesia",
-                "Regional timur",
-                "Regional pusat"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 82,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tugas dari Balai Perluasan Kesempatan Kerja sesuai Pasal 31?",
-            "options": [
-                "Mengawasi jejaring pelatihan vokasi",
-                "Melakukan evaluasi pelatihan SDM",
-                "Melaksanakan penciptaan tenaga kerja mandiri pemula",
-                "Meningkatkan jejaring nasional",
-                "Mengelola evaluasi organisasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 83,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 47, struktur organisasi Balai Keselamatan dan Kesehatan Kerja adalah?",
-            "options": [
-                "Kelompok Jabatan Fungsional dan Subbagian",
-                "Bagian Administrasi dan Evaluasi",
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Subkoordinator dan Pengelola Regional",
-                "Kelompok Evaluasi dan Administrasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 84,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 8 menyebutkan bahwa salah satu fungsi Bagian Umum adalah?",
-            "options": [
-                "Melakukan evaluasi pelatihan",
-                "Meningkatkan jejaring vokasi",
-                "Melakukan evaluasi dan pelaporan",
-                "Mengelola keuangan nasional",
-                "Menyusun kebijakan organisasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 85,
-            "chat_id": "-1002199224078",
-            "question": "Lokasi dari Balai Pelatihan Vokasi dan Produktivitas Kelas I menurut Pasal 15 adalah?",
-            "options": [
-                "Makassar, Ternate, Sorong",
-                "Medan, Bekasi, Bandung Barat",
-                "Banda Aceh, Padang, Surakarta",
-                "Sidoarjo, Banyuwangi, Lombok Timur",
-                "Ambon, Sorong, Kendari"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 86,
-            "chat_id": "-1002199224078",
-            "question": "Apa salah satu tugas dari Satuan Pelayanan dalam Pasal 21 ayat (4)?",
-            "options": [
-                "Mengelola anggaran nasional",
-                "Melakukan supervisi jejaring",
-                "Melaksanakan sebagian tugas pelayanan UPT induknya",
-                "Meningkatkan jejaring pelatihan internasional",
-                "Mengembangkan kebijakan pelatihan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 87,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 29, struktur organisasi Bagian Umum mencakup?",
-            "options": [
-                "Bagian Administrasi dan Regional",
-                "Kelompok Jabatan Fungsional",
-                "Bagian Umum dan Subkoordinator",
-                "Kelompok Evaluasi dan Regional",
-                "Bagian Keuangan dan Tata Laksana"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 88,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 19, tugas Subbagian Umum mencakup?",
-            "options": [
-                "Mengelola tata laksana organisasi",
-                "Melakukan promosi jejaring pelatihan vokasi",
-                "Mengelola persuratan, keuangan, dan perlengkapan",
-                "Mengembangkan kebijakan pelatihan",
-                "Menyusun evaluasi jabatan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 89,
-            "chat_id": "-1002199224078",
-            "question": "Apa tugas dari Balai Besar Keselamatan dan Kesehatan Kerja sesuai Pasal 38?",
-            "options": [
-                "Menyusun kebijakan pelatihan SDM",
-                "Melakukan promosi jejaring vokasi",
-                "Melaksanakan pengujian, kalibrasi, dan peningkatan kapasitas personil",
-                "Mengelola evaluasi program regional",
-                "Melakukan supervisi pelatihan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 90,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 32, salah satu tugas Balai Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Mengawasi pelatihan SDM",
-                "Mengembangkan jejaring pelatihan internasional",
-                "Melakukan peningkatan jejaring perluasan kesempatan kerja",
-                "Menyusun kebijakan regional",
-                "Melakukan evaluasi jabatan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 91,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 1 ayat (2), apa yang dimaksud dengan Wilayah Kerja?",
-            "options": [
-                "Wilayah kerja yang menjadi tanggung jawab kepala UPT",
-                "Wilayah pelatihan vokasi di seluruh Indonesia",
-                "Wilayah yang menjadi cakupan dalam pelaksanaan tugas dan fungsi UPT",
-                "Wilayah administratif di bawah kementerian",
-                "Wilayah tertentu berdasarkan kebijakan pemerintah"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 92,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 2 ayat (1), UPT Bidang Pelatihan Vokasi dan Produktivitas berada di bawah siapa?",
-            "options": [
-                "Direktorat Jenderal Pembinaan Penempatan Tenaga Kerja",
-                "Kepala Balai Besar Pelatihan Vokasi",
-                "Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas",
-                "Menteri Ketenagakerjaan",
-                "Sekretariat Jenderal Kementerian"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 93,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 3 huruf a, klasifikasi UPT Bidang Pelatihan Vokasi dan Produktivitas meliputi apa saja?",
-            "options": [
-                "Balai Pelatihan Regional",
-                "Balai Besar Pelatihan Vokasi dan Produktivitas",
-                "Satuan Pelayanan Pelatihan Vokasi",
-                "UPT Lokal dan Regional",
-                "Balai Pengembangan Vokasi"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 94,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi dari Balai Besar Pelatihan Vokasi dan Produktivitas sebagaimana disebutkan dalam Pasal 5 huruf d?",
-            "options": [
-                "Peningkatan jejaring vokasi",
-                "Pelaksanaan fasilitasi pemagangan",
-                "Pelaksanaan peningkatan kompetensi instruktur dan tenaga pelatihan",
-                "Melakukan evaluasi kebijakan pelatihan",
-                "Melaksanakan promosi produktivitas"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 95,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 10, di mana salah satu lokasi Balai Besar Pelatihan Vokasi dan Produktivitas?",
-            "options": [
-                "Lombok Timur",
-                "Medan",
-                "Sorong",
-                "Ambon",
-                "Bekasi"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 96,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tugas dari Bagian Umum sesuai Pasal 7?",
-            "options": [
-                "Melakukan supervisi pelatihan",
-                "Mengelola SDM dan perlengkapan",
-                "Melakukan uji kompetensi personil",
-                "Meningkatkan jejaring nasional",
-                "Melaksanakan evaluasi dan pelaporan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 97,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 14, apa salah satu tugas Subbagian Umum di Balai Pelatihan Vokasi dan Produktivitas Kelas I?",
-            "options": [
-                "Meningkatkan jejaring pelatihan",
-                "Melakukan pengawasan langsung",
-                "Melaksanakan urusan keuangan",
-                "Meningkatkan produktivitas SDM",
-                "Melakukan evaluasi jejaring"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 98,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi Balai Perluasan Kesempatan Kerja sebagaimana disebutkan dalam Pasal 25 huruf b?",
-            "options": [
-                "Melakukan evaluasi kinerja",
-                "Penciptaan tenaga kerja mandiri lanjutan",
-                "Mengembangkan pelatihan vokasi",
-                "Meningkatkan kompetensi instruktur",
-                "Melakukan promosi produktivitas"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 99,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 21 ayat (2), kepada siapa Satuan Pelayanan bertanggung jawab?",
-            "options": [
-                "Kepala Direktorat",
-                "Kepala Subbagian",
-                "Kepala UPT Bidang Pelatihan Vokasi dan Produktivitas",
-                "Koordinator Regional",
-                "Menteri Ketenagakerjaan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 100,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 26, struktur organisasi Balai Besar Perluasan Kesempatan Kerja terdiri atas?",
-            "options": [
-                "Bagian Administrasi dan Evaluasi",
-                "Bagian Umum dan Subbagian Fungsional",
-                "Kelompok Jabatan Fungsional dan Bagian Umum",
-                "Subkoordinator dan Evaluator Regional",
-                "Subbagian SDM dan Tata Laksana"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 101,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 57, unsur di lingkungan UPT diwajibkan untuk menerapkan prinsip koordinasi, integrasi, dan sinkronisasi dalam apa?",
-            "options": [
-                "Evaluasi pelatihan vokasi",
-                "Pelaksanaan tugas dan fungsi UPT",
-                "Peningkatan kualitas SDM",
-                "Peningkatan jejaring internasional",
-                "Pengelolaan anggaran UPT"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 102,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 52 menyebutkan bahwa tugas dan jenis jabatan fungsional ditentukan berdasarkan?",
-            "options": [
-                "Analisis kebutuhan dan beban kerja",
-                "Keputusan Menteri Ketenagakerjaan",
-                "Kebijakan internal kementerian",
-                "Kebijakan nasional dalam bidang ketenagakerjaan",
-                "Rekomendasi dari Subbagian Umum"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 103,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 46, salah satu fungsi Balai Keselamatan dan Kesehatan Kerja adalah?",
-            "options": [
-                "Menyusun kebijakan pelatihan vokasi",
-                "Mengelola jaringan pelatihan internasional",
-                "Meningkatkan kapasitas dan uji kompetensi personil",
-                "Melakukan evaluasi program vokasi",
-                "Melakukan pengawasan terhadap kualitas SDM"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 104,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 33 menyebutkan bahwa Subbagian Umum di Balai Perluasan Kesempatan Kerja bertugas untuk?",
-            "options": [
-                "Mengelola sumber daya manusia aparatur",
-                "Melaksanakan uji kompetensi dan pengembangan SDM",
-                "Mengelola urusan keuangan, persuratan, dan kearsipan",
-                "Meningkatkan jejaring kerja",
-                "Melaksanakan promosi produktivitas"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 105,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 30 menyebutkan bahwa lokasi Balai Besar Perluasan Kesempatan Kerja adalah di?",
-            "options": [
-                "Bandung Barat",
-                "Medan",
-                "Samarinda",
-                "Jakarta",
-                "Banda Aceh"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 106,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi fungsi utama dari Satuan Pelayanan sesuai Pasal 21 ayat (3)?",
-            "options": [
-                "Menyusun laporan tahunan",
-                "Melaksanakan sebagian tugas pelayanan pelatihan vokasi dan produktivitas",
-                "Mengelola keuangan dan anggaran",
-                "Meningkatkan kapasitas tenaga pelatihan",
-                "Mengembangkan jejaring internasional"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 107,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 50, tugas Kelompok Jabatan Fungsional adalah?",
-            "options": [
-                "Memberikan pelayanan fungsional dalam pelaksanaan tugas dan fungsi UPT",
-                "Mengelola keuangan dan anggaran kementerian",
-                "Melaksanakan uji kompetensi SDM",
-                "Melakukan evaluasi kebijakan vokasi",
-                "Meningkatkan jejaring antar lembaga"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 108,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 18, struktur organisasi Balai Pelatihan Vokasi dan Produktivitas Kelas II terdiri dari?",
-            "options": [
-                "Bagian Umum dan Kelompok Jabatan Fungsional",
-                "Bagian Administrasi dan Evaluasi Program",
-                "Kelompok Evaluasi dan Administrasi",
-                "Subbagian Umum dan Kepala Subbagian",
-                "Kelompok Jabatan Fungsional dan Koordinator"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 109,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 17, fungsi Balai Pelatihan Vokasi dan Produktivitas Kelas II adalah?",
-            "options": [
-                "Melaksanakan fasilitasi pemagangan",
-                "Melakukan uji coba metode pelatihan vokasi",
-                "Pelaksanaan sertifikasi kompetensi",
-                "Meningkatkan kapasitas pelatihan",
-                "Melakukan pengawasan terhadap pelatihan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 110,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 25, salah satu fungsi Balai Besar Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Melaksanakan promosi produktivitas",
-                "Peningkatan jejaring pelatihan",
-                "Pelaksanaan pengujian dan analisis keselamatan kerja",
-                "Meningkatkan kualitas SDM",
-                "Melaksanakan konsultansi produktivitas"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 111,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 24, salah satu tugas Balai Besar Perluasan Kesempatan Kerja adalah?",
-            "options": [
-                "Melaksanakan pemantauan pelatihan vokasi",
-                "Penciptaan tenaga kerja mandiri lanjutan",
-                "Melakukan evaluasi terhadap pelatihan SDM",
-                "Meningkatkan jejaring antar kementerian",
-                "Menyusun laporan evaluasi pelatihan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 112,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 42 menyebutkan bahwa Bagian Umum di Balai Besar Keselamatan dan Kesehatan Kerja melaksanakan fungsi?",
-            "options": [
-                "Melakukan evaluasi pelatihan SDM",
-                "Mengelola urusan keuangan dan pengelolaan barang milik negara",
-                "Melakukan pengawasan terhadap pelatihan keselamatan kerja",
-                "Meningkatkan kompetensi tenaga pengajar",
-                "Melakukan pengujian keselamatan kerja"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 113,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 8, Bagian Umum di Balai Pelatihan Vokasi dan Produktivitas Kelas I bertugas untuk?",
-            "options": [
-                "Meningkatkan kualitas pelatihan vokasi",
-                "Melakukan penyusunan laporan keuangan",
-                "Melakukan pelaksanaan pengawasan terhadap kompetensi tenaga pelatihan",
-                "Melaksanakan pengelolaan barang milik negara",
-                "Melakukan pengawasan keselamatan kerja"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 114,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 49, lokasi Balai Keselamatan dan Kesehatan Kerja meliputi?",
-            "options": [
-                "Medan, Samarinda, Jakarta",
-                "Makassar, Bandung, Surabaya",
-                "Medan, Makassar, Bandung, Samarinda",
-                "Bali, Bandung, Ternate",
-                "Ambon, Kendari, Sorong"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 115,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 36, UPT Bidang Keselamatan dan Kesehatan Kerja berada di bawah?",
-            "options": [
-                "Direktorat Jenderal Pembinaan Ketenagakerjaan",
-                "Direktorat Jenderal Pembinaan Pengawasan Ketenagakerjaan dan Keselamatan dan Kesehatan Kerja",
-                "Kementerian Tenaga Kerja",
-                "Direktorat Pembinaan Penempatan Tenaga Kerja",
-                "Direktorat Pembinaan Pelatihan Vokasi"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 116,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 41, salah satu tugas Bagian Umum Balai Keselamatan dan Kesehatan Kerja adalah?",
-            "options": [
-                "Melaksanakan penyusunan rencana, program, dan anggaran",
-                "Melaksanakan evaluasi kinerja SDM",
-                "Melakukan pengawasan terhadap pelatihan",
-                "Melaksanakan peningkatan kapasitas keselamatan kerja",
-                "Menyusun laporan keuangan tahunan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 117,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 50, Kelompok Jabatan Fungsional ditugaskan untuk?",
-            "options": [
-                "Memberikan pelayanan fungsional dalam pelaksanaan tugas dan fungsi UPT",
-                "Melaksanakan pengawasan keuangan",
-                "Meningkatkan kompetensi tenaga pelatihan",
-                "Mengelola jaringan pelatihan internasional",
-                "Melakukan evaluasi terhadap SDM"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 118,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 53 menyebutkan bahwa Kepala UPT dalam melaksanakan tugasnya harus menerapkan?",
-            "options": [
-                "Sistem akuntabilitas kinerja instansi pemerintah",
-                "Sistem evaluasi terhadap program SDM",
-                "Sistem pengawasan internasional",
-                "Sistem pengelolaan keuangan kementerian",
-                "Sistem pelaporan reguler"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 119,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 61 menyebutkan bahwa pejabat pimpinan tinggi pratama, administrator, dan pengawas diangkat dan diberhentikan oleh?",
-            "options": [
-                "Kepala Direktorat Jenderal",
-                "Kepala Subbagian Umum",
-                "Menteri Ketenagakerjaan",
-                "Kepala Biro Keuangan",
-                "Sekretaris Jenderal Kementerian"
-            ],
-            "correct_option_id": 4
-        },
-        {
-            "id": 120,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 62, perubahan organisasi dan tata kerja UPT di Kementerian dapat ditetapkan oleh?",
-            "options": [
-                "Menteri setelah mendapatkan persetujuan dari Menteri PAN-RB",
-                "Menteri setelah melakukan evaluasi organisasi internal",
-                "Kepala Direktorat Jenderal setelah mendapat rekomendasi",
-                "Menteri dengan persetujuan dari Presiden",
-                "Kepala Subbagian setelah disetujui oleh Kepala UPT"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 121,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 56 menyebutkan bahwa semua unsur di lingkungan UPT harus menerapkan prinsip?",
-            "options": [
-                "Koordinasi, integrasi, dan sinkronisasi",
-                "Evaluasi kinerja dan peningkatan produktivitas",
-                "Pengelolaan anggaran dan tata laksana",
-                "Pelatihan vokasi dan kompetensi instruktur",
-                "Meningkatkan jejaring internasional"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 122,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 51, Kelompok Jabatan Fungsional dapat ditetapkan Koordinator dan/atau Subkoordinator Pelaksana Fungsi Pelayanan Fungsional sesuai dengan?",
-            "options": [
-                "Ruang lingkup bidang tugas dan fungsi UPT masing-masing",
-                "Jumlah tenaga pengajar dan kapasitas pelatihan",
-                "Jumlah jabatan fungsional yang tersedia",
-                "Kebutuhan anggaran nasional untuk pelatihan",
-                "Evaluasi kinerja berdasarkan laporan tahunan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 123,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 60 menyebutkan bahwa Kepala Balai Besar Pelatihan Vokasi dan Produktivitas, Kepala Balai Besar Perluasan Kesempatan Kerja, dan Kepala Balai Besar Keselamatan dan Kesehatan Kerja merupakan?",
-            "options": [
-                "Jabatan Pimpinan Tinggi Pratama atau setara dengan jabatan Eselon II.b",
-                "Jabatan Administrator atau setara dengan jabatan Eselon III.a",
-                "Jabatan Pengawas atau setara dengan jabatan Eselon IV.a",
-                "Jabatan Koordinator atau setara dengan jabatan Eselon III.b",
-                "Jabatan Pengelola Program atau setara dengan Eselon IV.b"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 124,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 12 menyebutkan bahwa salah satu tugas Balai Pelatihan Vokasi dan Produktivitas Kelas I adalah?",
-            "options": [
-                "Pelaksanaan sertifikasi kompetensi",
-                "Meningkatkan kapasitas pelatihan internasional",
-                "Pelaksanaan uji coba program pelatihan vokasi",
-                "Meningkatkan produktivitas pekerja",
-                "Melaksanakan evaluasi kegiatan pelatihan"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 125,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 28 menyebutkan bahwa fungsi Bagian Umum di Balai Besar Perluasan Kesempatan Kerja meliputi?",
-            "options": [
-                "Penyusunan rencana, program dan anggaran, serta evaluasi",
-                "Pelaksanaan kegiatan pelatihan vokasi dan produktivitas",
-                "Pengelolaan anggaran untuk program internasional",
-                "Pelaksanaan program konsultansi produktivitas",
-                "Pengelolaan jaringan pelatihan lokal"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 126,
-            "chat_id": "-1002199224078",
-            "question": "Dalam Pasal 45, Balai Keselamatan dan Kesehatan Kerja bertugas untuk?",
-            "options": [
-                "Melakukan evaluasi terhadap kualitas SDM keselamatan kerja",
-                "Meningkatkan jejaring pelatihan vokasi",
-                "Melaksanakan pemeriksaan kesehatan kerja",
-                "Menyusun rencana anggaran dan evaluasi program",
-                "Melakukan pengawasan terhadap pelatihan vokasi"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 127,
-            "chat_id": "-1002199224078",
-            "question": "Sesuai Pasal 20, Balai Pelatihan Vokasi dan Produktivitas Kelas II berlokasi di?",
-            "options": [
-                "Banda Aceh, Padang, Surakarta",
-                "Sorong, Ternate, Makassar",
-                "Bekasi, Semarang, Sidoarjo",
-                "Lombok Timur, Pangkajene, Belitung",
-                "Kendari, Ambon, Banyuwangi"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 128,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 62 menyebutkan bahwa perubahan organisasi dan tata kerja UPT di kementerian harus mendapatkan persetujuan dari?",
-            "options": [
-                "Menteri yang menyelenggarakan urusan pemerintahan di bidang aparatur negara",
-                "Direktorat Jenderal Pembinaan Pelatihan Vokasi dan Produktivitas",
-                "Menteri Ketenagakerjaan",
-                "Kepala Subbagian Tata Laksana",
-                "Sekretaris Jenderal Kementerian"
-            ],
-            "correct_option_id": 4
-        },
-        {
-            "id": 129,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 10 menyebutkan bahwa salah satu lokasi Balai Besar Pelatihan Vokasi dan Produktivitas berlokasi di?",
-            "options": [
-                "Bandung Barat",
-                "Medan, Serang, Makassar",
-                "Surakarta, Padang, Sidoarjo",
-                "Banda Aceh, Bekasi, Semarang",
-                "Ternate, Kendari, Sorong"
-            ],
-            "correct_option_id": 4
         }
     ]
 }
