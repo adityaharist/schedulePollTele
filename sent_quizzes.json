@@ -1,784 +1,1174 @@
 {
-    "quizzes": [
-        {
-            "id": 1,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang dimaksud dengan Aparatur Sipil Negara (ASN) menurut Pasal 1 ayat (1) UU ASN 2023?",
-            "options": [
-                "Profesional yang bekerja di sektor swasta",
-                "Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja bekerja di instansi pemerintah",
-                "Pegawai pemerintah dengan tugas di lembaga internasional",
-                "Menteri yang bertanggung jawab atas kebijakan pemerintah",
-                "Konsultan independen yang bekerja untuk lembaga negara"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 2,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 1 ayat (5), apa yang dimaksud dengan Manajemen ASN?",
-            "options": [
-                "Proses pengelolaan sumber daya keuangan ASN",
-                "Pengelolaan ASN untuk mewujudkan profesionalisme",
-                "Pengawasan ASN dalam instansi pemerintah",
-                "Pelatihan teknis untuk pegawai ASN",
-                "Sistem pemantauan kinerja ASN"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 3,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 2 menyebutkan asas penyelenggaraan kebijakan dan Manajemen ASN. Apa saja asas yang disebutkan?",
-            "options": [
-                "Profesionalitas, akuntabilitas, dan kolaborasi",
-                "Netralitas, akuntabilitas, dan perlindungan",
-                "Keterbukaan, nondiskriminatif, dan keadilan",
-                "Efektivitas, pendelegasian, dan loyalitas",
-                "Proporsionalitas, transparansi, dan kepastian hukum"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 4,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 3 ayat (2), nilai dasar ASN mencakup beberapa aspek. Yang mana yang bukan termasuk?",
-            "options": [
-                "Berorientasi pelayanan",
-                "Akuntabel",
-                "Bersikap kritis",
-                "Loyal",
-                "Adaptif"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 5,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 4 ayat (2) menjelaskan bahwa nilai dasar ASN dijabarkan dalam  berorientasi pelayan. Apa contoh nilai dasar ini?",
-            "options": [
-                "Mengawasi instansi pemerintah lainnya",
-                "Menyusun kebijakan independen",
-                "Mendukung intervensi politik",
-                "Mengelola sumber daya luar negeri",
-                "Memahami dan memenuhi kebutuhan masyarakat"
-            ],
-            "correct_option_id": 4
-        },
-        {
-            "id": 6,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 5 menyebutkan dua jenis pegawai ASN. Apa saja jenis tersebut?",
-            "options": [
-                "Pegawai kontrak dan tetap",
-                "Pegawai lokal dan internasional",
-                "Pegawai negeri sipil (PNS) dan pegawai pemerintah dengan perjanjian kerja (PPPK)",
-                "Pegawai struktural dan fungsional",
-                "Pegawai tetap dan honorer"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 7,
-            "chat_id": "-1002199224078",
-            "question": "Berdasarkan Pasal 10, apa saja fungsi utama ASN?",
-            "options": [
-                "Pelaksana kebijakan publik, pelayan publik, perekat bangsa",
-                "Pengawas legislatif, pelaksana anggaran, pelayan masyarakat",
-                "Perencana ekonomi nasional, pengawas kebijakan, pelayan publik",
-                "Penyelenggara upacara negara, pengembang infrastruktur, perekat bangsa",
-                "Pelayan masyarakat, pemimpin partai, pengelola bisnis"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 8,
-            "chat_id": "-1002199224078",
-            "question": "Apa peran ASN menurut Pasal 12?",
-            "options": [
-                "Melakukan penelitian ilmiah",
-                "Mengawasi kebijakan pemerintah daerah",
-                "Merancang kebijakan partai politik",
-                "Sebagai perencana, pelaksana, & pengawas penyelenggaraan tugas umum pemerintahan",
-                "Mengelola anggaran lembaga negara"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 9,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 14 menyebutkan jenis Jabatan Manajerial dalam ASN. Apa saja jabatannya?",
-            "options": [
-                "Jabatan fungsional dan pelaksana",
-                "Jabatan pimpinan tinggi utama, madya, pratama, administrator, dan pengawas",
-                "Jabatan pemula, terampil, penyelia, dan mahir",
-                "Jabatan ahli pertama, ahli muda, ahli madya dan ahli utama",
-                "Jabatan pelaksana klerek, pelaksana teknis, dan pelaksana operator"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 10,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 18 menyebutkan dua jenis Jabatan Nonmanajerial. Apa saja jenis jabatan ini?",
-            "options": [
-                "Jabatan JPT, JA dan JF",
-                "Jabatan fungsional dan pelaksana",
-                "Jabatan administrator dan teknis",
-                "Jabatan profesional dan spesialis",
-                "PNS dan PPPK"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 11,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 21, apa saja komponen penghargaan bagi ASN?",
-            "options": [
-                "Bonus tahunan dan penghargaan bersifat motivasi",
-                "Penghasilan, tunjangan, dan pengembangan diri",
-                "Fasilitas, lingkungan kerja dan hak keluarga",
-                "Kesejahteraan keluarga dan hak pensiun",
-                "Jaminan sosial, penghasilan dan pendidikan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 12,
-            "chat_id": "-1002199224078",
-            "question": "Apa tujuan dari Digitalisasi Manajemen ASN seperti yang dijelaskan pada Pasal 63?",
-            "options": [
-                "Menjamin efisiensi, efektivitas dan akurasi anggaran pemerintah",
-                "Mengintegrasikan data nasional dan mendukung pengambilan keputusan",
-                "Meningkatkan fleksibilitas kerahasiaan dan keamanan data nasional",
-                "Menciptakan sistem kompetisi antar instansi",
-                "Mewujudkan ekosistem penyelenggaraan kebutuhan akan pelatihan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 13,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 65 menyatakan larangan apa terkait ASN?",
-            "options": [
-                "Mengambil cuti di luar tanggungan negara",
-                "Mengangkat pegawai non-ASN untuk mengisi jabatan ASN",
-                "Mengadakan pelatihan di luar negeri",
-                "Menolak transfer mutasi ke daerah lain",
-                "Melakukan tugas tanpa supervisi pimpinan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 14,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 27, apa dasar penyelenggaraan Manajemen ASN?",
-            "options": [
-                "Sekolah kader",
-                "Prinsip pelayanan publik",
-                "Sistem Merit",
-                "Kebijakan atasan",
-                "Asas demokrasi"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 15,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 46 menyebutkan metode pengembangan karier ASN. Apa metode yang dimaksud?",
-            "options": [
-                "Peningkatan insentif",
-                "Pengadaan pelatihan mingguan",
-                "Mobilitas talenta",
-                "Rekrutmen terbuka",
-                "Kerja sama dengan sektor swasta"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 16,
-            "chat_id": "-1002199224078",
-            "question": "Apa tujuan organisasi profesi ASN menurut Pasal 62?",
-            "options": [
-                "Mewujudkan jiwa korps ASN sebagai pelayan publik",
-                "Melakukan pemantauan terhadap partai politik",
-                "Menjaga etika profesi dan meningkatkan motivasi kerja",
-                "Meningkatkan produktivitas kerja Pegawai ASN yang independent",
-                "Menyusun program inovasi dan kreativitas Pegawai ASN regional"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 17,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang dimaksud dengan Sistem Merit dalam Manajemen ASN?",
-            "options": [
-                "Sistem berbasis hierarki yang terstruktur baik sesuai aturan sudah disepakati",
-                "Pengelolaan ASN berdasarkan kompetensi, kualifikasi, dan kinerja",
-                "Sistem rotasi jabatan setiap 5 tahun",
-                "Pelatihan berkelanjutan dalam organisasi ASN",
-                "Suatu manajemen dalam pengangkatan pegawai berjenjang secara bijaksana"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 18,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 55, berapa batas usia pensiun pejabat administrator dan pengawas?",
-            "options": [
-                "65 tahun",
-                "60 tahun",
-                "58 tahun",
-                "55 tahun",
-                "62 tahun"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 19,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 40 menjelaskan bahwa pengelolaan kinerja ASN harus berorientasi pada apa?",
-            "options": [
-                "Hasil kerja dan perilaku kerja",
-                "Penguatan kolaborasi lintas unit kerja",
-                "Pengurangan biaya organisasi",
-                "Kompetisi antar pegawai yang adil",
-                "Loyalitas terhadap pimpinan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 20,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang harus dilakukan instansi pemerintah sesuai Pasal 36 terkait pengadaan ASN?",
-            "options": [
-                "Mengumumkan kebutuhan jabatan secara terbuka",
-                "Membuat peraturan internal baru",
-                "Melakukan outsourcing tenaga kerja",
-                "Merekrut tanpa proses seleksi/honorer",
-                "Menetapkan kebijakan anggaran baru"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 21,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 24 ayat (1) menyebutkan bahwa Pegawai ASN wajib menjaga netralitas. Apa arti dari netralitas ini?",
-            "options": [
-                "Tidak memihak pada kepentingan pribadi",
-                "Tidak memihak dari segala bentuk pengaruh politik",
-                "Tidak berinteraksi dengan pejabat pemerintah",
-                "Tidak berpartisipasi dalam kegiatan sosial",
-                "Tidak menggunakan fasilitas pemerintah"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 22,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 31, ruang lingkup Manajemen ASN mencakup beberapa hal. Manakah yang bukan termasuk ruang lingkup tersebut?",
-            "options": [
-                "Perencanaan kebutuhan",
-                "Pengadaan",
-                "Pengelolaan kinerja",
-                "Pelaksanaan anggaran negara",
-                "Pemberhentian"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 23,
-            "chat_id": "-1002199224078",
-            "question": "Apa tujuan utama pengembangan kompetensi ASN menurut Pasal 49 ayat (1)?",
-            "options": [
-                "Memenuhi persyaratan pensiun",
-                "Tetap relevan dengan tuntutan organisasi",
-                "Mengurangi jumlah tenaga kerja",
-                "Mempercepat proses rekrutmen",
-                "Meningkatkan insentif keuangan"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 24,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 43 menyebutkan bahwa pengelolaan kinerja ASN merupakan kewenangan siapa?",
-            "options": [
-                "Pejabat Pembina Kepegawaian",
-                "Pejabat yang Berwenang",
-                "Kepala daerah",
-                "Menteri terkait",
-                "Sekretaris jenderal"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 25,
-            "chat_id": "-1002199224078",
-            "question": "Apa syarat utama pengisian Jabatan Manajerial dari PPPK sebagaimana diatur dalam Pasal 34 ayat (2)?",
-            "options": [
-                "Mempunyai pengalaman minimal 10 tahun",
-                "Diperuntukkan bagi jabatan pimpinan tinggi tertentu",
-                "Lulus seleksi terbuka",
-                "Memiliki latar belakang pendidikan tinggi",
-                "Bekerja di sektor swasta sebelumnya"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 26,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 55 menyebutkan bahwa batas usia pensiun pejabat administrator adalah berapa tahun?",
-            "options": [
-                "60 tahun",
-                "65 tahun",
-                "58 tahun",
-                "55 tahun",
-                "62 tahun"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 27,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 13 menyatakan bahwa ASN memiliki dua jenis jabatan. Apa saja jenis tersebut?",
-            "options": [
-                "Jabatan regional dan nasional",
-                "Jabatan teknis dan administratif",
-                "Jabatan manajerial dan nonmanajerial",
-                "Jabatan lokal dan internasional",
-                "Jabatan tetap dan honorer"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 28,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 50 ayat (1), penghargaan dan pengakuan bagi ASN harus diberikan dengan cara apa?",
-            "options": [
-                "Melalui survei kinerja publik",
-                "Berdasarkan rekomendasi kepala daerah",
-                "Secara adil, layak, dan kompetitif",
-                "Melalui penilaian dari lembaga eksternal",
-                "Dengan mengacu pada anggaran yang tersedia"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 29,
-            "chat_id": "-1002199224078",
-            "question": "Apa kewajiban utama instansi pemerintah terkait nilai dasar ASN sesuai Pasal 39 ayat (2)?",
-            "options": [
-                "Melakukan penilaian tahunan terhadap ASN",
-                "Melaksanakan internalisasi nilai dasar ASN",
-                "Melakukan rotasi jabatan secara berkala",
-                "Menerapkan sanksi bagi ASN yang melanggar",
-                "Memberikan pelatihan secara langsung"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 30,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 18 ayat (3) menyebutkan bahwa jabatan pelaksana memiliki tanggung jawab apa?",
-            "options": [
-                "Memberikan pelayanan yang bersifat rutin dan sederhana",
-                "Mengelola anggaran di instansi pemerintah",
-                "Mengawasi kinerja pegawai lainnya",
-                "Merancang kebijakan publik",
-                "Menyusun laporan evaluasi tahunan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 31,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 64 ayat (2), apa saja upaya administratif untuk menyelesaikan sengketa ASN?",
-            "options": [
-                "Keberatan dan banding administratif",
-                "Pelaporan langsung ke instansi pemerintah",
-                "Mediasi antara ASN dan pimpinan",
-                "Penunjukan mediator eksternal",
-                "Proses hukum di pengadilan"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 32,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang harus dilakukan ASN jika ingin mencalonkan diri sebagai pejabat politik, sesuai Pasal 56?",
-            "options": [
-                "Mengajukan cuti selama masa kampanye",
-                "Menyatakan pengunduran diri secara tertulis sejak ditetapkan sebagai calon",
-                "Meminta izin kepada kepala instansi",
-                "Memenuhi syarat usia tertentu",
-                "Menjalani pelatihan khusus"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 33,
-            "chat_id": "-1002199224078",
-            "question": "Apa tujuan utama dari Sistem Merit seperti yang disebutkan dalam Pasal 27 ayat (2)?",
-            "options": [
-                "Mengurangi biaya operasional pemerintah",
-                "Meningkatkan efisiensi kinerja organisasi",
-                "Menjamin pengelolaan ASN berbasis kompetensi dan kinerja",
-                "Mengawasi aktivitas ASN secara menyeluruh",
-                "Meningkatkan loyalitas pegawai kepada pimpinan"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 34,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 41 menjelaskan mekanisme pengelolaan kinerja ASN. Bagaimana mekanisme ini dilakukan?",
-            "options": [
-                "Melalui pemantauan ketat oleh atasan",
-                "Melalui mekanisme kerja yang fleksibel dan kolaboratif",
-                "Melalui evaluasi harian oleh tim internal",
-                "Melalui pengawasan oleh lembaga independen",
-                "Melalui penilaian eksternal dari publik"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 35,
-            "chat_id": "-1002199224078",
-            "question": "Apa kewajiban Pegawai ASN yang disebutkan dalam Pasal 24 ayat (1)?",
-            "options": [
-                "Menyelesaikan tugas sesuai tenggat waktu",
-                "Bersedia ditempatkan di seluruh wilayah NKRI",
-                "Melakukan pelatihan setiap 6 bulan",
-                "Menyusun laporan keuangan tahunan",
-                "Menjalani tes kesehatan berkala"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 36,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 63 menyebutkan prinsip apa yang harus diperhatikan dalam Digitalisasi Manajemen ASN?",
-            "options": [
-                "Efisiensi anggaran",
-                "Kerja sama internasional",
-                "Keberlangsungan, kerahasiaan, dan keamanan siber",
-                "Transparansi penuh kepada publik",
-                "Integrasi dengan lembaga swasta"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 37,
-            "chat_id": "-1002199224078",
-            "question": "Apa kewenangan utama Presiden dalam kebijakan ASN seperti yang diatur dalam Pasal 26 ayat (1)?",
-            "options": [
-                "Menyusun anggaran tahunan ASN",
-                "Memimpin seleksi ASN di tingkat pusat",
-                "Mengelola kebijakan, pembinaan profesi, dan Manajemen ASN",
-                "Menentukan jadwal pelatihan nasional",
-                "Mengawasi rotasi pegawai di instansi daerah"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 38,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 66, kapan penataan pegawai non-ASN harus diselesaikan?",
-            "options": [
-                "Paling lambat Desember 2023",
-                "Paling lambat Desember 2024",
-                "Paling lambat Januari 2025",
-                "Paling lambat Juli 2025",
-                "Paling lambat Desember 2025"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 39,
-            "chat_id": "-1002199224078",
-            "question": "Apa saja sumber pembiayaan jaminan pensiun ASN sesuai Pasal 22 ayat (4)?",
-            "options": [
-                "Pemerintah dan dana sosial",
-                "Anggaran pribadi pegawai",
-                "Pemerintah dan iuran pegawai",
-                "Hibah dari lembaga internasional",
-                "Dana simpanan pemerintah daerah"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 40,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 47 ayat (3), apa tujuan mobilitas talenta secara nasional?",
-            "options": [
-                "Meningkatkan insentif keuangan",
-                "Menciptakan peluang kerja di sektor swasta",
-                "Mengatasi kesenjangan talenta",
-                "Mengurangi jumlah pegawai di instansi tertentu",
-                "Meningkatkan loyalitas kepada pemerintah pusat"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 41,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 22, jaminan pensiun ASN diberikan untuk tujuan apa?",
-            "options": [
-                "Melindungi kesinambungan penghasilan ASN setelah pensiun",
-                "Memberikan penghargaan bagi ASN yang mencapai target",
-                "Sebagai pengakuan formal atas kontribusi ASN",
-                "Meningkatkan kualitas hidup pegawai setelah berhenti bekerja",
-                "Mendukung keseimbangan anggaran pensiun negara"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 42,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 3 ayat (2) menyebutkan nilai dasar ASN. Apa saja nilai dasar tersebut?",
-            "options": [
-                "Berorientasi pelayanan, kompeten, dan adil",
-                "Akuntabel, loyal, dan berorientasi hasil",
-                "Loyal, harmonis, dan berintegritas",
-                "Adaptif, kolaboratif, dan sinkronis",
-                "Berorientasi pelayanan, adaptif, dan harmonis"
-            ],
-            "correct_option_id": 4
-        },
-        {
-            "id": 43,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi utama ASN sebagai perekat dan pemersatu bangsa, sesuai Pasal 10?",
-            "options": [
-                "Melaksanakan kebijakan publik dengan adil",
-                "Memberikan pelayanan publik secara optimal",
-                "Mengelola konflik antarinstansi pemerintah",
-                "Mendukung persatuan berdasarkan Pancasila",
-                "Membangun lingkungan kerja yang kondusif"
-            ],
-            "correct_option_id": 3
-        },
-        {
-            "id": 44,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 4 ayat (2) menyebutkan nilai dasar akuntabilitas. Apa saja yang termasuk dalam nilai tersebut?",
-            "options": [
-                "Menggerakkan pemanfaatan berbagai sumber daya untuk tujuan bersama",
-                "Memberikan pelayanan sesuai kebutuhan masyarakat",
-                "Meningkatkan kompetensi diri untuk menghadapi tantangan",
-                "Melaksanakan tugas dengan akurat dan efisien",
-                "Melaksanakan tugas dengan jujur dan bertanggung jawab"
-            ],
-            "correct_option_id": 4
-        },
-        {
-            "id": 45,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi kriteria utama pengisian Jabatan Nonmanajerial, sesuai Pasal 18 ayat (2)?",
-            "options": [
-                "Keahlian dan pengalaman kerja",
-                "Kompetensi dan kualifikasi pendidikan",
-                "Keahlian dan/atau keterampilan tertentu",
-                "Pendidikan tinggi dan pengalaman teknis",
-                "Loyalitas dan keahlian khusus"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 46,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 40 menyebutkan pengelolaan kinerja ASN berorientasi pada apa?",
-            "options": [
-                "Hasil kerja dan perilaku kerja",
-                "Keseimbangan antara hak dan kewajiban",
-                "Kemajuan profesional dan pengembangan diri",
-                "Efisiensi waktu dalam mencapai target",
-                "Penghargaan atas kontribusi pegawai"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 47,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 39 ayat (1), apa panduan perilaku ASN dalam membangun budaya kerja?",
-            "options": [
-                "Kode etik dan prinsip transparansi",
-                "Peraturan instansi dan kode etik nasional",
-                "Nilai dasar ASN dan kode etik",
-                "SOP internal dan kode perilaku kerja",
-                "Kode perilaku dan pedoman pemerintah"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 48,
-            "chat_id": "-1002199224078",
-            "question": "Apa fungsi utama mobilitas talenta menurut Pasal 46 ayat (4)?",
-            "options": [
-                "Menyediakan peluang karier yang lebih luas",
-                "Mengoptimalkan distribusi keahlian ASN berdasarkan Sistem Merit",
-                "Meningkatkan efisiensi kerja antar instansi",
-                "Memastikan ketersediaan pegawai di daerah terpencil",
-                "Meningkatkan kemampuan teknis pegawai lintas sektor"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 49,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 31 menyebutkan bahwa pemberhentian ASN termasuk dalam ruang lingkup Manajemen ASN. Apa alasan utama pemberhentian tidak atas permintaan sendiri?",
-            "options": [
-                "Melakukan pelanggaran disiplin tingkat berat",
-                "Tidak menunjukkan kinerja yang memadai",
-                "Mencapai batas usia pensiun",
-                "Mengundurkan diri atas dasar pribadi",
-                "Dipidana dengan putusan hukum tetap"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 50,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 63 ayat (4) menyebutkan prinsip Digitalisasi Manajemen ASN. Apa yang menjadi prioritas dalam penerapan ini?",
-            "options": [
-                "Peningkatan transparansi dan integrasi data",
-                "Efisiensi anggaran melalui pengurangan manual proses",
-                "Keberlangsungan, kerahasiaan, dan keamanan siber",
-                "Kemudahan akses bagi seluruh instansi pemerintah",
-                "Kolaborasi lintas kementerian dengan sistem digital"
-            ],
-            "correct_option_id": 2
-        },
-		{
-            "id": 51,
-            "chat_id": "-1002199224078",
-            "question": "Apa kewenangan Pejabat Pembina Kepegawaian sesuai Pasal 28 ayat (1)?",
-            "options": [
-                "Menentukan kebijakan nasional terkait ASN",
-                "Melaksanakan Sistem Merit dalam pengangkatan, pemindahan, dan pemberhentian Pegawai ASN",
-                "Menyusun laporan evaluasi kinerja instansi",
-                "Mengatur distribusi anggaran untuk pegawai",
-                "Membuat program pengembangan kompetensi"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 52,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 36 menjelaskan tentang pengadaan ASN. Apa yang diwajibkan untuk setiap instansi pemerintah?",
-            "options": [
-                "Menerapkan sistem seleksi berbasis teknologi",
-                "Mengumumkan kebutuhan jabatan secara terbuka",
-                "Melakukan rotasi jabatan secara berkala",
-                "Membentuk tim pengawasan seleksi ASN",
-                "Mengadakan pelatihan teknis bagi pegawai baru"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 53,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 55, berapa batas usia pensiun untuk pejabat pimpinan tinggi utama?",
-            "options": [
-                "58 tahun",
-                "60 tahun",
-                "62 tahun",
-                "65 tahun",
-                "63 tahun"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 54,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 46 ayat (3) menyebutkan tiga jenis mobilitas talenta. Manakah yang termasuk dalam jenis tersebut?",
-            "options": [
-                "Antar-instansi pemerintah, ke luar instansi pemerintah, dan ke lembaga swasta",
-                "Dalam satu instansi pemerintah, antar-instansi pemerintah, dan ke luar instansi pemerintah",
-                "Ke luar negeri, ke lembaga swasta, dan antar-instansi pemerintah",
-                "Ke kementerian pusat, ke lembaga daerah, dan antar negara",
-                "Dalam satu instansi pemerintah, ke lembaga swasta, dan ke luar negeri"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 55,
-            "chat_id": "-1002199224078",
-            "question": "Apa yang menjadi tujuan utama pemberian penghargaan dan pengakuan bagi ASN sesuai Pasal 21?",
-            "options": [
-                "Memotivasi ASN untuk bekerja lebih efisien",
-                "Menjamin kesejahteraan ASN dan keluarga",
-                "Meningkatkan produktivitas kerja dan kepuasan pegawai",
-                "Mendukung loyalitas ASN terhadap pimpinan",
-                "Memberikan insentif finansial kepada ASN"
-            ],
-            "correct_option_id": 2
-        },
-        {
-            "id": 56,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 64, bagaimana cara utama menyelesaikan sengketa ASN?",
-            "options": [
-                "Melalui pengadilan tata usaha negara",
-                "Melalui upaya administratif berupa keberatan dan banding",
-                "Melalui mediasi oleh pihak independen",
-                "Melalui komite pengawasan internal",
-                "Melalui arbitrase internasional"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 57,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 5 menyebutkan dua jenis pegawai ASN. Manakah yang benar?",
-            "options": [
-                "Pegawai negeri sipil (PNS) dan pegawai pemerintah dengan perjanjian kerja (PPPK)",
-                "Pegawai tetap dan pegawai tidak tetap",
-                "Pegawai kontrak dan pegawai profesional",
-                "Pegawai struktural dan pegawai teknis",
-                "Pegawai lokal dan pegawai nasional"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 58,
-            "chat_id": "-1002199224078",
-            "question": "Pasal 11 menyebutkan tugas ASN. Manakah yang termasuk tugas tersebut?",
-            "options": [
-                "Melaksanakan kebijakan publik yang dibuat oleh Pejabat Pembina Kepegawaian",
-                "Mengawasi kebijakan daerah sesuai mandat kepala instansi",
-                "Mengatur distribusi anggaran untuk program pemerintah",
-                "Menetapkan standar pelayanan nasional",
-                "Mengelola konflik antarinstansi di tingkat pusat"
-            ],
-            "correct_option_id": 0
-        },
-        {
-            "id": 59,
-            "chat_id": "-1002199224078",
-            "question": "Apa tujuan dari transformasi Digitalisasi Manajemen ASN sesuai Pasal 63?",
-            "options": [
-                "Mengurangi kebutuhan pelatihan pegawai",
-                "Memastikan efisiensi, efektivitas, dan akurasi pengelolaan ASN",
-                "Meningkatkan kompetisi antar instansi",
-                "Mempercepat proses pensiun ASN",
-                "Memastikan kebijakan rotasi pegawai berjalan lancar"
-            ],
-            "correct_option_id": 1
-        },
-        {
-            "id": 60,
-            "chat_id": "-1002199224078",
-            "question": "Menurut Pasal 8, apa kedudukan ASN dalam sistem pemerintahan Indonesia?",
-            "options": [
-                "Sebagai tenaga profesional di lembaga negara",
-                "Sebagai unsur aparatur negara",
-                "Sebagai pendukung kebijakan internasional",
-                "Sebagai tenaga pengawas regulasi",
-                "Sebagai perencana pembangunan nasional"
-            ],
-            "correct_option_id": 1
-        }
-    ]
+  "quizzes": [
+    {
+      "id": 1,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 1 ayat (1), apa yang dimaksud dengan Manajemen Pegawai Negeri Sipil?",
+      "options": [
+        "Sistem pengelolaan administrasi umum pada instansi pemerintah",
+        "Pengelolaan pegawai negeri sipil untuk menghasilkan profesionalisme dan bebas dari korupsi",
+        "Strategi pengelolaan sumber daya manusia di perusahaan swasta",
+        "Metode pengelolaan pekerjaan untuk meningkatkan efisiensi",
+        "Pola pengelolaan tenaga kerja berbasis kompetensi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 2,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 2 mengatur aspek apa saja dalam Manajemen PNS?",
+      "options": [
+        "Pendidikan, pengangkatan, dan pemberhentian",
+        "Pengadaan, pangkat, mutasi, dan promosi",
+        "Penyusunan kebutuhan, penilaian kinerja, penghargaan, dan disiplin",
+        "Pengangkatan, penggajian, dan pengembangan karier",
+        "Semua aspek terkait dengan ASN secara keseluruhan"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 3,
+      "chat_id": "-1002199224078",
+      "question": "Siapakah yang memegang kewenangan tertinggi dalam pembinaan PNS sebagaimana diatur dalam Pasal 3 ayat (1)?",
+      "options": [
+        "Menteri Keuangan",
+        "Presiden",
+        "Sekretaris Jenderal",
+        "Kepala BKN",
+        "Menteri Pendayagunaan Aparatur Negara"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 4,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 5 ayat (1), kebutuhan jumlah dan jenis Jabatan PNS harus didasarkan pada?",
+      "options": [
+        "Analisis beban kerja dan pengadaan pegawai",
+        "Rencana strategis dan dokumen anggaran",
+        "Analisis jabatan dan analisis beban kerja",
+        "Jumlah pensiun pegawai setiap tahun",
+        "Ketersediaan anggaran pada instansi terkait"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 5,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 39 ayat (1), kapan seorang calon PNS wajib mengucapkan sumpah/janji?",
+      "options": [
+        "Pada saat melamar sebagai PNS",
+        "Setelah menjalani masa percobaan selama 1 tahun",
+        "Pada saat diangkat menjadi PNS",
+        "Sebelum mengikuti pendidikan dan pelatihan",
+        "Ketika menerima surat keputusan pengangkatan"
+      ],
+      "correct_option_id": 2
+    },
+	{
+      "id": 6,
+      "chat_id": "-1002199224078",
+      "question": "Apa yang menjadi dasar dalam penyusunan kebutuhan PNS sebagaimana diatur dalam Pasal 8?",
+      "options": [
+        "Penyelarasan dengan jumlah pensiun pegawai",
+        "Analisis beban kerja dan jumlah pensiun",
+        "Hasil analisis jabatan, analisis beban kerja, dan peta jabatan",
+        "Rencana strategis pemerintah pusat",
+        "Anggaran yang tersedia dalam siklus tahunan"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 7,
+      "chat_id": "-1002199224078",
+      "question": "Berdasarkan Pasal 12 ayat (1), siapa yang menetapkan kebutuhan PNS secara nasional setiap tahun?",
+      "options": [
+        "Kepala BKN",
+        "Presiden",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Menteri Keuangan",
+        "Gubernur"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 8,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 16 ayat (1), pengadaan PNS dilakukan untuk memenuhi kebutuhan jabatan apa saja?",
+      "options": [
+        "Jabatan administrasi, jabatan pengawas, dan jabatan pelaksana",
+        "Jabatan administrasi, jabatan fungsional keahlian, dan jabatan fungsional keterampilan",
+        "Jabatan struktural dan jabatan teknis",
+        "Jabatan pengelolaan dan jabatan pelaksana teknis",
+        "Jabatan manajerial dan jabatan pendukung"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 9,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 34 ayat (1) menyebutkan bahwa masa percobaan seorang calon PNS adalah?",
+      "options": [
+        "6 bulan",
+        "1 tahun",
+        "2 tahun",
+        "18 bulan",
+        "Sesuai ketetapan instansi terkait"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 10,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 36 ayat (1), apa persyaratan utama bagi calon PNS untuk diangkat menjadi PNS?",
+      "options": [
+        "Lulus pendidikan dan pelatihan serta sehat jasmani dan rohani",
+        "Menyelesaikan tugas selama masa percobaan",
+        "Mengikuti uji kompetensi sosial budaya",
+        "Memenuhi syarat administrasi dan pendidikan",
+        "Mengikuti pelatihan kerja tambahan"
+      ],
+      "correct_option_id": 0
+    },
+	{
+      "id": 11,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 47, Jabatan PNS terdiri atas jenis jabatan apa saja?",
+      "options": [
+        "Jabatan struktural, fungsional, dan manajerial",
+        "Jabatan Administrasi, Jabatan Fungsional, dan Jabatan Pimpinan Tinggi",
+        "Jabatan Administrasi, Jabatan Fungsional, dan Jabatan Pimpinan Utama",
+        "Jabatan Pelaksana, Jabatan Pengawas, dan Jabatan Administrator",
+        "Jabatan Fungsional, Jabatan Staf, dan Jabatan Organisasi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 12,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 48 ayat (1), siapa yang menetapkan nomenklatur jabatan dan pangkat JPT utama dan JPT madya?",
+      "options": [
+        "Presiden",
+        "Menteri Keuangan",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Kepala BKN",
+        "Gubernur"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 13,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 49 ayat (1) menyebutkan bahwa pengisian Jabatan Pelaksana, JF keahlian jenjang ahli pertama, JF keterampilan jenjang pemula, dan JF keterampilan jenjang terampil dapat dilakukan melalui?",
+      "options": [
+        "Perekrutan umum",
+        "Pengadaan PNS",
+        "Penyesuaian jabatan",
+        "Seleksi terbuka",
+        "Pengangkatan langsung"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 14,
+      "chat_id": "-1002199224078",
+      "question": "Berdasarkan Pasal 54 ayat (1), untuk diangkat dalam Jabatan administrator, PNS harus memiliki kualifikasi pendidikan paling rendah?",
+      "options": [
+        "Sekolah lanjutan tingkat atas",
+        "Diploma III",
+        "Sarjana atau Diploma IV",
+        "Magister",
+        "Doktor"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 15,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 55 ayat (5) mengatur bahwa kompetensi sosial kultural pejabat administrator, pengawas, dan pelaksana diukur dari?",
+      "options": [
+        "Pengalaman kerja dalam organisasi masyarakat",
+        "Pengalaman berkaitan dengan masyarakat majemuk dalam hal agama, suku, dan budaya",
+        "Pengalaman dalam tugas pemerintahan",
+        "Pengalaman dalam pengelolaan organisasi",
+        "Pengalaman bekerja dalam tim internasional"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 16,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 56 ayat (2) menyebutkan bahwa pengangkatan PNS dalam jabatan administrasi didasarkan pada pertimbangan dari?",
+      "options": [
+        "Pimpinan Instansi Pemerintah",
+        "Tim penilai kinerja PNS pada Instansi Pemerintah",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Presiden",
+        "Pejabat Pembina Kepegawaian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 17,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 59 ayat (1) menyebutkan bahwa jika seorang PNS berkeberatan mengucapkan sumpah jabatan, maka ia dapat mengucapkan?",
+      "options": [
+        "Sumpah jabatan dengan kalimat sesuai agama yang bersangkutan",
+        "Janji jabatan dengan kalimat sesuai keyakinannya",
+        "Sumpah jabatan dengan tambahan kalimat sesuai dengan keyakinan agama",
+        "Janji Jabatan dengan tambahan kalimat tertentu",
+        "Sumpah Jabatan dengan kalimat yang lebih singkat"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 18,
+      "chat_id": "-1002199224078",
+      "question": "Dalam Pasal 61 ayat (1), pengambilan sumpah/janji jabatan dilakukan dalam suatu?",
+      "options": [
+        "Rapat besar Instansi Pemerintah",
+        "Acara pengambilan sumpah di luar jam kerja",
+        "Upacara khidmat",
+        "Acara resmi yang dilaksanakan oleh PPK",
+        "Kegiatan yang dihadiri oleh pejabat tinggi"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 19,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 64 ayat (1) menyebutkan bahwa PNS dapat diberhentikan dari Jabatan Administrasi karena alasan?",
+      "options": [
+        "Kehilangan status sebagai PNS",
+        "Pemberhentian sementara atau cuti di luar tanggungan negara",
+        "Tidak memenuhi persyaratan pendidikan lanjutan",
+        "Mengundurkan diri tanpa alasan yang jelas",
+        "Mendapatkan teguran keras"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 20,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 67 ayat (1) menjelaskan bahwa pejabat fungsional bertanggung jawab secara langsung kepada?",
+      "options": [
+        "Pejabat Pimpinan Tinggi",
+        "Pejabat Administrasi",
+        "Pejabat Pengawas",
+        "Pejabat Pimpinan Utama",
+        "Pejabat Pembina Kepegawaian"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 21,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 69, jenjang Jabatan Fungsional keahlian terdiri atas beberapa tingkatan?",
+      "options": [
+        "Tiga tingkat",
+        "Empat tingkat",
+        "Lima tingkat",
+        "Dua tingkat",
+        "Satu tingkat"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 22,
+      "chat_id": "-1002199224078",
+      "question": "Dalam Pasal 73 ayat (1), penetapan Jabatan Fungsional dilakukan oleh?",
+      "options": [
+        "Pejabat Pembina Kepegawaian",
+        "Menteri terkait dengan usulan pimpinan Instansi Pemerintah",
+        "Kepala BKN",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Presiden"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 23,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 74 menyebutkan bahwa pengangkatan dalam JF keahlian dapat dilakukan melalui pengangkatan pertama, perpindahan dari jabatan lain, atau?",
+      "options": [
+        "Mutasi Jabatan",
+        "Penyesuaian",
+        "Rekrutmen Terbuka",
+        "Pelatihan Khusus",
+        "Rotasi Jabatan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 24,
+      "chat_id": "-1002199224078",
+      "question": "Berdasarkan Pasal 75, persyaratan pengangkatan pertama dalam JF keahlian adalah?",
+      "options": [
+        "Berstatus PNS dan memiliki pendidikan yang lebih tinggi",
+        "Berijazah paling rendah sarjana dan mengikuti uji kompetensi",
+        "Lulus tes kesehatan dan psikologi",
+        "Pendidikan paling rendah diploma II dan pengalaman kerja",
+        "Setidaknya dua tahun pengalaman kerja terkait"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 25,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 76 ayat (1) menyebutkan bahwa pengangkatan dalam JF keahlian melalui perpindahan dari jabatan lain harus memenuhi persyaratan usia paling tinggi?",
+      "options": [
+        "55 tahun untuk JF ahli pertama",
+        "60 tahun untuk JF ahli madya",
+        "53 tahun untuk JF ahli pertama dan ahli muda",
+        "55 tahun untuk JF ahli utama",
+        "50 tahun untuk JF keahlian"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 26,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 77 menyebutkan bahwa pengangkatan dalam JF keahlian melalui penyesuaian harus memenuhi persyaratan pengalaman kerja selama?",
+      "options": [
+        "2 tahun",
+        "4 tahun",
+        "1 tahun",
+        "3 tahun",
+        "5 tahun"
+      ],
+      "correct_option_id": 0
+    },
+	{
+      "id": 27,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 18 ayat (2) menyebutkan bahwa panitia seleksi nasional pengadaan PNS terdiri atas unsur kementerian yang menyelenggarakan urusan pemerintahan di bidang?",
+      "options": [
+        "Keuangan",
+        "Pendayagunaan aparatur negara",
+        "Pendidikan",
+        "Pemerintahan dalam negeri",
+        "Pertahanan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 28,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 16 ayat (2) mengatur bahwa pengadaan PNS dilakukan untuk mengisi kebutuhan jabatan?",
+      "options": [
+        "Pendidikan dan keahlian fungsional",
+        "Administrasi, pengawas, dan pelaksana",
+        "Keahlian teknis dan keterampilan dasar",
+        "Jabatan Pimpinan Tinggi",
+        "Jabatan sesuai dengan kebutuhan instansi"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 29,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 23, syarat usia pelamar untuk melamar PNS adalah minimal?",
+      "options": [
+        "20 tahun dan maksimal 30 tahun",
+        "18 tahun dan maksimal 35 tahun",
+        "25 tahun dan maksimal 40 tahun",
+        "20 tahun dan maksimal 45 tahun",
+        "18 tahun dan maksimal 40 tahun"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 30,
+      "chat_id": "-1002199224078",
+      "question": "Dalam Pasal 19 ayat (1), tahapan pengadaan PNS meliputi?",
+      "options": [
+        "Seleksi administrasi, wawancara, dan pengangkatan",
+        "Perencanaan, pengumuman, pelamaran, seleksi, dan pengangkatan",
+        "Rekrutmen, penilaian kompetensi, dan pengangkatan",
+        "Perekrutan, seleksi kesehatan, dan pelatihan",
+        "Pengumuman, seleksi administratif, dan promosi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 31,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 34 ayat (4), proses pendidikan dan pelatihan untuk calon PNS dilaksanakan untuk?",
+      "options": [
+        "Memperbaiki kompetensi dasar saja",
+        "Membangun integritas moral dan kompetensi bidang",
+        "Memperbaiki kinerja pegawai yang kurang optimal",
+        "Menyiapkan pegawai yang siap kerja",
+        "Membangun karakter dan kepribadian unggul"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 32,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 3 ayat (2), Presiden dapat mendelegasikan kewenangan pengangkatan, pemindahan, dan pemberhentian PNS kepada?",
+      "options": [
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Gubernur di Provinsi",
+        "Sekretaris Jenderal di sekretariat lembaga negara",
+        "Kepala BKN",
+        "Bupati/Walikota di kabupaten/kota"
+      ],
+      "correct_option_id": 4
+    },
+    {
+      "id": 33,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 8 ayat (2) menyebutkan bahwa rincian kebutuhan PNS setiap tahun harus memperhatikan faktor?",
+      "options": [
+        "Anggaran daerah dan rasio antara gaji dan operasional",
+        "Geografis, jumlah penduduk, dan rasio anggaran belanja pegawai",
+        "Kebutuhan jabatan dan jumlah PNS yang pensiun",
+        "Ketersediaan anggaran pemerintah pusat",
+        "Rasio jumlah pegawai terhadap organisasi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 34,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 41 ayat (3) menyebutkan bahwa bagi calon PNS yang beragama Hindu, frasa 'Demi Allah' diganti dengan?",
+      "options": [
+        "Om Atah Paramawisesa",
+        "Kiranya Tuhan Menolong Saya",
+        "Demi Sang Hyang Adi Budha",
+        "Kehadirat Tian",
+        "Dengan Bimbingan Rohani Nabi Kong Zi"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 35,
+      "chat_id": "-1002199224078",
+      "question": "Berdasarkan Pasal 29, pelamar yang lulus seleksi kompetensi dasar akan mengikuti seleksi?",
+      "options": [
+        "Psikologi dan medis",
+        "Kompetensi teknis",
+        "Kompetensi bidang",
+        "Administrasi",
+        "Rekrutmen lapangan"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 36,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 57 ayat (1) mengatur bahwa setiap PNS yang diangkat menjadi pejabat administrator dan pejabat pengawas wajib?",
+      "options": [
+        "Mengucapkan sumpah jabatan",
+        "Mendapatkan pelatihan lanjutan",
+        "Ditetapkan sebagai pejabat sementara",
+        "Menandatangani surat keputusan",
+        "Menghadiri acara pelantikan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 37,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 10 ayat (2) mengatur bahwa penyusunan kebutuhan PNS secara elektronik diatur lebih lanjut dengan?",
+      "options": [
+        "Peraturan Menteri",
+        "Peraturan Presiden",
+        "Peraturan Kepala BKN",
+        "Peraturan Daerah",
+        "Peraturan Instansi Pemerintah"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 38,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 65 ayat (2) menyebutkan bahwa PPK dapat memberikan kuasa kepada pejabat di lingkungannya untuk?",
+      "options": [
+        "Menetapkan kebijakan manajerial",
+        "Mengangkat PNS ke dalam jabatan baru",
+        "Menetapkan pemberhentian dalam Jabatan Administrasi",
+        "Menyusun laporan kepegawaian",
+        "Menentukan jadwal pelantikan"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 39,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 67 ayat (2) menjelaskan bahwa jabatan fungsional (JF) memiliki tugas memberikan pelayanan fungsional yang berbasis pada?",
+      "options": [
+        "Keterampilan dasar dan keterampilan teknis",
+        "Keahlian dan keterampilan tertentu",
+        "Pengalaman kerja yang relevan",
+        "Pendidikan dan pelatihan intensif",
+        "Inovasi dan solusi administrasi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 40,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 24 ayat (2) menyebutkan bahwa setiap pelamar berhak untuk memperoleh informasi tentang seleksi pengadaan PNS dari?",
+      "options": [
+        "Instansi Pemerintah yang bersangkutan",
+        "Kepala BKN",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Pemerintah daerah",
+        "Tim seleksi nasional"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 41,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 11 mengatur bahwa tata cara pelaksanaan penyusunan kebutuhan PNS diatur dengan?",
+      "options": [
+        "Peraturan Presiden",
+        "Peraturan Menteri Kepala BKN",
+        "Peraturan Instansi Pemerintah",
+        "Peraturan Daerah",
+        "Peraturan Kepegawaian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 42,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 20 ayat (1) menyebutkan bahwa panitia seleksi nasional dan panitia seleksi instansi penyusun perencanaan pengadaan PNS harus menyusun?",
+      "options": [
+        "Anggaran pengadaan PNS",
+        "Jadwal pengadaan PNS",
+        "Dokumen administrasi pelamar",
+        "Syarat pengangkatan PNS",
+        "Peraturan ketenagakerjaan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 43,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 12 ayat (3) menyebutkan bahwa Menteri menyusun rencana pemenuhan kebutuhan PNS berdasarkan?",
+      "options": [
+        "Pertimbangan teknis BKN",
+        "Rencana pembangunan nasional",
+        "Jumlah anggaran belanja pegawai",
+        "Anggaran sektor pendidikan",
+        "Jumlah instansi yang membutuhkan pegawai"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 44,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 79 ayat (2) mengatur bahwa pengangkatan JF keterampilan melalui perpindahan jabatan harus mempertimbangkan?",
+      "options": [
+        "Ketersediaan lowongan jabatan",
+        "Usia pelamar",
+        "Pendidikan terakhir pelamar",
+        "Pengalaman kerja selama 3 tahun",
+        "Hasil seleksi kompetensi bidang"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 45,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 75 ayat (2) menyebutkan bahwa pengangkatan pertama dalam JF keahlian untuk mengisi lowongan harus melalui?",
+      "options": [
+        "Pengadaan PNS melalui seleksi terbuka",
+        "Pendidikan prajabatan",
+        "Pelatihan dan penilaian keahlian",
+        "Proses pemindahan jabatan",
+        "Pengangkatan melalui PPPK"
+      ],
+      "correct_option_id": 0
+    },
+	{
+      "id": 46,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 2 ayat (1), apa saja yang termasuk dalam manajemen PNS?",
+      "options": [
+        "Pengadaan, mutasi, dan penghargaan",
+        "Penggajian, disiplin, dan pemberhentian",
+        "Penyusunan kebutuhan, penggajian, dan penghargaan",
+        "Penyusunan dan penetapan kebutuhan, promosi, dan pensiun",
+        "Penyusunan kebutuhan, pangkat, dan mutasi"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 47,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 4 mengatur bahwa penyusunan dan penetapan kebutuhan jumlah dan jenis jabatan PNS dilakukan berdasarkan?",
+      "options": [
+        "Siklus anggaran pemerintah pusat",
+        "Rencana strategis instansi pemerintah",
+        "Proyeksi kebutuhan pegawai setiap tahun",
+        "Rencana anggaran dan kebutuhan beban kerja",
+        "Anggaran tahunan dan prioritas pekerjaan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 48,
+      "chat_id": "-1002199224078",
+      "question": "Berdasarkan Pasal 5 ayat (2), penyusunan kebutuhan jumlah dan jenis jabatan PNS dilakukan untuk jangka waktu berapa tahun?",
+      "options": [
+        "3 tahun",
+        "5 tahun",
+        "7 tahun",
+        "10 tahun",
+        "15 tahun"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 49,
+      "chat_id": "-1002199224078",
+      "question": "Dalam Pasal 6 ayat (1), analisis jabatan dan beban kerja dilakukan oleh instansi pemerintah berdasarkan pedoman yang ditetapkan oleh?",
+      "options": [
+        "Menteri Keuangan",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Menteri Pendidikan",
+        "Kepala BKN",
+        "Menteri Dalam Negeri"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 50,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 7 mengatur bahwa penyusunan kebutuhan PNS meliputi kebutuhan untuk jenis jabatan apa saja?",
+      "options": [
+        "Jabatan Pimpinan Tinggi, Jabatan Administrasi, Jabatan Pelaksana",
+        "Jabatan Fungsional, Jabatan Administrasi, Jabatan Pimpinan Utama",
+        "Jabatan Fungsional, Jabatan Administrasi, Jabatan Pimpinan Tinggi",
+        "Jabatan Fungsional, Jabatan Pengawas, Jabatan Pimpinan Utama",
+        "Jabatan Pengawas, Jabatan Pimpinan Utama, Jabatan Pelaksana"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 51,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 9 ayat (3) mengatur bahwa apabila terjadi perubahan anggaran yang mengakibatkan perubahan dalam perencanaan kebutuhan PNS, penyampaian rincian dilakukan paling lambat pada?",
+      "options": [
+        "Akhir bulan Maret",
+        "Akhir bulan April",
+        "Akhir bulan Juni",
+        "Akhir bulan Juli",
+        "Akhir bulan September"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 52,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 15 menyebutkan bahwa pengadaan PNS dilakukan berdasarkan pada?",
+      "options": [
+        "Kebutuhan jabatan dan instansi pemerintah",
+        "Penetapan anggaran tahunan",
+        "Analisis beban kerja dan analisis jabatan",
+        "Penyusunan anggaran dan perencanaan SDM",
+        "Penyusunan anggaran tahunan dan kebijakan pemerintah"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 53,
+      "chat_id": "-1002199224078",
+      "question": "Menurut Pasal 18 ayat (2), panitia seleksi nasional pengadaan PNS diketuai oleh?",
+      "options": [
+        "Menteri Keuangan",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Kepala BKN",
+        "Menteri Pendidikan dan Kebudayaan",
+        "Kepala Badan Intelijen Negara"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 54,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 19 ayat (2) menyebutkan bahwa pengumuman hasil seleksi pengadaan PNS dilakukan oleh?",
+      "options": [
+        "Kepala BKN",
+        "Instansi Pemerintah yang akan dilamar",
+        "Panitia seleksi nasional",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Pejabat Pembina Kepegawaian"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 55,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 26 ayat (1) menjelaskan bahwa seleksi pengadaan PNS terdiri atas berapa tahapan?",
+      "options": [
+        "2 tahapan",
+        "3 tahapan",
+        "4 tahapan",
+        "5 tahapan",
+        "6 tahapan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 56,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 28 ayat (1) mengatur bahwa pelamar yang lulus seleksi administrasi akan mengikuti seleksi?",
+      "options": [
+        "Kompetensi dasar",
+        "Seleksi fisik",
+        "Kompetensi teknis",
+        "Pengumuman hasil seleksi",
+        "Seleksi akademik"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 57,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 36 menyebutkan bahwa calon PNS yang diangkat menjadi PNS harus memenuhi dua persyaratan utama, yaitu?",
+      "options": [
+        "Lulus pelatihan dan sehat jasmani serta rohani",
+        "Memenuhi syarat administratif dan lulus seleksi kesehatan",
+        "Lulus pendidikan dan pelatihan serta sehat jasmani dan rohani",
+        "Memenuhi evaluasi dan ujian kompetensi dasar",
+        "Lulus ujian psikologi dan sehat jasmani"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 58,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 39 ayat (1) mengatur bahwa setiap calon PNS pada saat diangkat menjadi PNS wajib mengucapkan?",
+      "options": [
+        "Sumpah jabatan",
+        "Janji jabatan sesuai agama",
+        "Sumpah jabatan sesuai agama atau kepercayaan",
+        "Sumpah jabatan dalam acara khidmat",
+        "Janji untuk berkhidmat bagi negara"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 59,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 47 mengatur bahwa jabatan PNS terdiri atas?",
+      "options": [
+        "Jabatan Administrasi, Jabatan Fungsional, Jabatan Pimpinan Tinggi",
+        "Jabatan Pengawas, Jabatan Pelaksana, dan Jabatan Administrasi",
+        "Jabatan Pimpinan Tinggi, Jabatan Pengawas, dan Jabatan Pelaksana",
+        "Jabatan Staf, Jabatan Fungsional, dan Jabatan Pengawas",
+        "Jabatan Fungsional dan Jabatan Pimpinan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 60,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 58 mengatur bahwa sumpah jabatan yang diucapkan oleh pejabat administrator harus sesuai dengan?",
+      "options": [
+        "Kepercayaan agama atau keyakinannya kepada Tuhan",
+        "Undang-Undang Dasar Negara Republik Indonesia",
+        "Pancasila dan negara",
+        "Tujuan bangsa Indonesia",
+        "Keputusan Pemerintah"
+      ],
+      "correct_option_id": 0
+    },
+	{
+      "id": 61,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 63 mengatur bahwa tata cara pelantikan dan pengambilan sumpah/janji jabatan administrator dan jabatan pengawas diatur dengan?",
+      "options": [
+        "Peraturan Menteri Pendayagunaan Aparatur Negara",
+        "Peraturan Kepala BKN",
+        "Peraturan Presiden",
+        "Peraturan Pemerintah",
+        "Peraturan Daerah"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 62,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 74 ayat (4) mengatur bahwa pengangkatan JF melalui pengangkatan PPPK diatur dengan?",
+      "options": [
+        "Peraturan Menteri Keuangan",
+        "Peraturan Menteri Pendayagunaan Aparatur Negara",
+        "Peraturan Presiden",
+        "Peraturan Pemerintah",
+        "Peraturan Kepala BKN"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 63,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 70 ayat (2) menyebutkan bahwa kategori JF terdiri dari dua jenis, yaitu?",
+      "options": [
+        "JF Administrasi dan JF Pengawas",
+        "JF Keahlian dan JF Keterampilan",
+        "JF Fungsional dan JF Manajerial",
+        "JF Keterampilan dan JF Pimpinan",
+        "JF Pelaksana dan JF Pimpinan Utama"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 64,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 49 ayat (2) mengatur bahwa pengisian jabatan administrator dan jabatan pengawas dapat dilakukan melalui?",
+      "options": [
+        "Rekrutmen PNS dari instansi lain dan seleksi terbuka",
+        "Penyesuaian jabatan dan rotasi",
+        "Seleksi terbuka dari PNS yang tersedia",
+        "Rekrutmen berdasarkan kualifikasi pendidikan",
+        "Pencalonan dari PNS internal"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 65,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 13 ayat (2) mengatur bahwa pertimbangan teknis Kepala BKN terkait dengan penyusunan kebutuhan PNS disampaikan kepada Menteri paling lambat pada?",
+      "options": [
+        "Akhir bulan Maret",
+        "Akhir bulan Mei",
+        "Akhir bulan Juli",
+        "Akhir bulan Agustus",
+        "Akhir bulan September"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 66,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 18 ayat (4) menyebutkan bahwa tugas panitia seleksi nasional pengadaan PNS termasuk menyusun soal seleksi kompetensi dasar dan?",
+      "options": [
+        "Mengintegrasikan hasil seleksi kompetensi dasar dan bidang",
+        "Menetapkan hasil seleksi akhir untuk diusulkan kepada Menteri",
+        "Mengawasi pelaksanaan seleksi kompetensi dasar",
+        "Menyusun anggaran pelaksanaan seleksi",
+        "Menetapkan kuota kelulusan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 67,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 48 ayat (2) menyebutkan bahwa nomenklatur jabatan dan pangkat JPT pratama, JA, dan JF untuk masing-masing satuan organisasi instansi pemerintah ditetapkan oleh?",
+      "options": [
+        "Pejabat Pembina Kepegawaian",
+        "Pimpinan Instansi Pemerintah",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Presiden",
+        "Menteri Keuangan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 68,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 14 ayat (1) menyebutkan bahwa jika kebutuhan PNS yang telah ditetapkan tidak seluruhnya direalisasikan, Menteri dapat mempertimbangkan sebagai tambahan usulan kebutuhan PNS untuk?",
+      "options": [
+        "Tahun berikutnya",
+        "Anggaran tahun depan",
+        "Instansi yang membutuhkan pegawai baru",
+        "Penyusunan anggaran instansi",
+        "Perubahan kebijakan nasional"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 69,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 27 ayat (3) menyebutkan bahwa dalam hal dokumen pelamaran tidak memenuhi persyaratan administrasi, pelamar dinyatakan?",
+      "options": [
+        "Tidak lulus seleksi administrasi",
+        "Diterima dengan syarat",
+        "Diikutkan dalam seleksi lanjutan",
+        "Diberi kesempatan untuk memperbaiki dokumen",
+        "Diberikan pelatihan administratif"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 70,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 51 ayat (2) menyebutkan bahwa pejabat pengawas bertanggung jawab untuk?",
+      "options": [
+        "Melaksanakan seluruh kegiatan yang direncanakan",
+        "Mengendalikan pelaksanaan kegiatan oleh pejabat pelaksana",
+        "Menetapkan rencana kerja dan anggaran",
+        "Mendukung kebijakan atasan terkait pekerjaan",
+        "Melaksanakan pengawasan eksternal"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 71,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 36 ayat (2) menyebutkan bahwa calon PNS yang telah memenuhi persyaratan diangkat menjadi PNS oleh?",
+      "options": [
+        "Pejabat Pembina Kepegawaian",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Kepala BKN",
+        "Pimpinan Instansi Pemerintah",
+        "Presiden"
+      ],
+      "correct_option_id": 3
+    },
+    {
+      "id": 72,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 44 ayat (2) mengatur bahwa berita acara pengambilan sumpah/janji dibuat rangkap tiga, dengan salinan diberikan kepada?",
+      "options": [
+        "PNS yang mengangkat sumpah, arsip instansi, dan arsip BKN",
+        "Pejabat yang mengangkat sumpah, arsip PNS, dan arsip BKN",
+        "Sekretaris jenderal, kepala BKN, dan pejabat instansi",
+        "Kepala instansi, pejabat yang mengangkat, dan PNS",
+        "Menteri dan pejabat pembina kepegawaian"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 73,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 5 ayat (3) menyebutkan bahwa penyusunan kebutuhan PNS harus mendukung?",
+      "options": [
+        "Pencapaian tujuan instansi pemerintah",
+        "Kebutuhan pegawai yang sudah pensiun",
+        "Perencanaan anggaran nasional",
+        "Sumber daya manusia yang tersedia",
+        "Rekrutmen pegawai baru setiap tahun"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 74,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 74 ayat (1) mengatur bahwa pengangkatan PNS ke dalam JF keahlian dan keterampilan dapat dilakukan melalui pengangkatan pertama, perpindahan jabatan, atau?",
+      "options": [
+        "Penyesuaian",
+        "Pemindahan",
+        "Pengadaan PNS",
+        "Rotasi jabatan",
+        "Rekrutmen terbuka"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 75,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 73 ayat (1) menyebutkan bahwa penetapan JF dilakukan oleh Menteri berdasarkan usulan dari?",
+      "options": [
+        "Pimpinan Instansi Pemerintah",
+        "Kepala BKN",
+        "Menteri Keuangan",
+        "Menteri Pendidikan",
+        "Menteri Pendayagunaan Aparatur Negara"
+      ],
+      "correct_option_id": 0
+    },
+	{
+      "id": 76,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 24 ayat (1) menyebutkan bahwa setiap pelamar wajib memenuhi dan menyampaikan semua persyaratan pelamaran yang tercantum dalam?",
+      "options": [
+        "Pengumuman seleksi",
+        "Dokumen administrasi",
+        "Panduan pendaftaran",
+        "Keputusan menteri",
+        "Formulir aplikasi"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 77,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 62 ayat (1) mengatur bahwa pengambilan sumpah/janji jabatan dituangkan dalam?",
+      "options": [
+        "Laporan resmi",
+        "Berita acara",
+        "Surat keputusan",
+        "Formulir administrasi",
+        "Pernyataan tertulis"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 78,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 55 ayat (4) menyebutkan bahwa kompetensi manajerial diukur dari tingkat pendidikan, pelatihan struktural, atau manajerial, serta pengalaman?",
+      "options": [
+        "Di bidang sosial budaya",
+        "Dalam kepemimpinan",
+        "Dalam pengelolaan anggaran",
+        "Dalam tugas fungsional",
+        "Dalam pelayanan publik"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 79,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 56 ayat (2) menyebutkan bahwa pengangkatan PNS dalam jabatan administrator harus berdasarkan pertimbangan dari?",
+      "options": [
+        "Tim penilai kinerja PNS di instansi pemerintah",
+        "Menteri Pendayagunaan Aparatur Negara",
+        "Pejabat Pembina Kepegawaian",
+        "Pimpinan Instansi Pemerintah",
+        "Kepala BKN"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 80,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 68 ayat (1) mengatur bahwa jabatan fungsional memiliki tugas memberikan pelayanan fungsional berdasarkan?",
+      "options": [
+        "Keahlian dan keterampilan tertentu",
+        "Kompetensi manajerial dan teknis",
+        "Pengalaman administrasi pemerintahan",
+        "Keterampilan dalam pelayanan publik",
+        "Kreativitas dan inovasi"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 81,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 77 ayat (2) menyebutkan bahwa pengangkatan dalam jabatan fungsional keahlian melalui penyesuaian dapat dilakukan apabila PNS memiliki pengalaman dan masih menjalankan tugas di bidang?",
+      "options": [
+        "Keahlian fungsional sesuai keputusan Pejabat Pembina Kepegawaian",
+        "Jabatan pelaksana yang terkait dengan administrasi",
+        "Jabatan strategis di instansi pemerintah",
+        "Bidang teknis yang terkait dengan tugas pemerintahan",
+        "Keahlian dalam bidang pendidikan dan pelatihan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 82,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 9 ayat (2) mengatur bahwa rincian penyusunan kebutuhan PNS setiap tahun disampaikan oleh PPK Instansi Pemerintah kepada Menteri dan Kepala BKN paling lambat?",
+      "options": [
+        "Akhir bulan Januari",
+        "Akhir bulan Maret",
+        "Akhir bulan Juni",
+        "Akhir bulan September",
+        "Akhir bulan Oktober"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 83,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 34 ayat (3) menyebutkan bahwa masa percobaan calon PNS dilaksanakan melalui proses pendidikan dan pelatihan yang dilakukan secara?",
+      "options": [
+        "Mandiri oleh instansi terkait",
+        "Terintegrasi untuk membangun integritas moral",
+        "Terpisah dengan ujian kompetensi",
+        "Bersamaan dengan pelatihan lanjutan",
+        "Didasarkan pada keahlian jabatan"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 84,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 50 ayat (2) menyebutkan bahwa pejabat administrator bertanggung jawab untuk memastikan terlaksananya?",
+      "options": [
+        "Peningkatan kualitas administrasi",
+        "Seluruh kegiatan sesuai standar operasional prosedur",
+        "Penyusunan laporan tahunan",
+        "Pengelolaan anggaran pegawai",
+        "Penempatan pegawai di unit kerja"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 85,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 25 menyebutkan bahwa penyampaian persyaratan pelamaran diterima paling lambat?",
+      "options": [
+        "10 hari sebelum seleksi",
+        "15 hari sebelum seleksi",
+        "5 hari sebelum seleksi",
+        "3 hari sebelum seleksi",
+        "7 hari sebelum seleksi"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 86,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 33 ayat (2) mengatur bahwa calon PNS wajib menjalani masa percobaan selama berapa lama?",
+      "options": [
+        "6 bulan",
+        "1 tahun",
+        "2 tahun",
+        "6 bulan sampai 1 tahun",
+        "Sesuai ketentuan instansi"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 87,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 18 ayat (3) mengatur bahwa panitia seleksi nasional pengadaan PNS bertugas untuk?",
+      "options": [
+        "Mengawasi pelaksanaan seleksi kompetensi dasar",
+        "Menyusun soal seleksi kompetensi bidang",
+        "Mengkoordinasikan instansi pembina JF dalam menyusun materi seleksi",
+        "Melaksanakan ujian kompetensi dasar dan bidang",
+        "Menetapkan ambang batas kelulusan seleksi"
+      ],
+      "correct_option_id": 2
+    },
+    {
+      "id": 88,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 69 ayat (4) menyebutkan bahwa jenjang JF ahli utama melaksanakan tugas dan fungsi utama yang mensyaratkan kualifikasi profesional tingkat?",
+      "options": [
+        "Tertinggi",
+        "Tinggi",
+        "Menengah",
+        "Dasar",
+        "Lanjudan"
+      ],
+      "correct_option_id": 0
+    },
+    {
+      "id": 89,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 63 ayat (1) mengatur bahwa pengambilan sumpah jabatan pejabat administrasi dilakukan dalam upacara?",
+      "options": [
+        "Terbuka",
+        "Khidmat",
+        "Formal",
+        "Instansi",
+        "Keluarga"
+      ],
+      "correct_option_id": 1
+    },
+    {
+      "id": 90,
+      "chat_id": "-1002199224078",
+      "question": "Pasal 47 ayat (2) menyebutkan bahwa jabatan PNS terdiri atas jabatan administrasi, fungsional, dan?",
+      "options": [
+        "Jabatan pelaksana",
+        "Jabatan struktural",
+        "Jabatan pimpinan tinggi",
+        "Jabatan teknis",
+        "Jabatan pengawas"
+      ],
+      "correct_option_id": 2
+    }
+  ]
 }
